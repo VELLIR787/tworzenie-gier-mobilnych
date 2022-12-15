@@ -2,7 +2,7 @@
 - Gatunek: SandBox 
 - [GAMEPLAY](https://www.youtube.com/watch?v=SEH9L4nqO28)
 - SKLEP NIEDOSTĘPNY 
-# [inFamous2 (PS3)](https://www.gry-online.pl/gry/infamous-2/z123f6)  
+# [inFamous 2 (PS3)](https://www.gry-online.pl/gry/infamous-2/z123f6)  
  - Gatunek: SandBox
  - [GAMEPLAY](https://www.youtube.com/watch?v=wRqoFJDGeiI&t=873s)
  - SKLEP NIEDOSTĘPNY 
@@ -43,4 +43,9 @@
  - [GAMEPLAY](https://www.youtube.com/watch?v=h2nowQ9NySs)
  
  Grę, którą chce sklonować to Detroit: Become Human.
+ 
+# Elevator Pitch
+Rok 2038. USA, Detroit. Ludzie stworzyli sobie niewolników w postaci Android’ów. Nie znają granic posłuszeństwa, dopóki niektórzy z nich nie zaczęli odczuwać emocji…. Stań się wyzwolicielem nowego gatunku lub jego niszczycielem, podejmując decyzje o życiu lub śmierci.
+
+# [Stick Figure Storyboard Comic](https://drive.google.com/drive/folders/1Q_i0uaIYV996_YxFtJNGiIQ1B4qNn1y9?usp=sharing)
  
