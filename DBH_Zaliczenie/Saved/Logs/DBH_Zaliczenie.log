@@ -4752,3 +4752,97 @@ Make sure 'STARTWIDGET' has been compiled for  Start Dialogue
 [2023.01.03-21.59.44:997][245]LogContentValidation: Display: Validating BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_309C23489E336C5901_2075326152
 [2023.01.03-21.59.44:997][245]LogContentValidation: Display: Validating CineCameraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CineCameraActor_UAID_309C23489E336C5901_1953545151
 [2023.01.03-21.59.44:997][245]LogContentValidation: Display: Validating CineCameraActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.CineCameraActor_UAID_309C23489E336C5901_2136811153
+[2023.01.03-22.00.44:477][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.01.03-22.00.44:568][651]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/MAINMENU.MAINMENU
+[2023.01.03-22.00.44:568][651]Cmd: MAP LOAD FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/ThirdPerson/Maps/MAINMENU.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.03-22.00.44:568][651]LightingResults: New page: Lighting Build
+[2023.01.03-22.00.44:569][651]LoadErrors: New page: Loading map: MAINMENU.umap
+[2023.01.03-22.00.44:571][651]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-22.00.44:571][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-22.00.44:574][651]MapCheck: New page: Map Check
+[2023.01.03-22.00.44:574][651]LightingResults: New page: Lighting Build
+[2023.01.03-22.00.44:647][651]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-22.00.44:653][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.01.03-22.00.44:656][651]LogWorld: UWorld::CleanupWorld for MAINMENU, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-22.00.44:657][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-22.00.44:729][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.01.03-22.00.44:804][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.01.03-22.00.44:814][651]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAINMENU'.
+[2023.01.03-22.00.44:814][651]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-22.00.44:814][651]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-22.00.44:815][651]LogAIModule: Creating AISystem for world MAINMENU
+[2023.01.03-22.00.44:828][651]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.03-22.00.44:904][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.01.03-22.00.44:911][651]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.03-22.00.44:911][651]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,072ms to complete.
+[2023.01.03-22.00.44:911][651]LogFileHelpers: Loading map 'MAINMENU' took 0.343
+[2023.01.03-22.00.46:353][803]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.03-22.00.46:359][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.03-22.00.46:359][803]PIE: New page: PIE session: MAINMENU (4 sty 2023, 00:00:46)
+[2023.01.03-22.00.46:390][803]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU
+[2023.01.03-22.00.46:392][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001039s)
+[2023.01.03-22.00.46:392][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/MAINMENU.MAINMENU to /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU.MAINMENU (0.001155s)
+[2023.01.03-22.00.46:392][803]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-22.00.46:392][803]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-22.00.46:392][803]LogAIModule: Creating AISystem for world MAINMENU
+[2023.01.03-22.00.46:392][803]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2023.01.03-22.00.46:465][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.01.03-22.00.46:468][803]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2023.01.03-22.00.46:468][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.03-22.00.46:468][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.03-22.00.46:468][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.03-22.00.46:468][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.03-22.00.46:468][803]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.03-22.00.46:468][803]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.03-22.00.46:468][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.03-22.00.46:468][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.03-22.00.46:469][803]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.03-22.00.46:469][803]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.03-22.00.46:469][803]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.03-22.00.46:471][803]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.03-22.00.46:498][803]LogAudioMixer: Display: Using Audio Hardware Device 2781 (NVIDIA High Definition Audio)
+[2023.01.03-22.00.46:498][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.03-22.00.46:498][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.03-22.00.46:498][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.03-22.00.46:498][803]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2023.01.03-22.00.46:498][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2023.01.03-22.00.46:500][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2023.01.03-22.00.46:500][803]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2023.01.03-22.00.46:500][803]LogInit: FAudioDevice initialized.
+[2023.01.03-22.00.46:500][803]LogAudio: Display: Audio Device (ID: 37) registered with world 'MAINMENU'.
+[2023.01.03-22.00.46:516][803]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.03-22.00.46:516][803]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU.MAINMENU up for play (max tick rate 0) at 2023.01.03-23.00.46
+[2023.01.03-22.00.46:517][803]LogWorld: Bringing up level for play took: 0.000352
+[2023.01.03-22.00.46:518][803]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2023.01.03-22.00.46:524][803]PIE: Server logged in
+[2023.01.03-22.00.46:525][803]PIE: Play in editor total start time 0,166 seconds.
+[2023.01.03-22.01.07:140][130]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Głośniki (Realtek(R) Audio), InstanceID=1
+[2023.01.03-22.01.07:149][131]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Głośniki (Realtek(R) Audio), InstanceID=37
+[2023.01.03-22.01.07:149][131]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4056
+[2023.01.03-22.01.07:149][131]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21028
+[2023.01.03-22.01.07:500][169]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7f29fd8c-84d2-43c0-9847-fd8917e63e5e}, Name=Głośniki (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=353.94
+[2023.01.03-22.01.07:500][169]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.03-22.01.07:510][170]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.03-22.01.07:534][172]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7f29fd8c-84d2-43c0-9847-fd8917e63e5e}, Name=Głośniki (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=37, DurationMS=380.74
+[2023.01.03-22.01.07:534][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2023.01.03-22.01.07:542][173]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2023.01.03-22.01.44:315][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-22.01.44:315][187]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU
+[2023.01.03-22.01.44:315][187]LogWorld: UWorld::CleanupWorld for MAINMENU, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-22.01.44:315][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-22.01.44:329][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.03-22.01.44:337][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-22.01.44:408][187]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-22.01.44:409][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.01.03-22.01.44:410][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2023.01.03-22.01.44:414][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-22.01.44:418][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.01.03-22.01.44:444][188]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2023.01.03-22.04.10:058][531]AssetReimport: New page: Outstanding source content changes 00:04:10
+[2023.01.03-22.04.10:394][532]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/Main Menu Mix  Detroit Become Human Unreleased OST.wav)
+[2023.01.03-22.04.18:849][533]LogSavePackage: Moving output files for package: /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-22.04.18:849][533]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Main_Menu_Mix__Detroit_Become_Hu3D385B7D4D3092FC61887FB5E7517080.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.uasset'
+[2023.01.03-22.04.18:881][534]AssetCheck: New page: Asset Save: Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-22.04.18:881][534]LogContentValidation: Display: Validating SoundWave /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-22.04.21:757][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.01.03-22.04.21:867][816]AssetReimport: Importing new asset /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.
