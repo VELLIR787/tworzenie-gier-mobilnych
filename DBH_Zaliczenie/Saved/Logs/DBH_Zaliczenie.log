@@ -3280,3 +3280,16 @@ Make sure 'BP_Antagonist_C' has been compiled for  Get Dialogue
 [2023.01.03-18.45.54:250][886]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Antagonist/Antagonist_AI.Antagonist_AI
 [2023.01.03-18.45.54:251][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.01.03-18.45.54:675][886]LogViewport: Scene viewport resized to 1077x686, mode Windowed.
+[2023.01.03-18.46.49:849][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.01.03-18.46.49:912][404]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1
+[2023.01.03-18.46.49:912][404]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/66SAEXGOII5USWPHE66AE168A18CD546AACD869BE9119153CA1A1D.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1.uasset'
+[2023.01.03-18.46.49:920][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/DialogueWidget" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/DialogueWidget.uasset" SILENT=true
+[2023.01.03-18.46.49:930][404]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/DialogueWidget
+[2023.01.03-18.46.49:930][404]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueWidget1195453348CCD88C44166BB19DC542BA.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/DialogueWidget.uasset'
+[2023.01.03-18.46.49:931][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Antagonist/Antagonist_AI" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/Antagonist_AI.uasset" SILENT=true
+[2023.01.03-18.46.49:934][404]LogSavePackage: Moving output files for package: /Game/Antagonist/Antagonist_AI
+[2023.01.03-18.46.49:934][404]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Antagonist_AI88D3DB914C8617637F4FD88058A6F93B.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/Antagonist_AI.uasset'
+[2023.01.03-18.46.49:956][404]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-18.46.49:956][404]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/DialogueWidget.DialogueWidget
+[2023.01.03-18.46.49:956][404]LogContentValidation: Display: Validating BP_Antagonist_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Antagonist_C_UAID_309C23489E33FD5801_1164782616
+[2023.01.03-18.46.49:956][404]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/Antagonist_AI.Antagonist_AI
