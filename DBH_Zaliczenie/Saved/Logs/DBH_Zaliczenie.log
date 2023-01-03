@@ -1312,3 +1312,9 @@ Recommended: 516.25
 [2023.01.03-11.27.11:937][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
 [2023.01.03-11.33.44:582][983]LogDerivedDataCache: C:/Users/MK170/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.893 and deleted 0 file(s) with total size 0 MiB.
 [2023.01.03-12.00.06:228][261]LogIOSDeviceHelper: Warning: Could not pair with connected iOS/tvOS device. Trust this computer by accepting the popup on device.
+[2023.01.03-12.03.52:228][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.01.03-12.03.52:282][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interfaces/Interact_Interface" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Interfaces/Interact_Interface.uasset" SILENT=true
+[2023.01.03-12.03.52:283][860]LogSavePackage: Moving output files for package: /Game/Interfaces/Interact_Interface
+[2023.01.03-12.03.52:283][860]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Interact_InterfaceF8B0CB824AB13FA5741326A111640ECC.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Interfaces/Interact_Interface.uasset'
+[2023.01.03-12.03.52:299][860]AssetCheck: New page: Asset Save: Interact_Interface
+[2023.01.03-12.03.52:299][860]LogContentValidation: Display: Validating Blueprint /Game/Interfaces/Interact_Interface.Interact_Interface
