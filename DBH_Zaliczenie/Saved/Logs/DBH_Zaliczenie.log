@@ -3326,3 +3326,12 @@ Make sure 'BP_Antagonist_C' has been compiled for  Get Dialogue
 [2023.01.03-18.49.08:826][727]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_Antagonist12853D994D0CBAB4EAFCB98C2915584E.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset'
 [2023.01.03-18.49.08:844][727]AssetCheck: New page: Asset Save: BP_Antagonist
 [2023.01.03-18.49.08:844][727]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
+[2023.01.03-18.50.37:634][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.01.03-18.50.37:696][610]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1
+[2023.01.03-18.50.37:696][610]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/66SAEXGOII5USWPHE66AE1F537085546C12BC90CBBFE88191DF1B6.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1.uasset'
+[2023.01.03-18.50.37:748][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Antagonist/BP_Antagonist" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset" SILENT=true
+[2023.01.03-18.50.37:762][610]LogSavePackage: Moving output files for package: /Game/Antagonist/BP_Antagonist
+[2023.01.03-18.50.37:762][610]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_AntagonistAD339B69404FBD9ACCBECD9A4A0FE366.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset'
+[2023.01.03-18.50.37:780][610]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-18.50.37:780][610]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
+[2023.01.03-18.50.37:780][610]LogContentValidation: Display: Validating BP_Antagonist_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Antagonist_C_UAID_309C23489E33FD5801_1164782616
