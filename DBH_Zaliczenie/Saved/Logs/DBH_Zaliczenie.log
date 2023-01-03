@@ -921,3 +921,394 @@ Recommended: 516.25
 [2023.01.03-10.37.38:967][293]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/MENU_START.MENU_START
 [2023.01.03-10.37.38:967][293]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/MAINMENU.MAINMENU
 [2023.01.03-10.37.40:836][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.01.03-10.38.07:520][211]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.03-10.38.08:459][284]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/MAINMENU.MAINMENU:PersistentLevel.MAINMENU
+[2023.01.03-10.38.08:460][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-10.38.27:420][323]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.03-10.38.30:580][674]BlueprintLog: New page: Compile MAINMENU
+[2023.01.03-10.38.30:637][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.01.03-10.38.31:213][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.03-10.38.31:217][724]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/MAINMENU
+[2023.01.03-10.38.31:217][724]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/MAINMENU3C8B59354FB6E8C96C4FD1BF350F1E1F.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/ThirdPerson/Maps/MAINMENU.umap'
+[2023.01.03-10.38.31:223][724]LogFileHelpers: Saving map 'MAINMENU' took 0.063
+[2023.01.03-10.38.31:239][724]AssetCheck: New page: Asset Save: MAINMENU
+[2023.01.03-10.38.31:239][724]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/MAINMENU.MAINMENU
+[2023.01.03-10.38.32:051][812]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.03-10.38.32:056][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.03-10.38.32:056][812]PIE: New page: PIE session: MAINMENU (3 sty 2023, 12:38:32)
+[2023.01.03-10.38.32:057][812]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU
+[2023.01.03-10.38.32:060][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002751s)
+[2023.01.03-10.38.32:060][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/MAINMENU.MAINMENU to /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU.MAINMENU (0.002846s)
+[2023.01.03-10.38.32:060][812]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-10.38.32:060][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-10.38.32:061][812]LogAIModule: Creating AISystem for world MAINMENU
+[2023.01.03-10.38.32:061][812]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2023.01.03-10.38.32:115][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.01.03-10.38.32:115][812]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.01.03-10.38.32:115][812]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.03-10.38.32:115][812]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.03-10.38.32:115][812]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.03-10.38.32:115][812]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.03-10.38.32:115][812]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.03-10.38.32:115][812]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.03-10.38.32:115][812]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.03-10.38.32:115][812]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.03-10.38.32:116][812]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.03-10.38.32:116][812]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.03-10.38.32:116][812]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.03-10.38.32:117][812]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.03-10.38.32:152][812]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.03-10.38.32:152][812]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.03-10.38.32:152][812]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.03-10.38.32:152][812]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.03-10.38.32:154][812]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.01.03-10.38.32:154][812]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.01.03-10.38.32:155][812]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.01.03-10.38.32:155][812]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.01.03-10.38.32:155][812]LogInit: FAudioDevice initialized.
+[2023.01.03-10.38.32:155][812]LogAudio: Display: Audio Device (ID: 3) registered with world 'MAINMENU'.
+[2023.01.03-10.38.32:166][812]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.03-10.38.32:166][812]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU.MAINMENU up for play (max tick rate 0) at 2023.01.03-11.38.32
+[2023.01.03-10.38.32:166][812]LogWorld: Bringing up level for play took: 0.000290
+[2023.01.03-10.38.32:168][812]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.01.03-10.38.32:173][812]PIE: Server logged in
+[2023.01.03-10.38.32:174][812]PIE: Play in editor total start time 0,118 seconds.
+[2023.01.03-10.38.39:239][651]Cmd: LevelEditor.ToggleImmersive
+[2023.01.03-10.38.39:254][651]LogViewport: Scene viewport resized to 750x445, mode Windowed.
+[2023.01.03-10.38.39:284][651]LogViewport: Scene viewport resized to 750x445, mode Windowed.
+[2023.01.03-10.38.39:307][651]LogViewport: Scene viewport resized to 750x445, mode Windowed.
+[2023.01.03-10.38.39:339][651]LogViewport: Scene viewport resized to 1643x940, mode Windowed.
+[2023.01.03-10.38.39:368][652]LogViewport: Scene viewport resized to 1919x1032, mode Windowed.
+[2023.01.03-10.38.39:417][653]LogViewport: Scene viewport resized to 1920x1032, mode Windowed.
+[2023.01.03-10.38.46:363][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-10.38.46:363][478]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU
+[2023.01.03-10.38.46:363][478]LogWorld: UWorld::CleanupWorld for MAINMENU, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-10.38.46:363][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-10.38.46:392][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.03-10.38.46:398][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-10.38.46:449][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-10.38.46:449][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.01.03-10.38.46:451][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.01.03-10.38.46:457][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.01.03-10.38.46:483][479]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.01.03-10.39.11:850][369]BlueprintLog: New page: Compile MAINMENU
+[2023.01.03-10.39.11:922][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.01.03-10.39.15:691][807]LogEditorViewport: Clicking Background
+[2023.01.03-10.39.15:895][829]LogViewport: Scene viewport resized to 1860x1012, mode Windowed.
+[2023.01.03-10.39.15:917][830]LogViewport: Scene viewport resized to 1748x975, mode Windowed.
+[2023.01.03-10.39.15:954][831]LogViewport: Scene viewport resized to 1618x932, mode Windowed.
+[2023.01.03-10.39.15:997][832]LogViewport: Scene viewport resized to 1538x905, mode Windowed.
+[2023.01.03-10.39.16:037][833]LogViewport: Scene viewport resized to 1510x896, mode Windowed.
+[2023.01.03-10.39.16:079][834]LogViewport: Scene viewport resized to 1504x894, mode Windowed.
+[2023.01.03-10.39.17:010][935]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-RGN4TNV
+[2023.01.03-10.39.17:010][935]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/DBH_Zaliczenie.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Intermediate/TurnkeyReport_1.log" -log="D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Intermediate/TurnkeyLog_1.log" -project="D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/DBH_Zaliczenie.uproject"  -Device=Win64@DESKTOP-RGN4TNV'
+[2023.01.03-10.39.17:010][935]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/DBH_Zaliczenie.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Intermediate/TurnkeyReport_1.log" -log="D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Intermediate/TurnkeyLog_1.log" -project="D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/DBH_Zaliczenie.uproject"  -Device=Win64@DESKTOP-RGN4TNV" -nocompile ]
+[2023.01.03-10.39.17:846][ 23]LogTurnkeySupport: Completed device detection: Code = 0
+[2023.01.03-10.39.17:846][ 23]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-RGN4TNV: (Name=DESKTOP-RGN4TNV, Status=Valid, Installed=10.0.22000.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2023.01.03-10.39.18:346][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.01.03-10.39.19:983][ 75]LogSlate: Window 'Save Content' being destroyed
+[2023.01.03-10.39.20:092][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.01.03-10.39.20:096][ 75]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/MAINMENU
+[2023.01.03-10.39.20:097][ 75]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/MAINMENU83C94FDE4D89815626641A90622E5C3C.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/ThirdPerson/Maps/MAINMENU.umap'
+[2023.01.03-10.39.20:103][ 75]LogFileHelpers: Saving map 'MAINMENU' took 0.062
+[2023.01.03-10.39.20:158][ 76]AssetCheck: New page: Asset Save: MAINMENU
+[2023.01.03-10.39.20:158][ 76]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/MAINMENU.MAINMENU
+[2023.01.03-10.42.27:903][219]BlueprintLog: New page: Compile MAINMENU
+[2023.01.03-10.42.27:980][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.01.03-10.42.28:846][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.01.03-10.42.28:851][301]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/MAINMENU
+[2023.01.03-10.42.28:851][301]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/MAINMENU04FA94CD464AE0294906E29C196FE8DA.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/ThirdPerson/Maps/MAINMENU.umap'
+[2023.01.03-10.42.28:857][301]LogFileHelpers: Saving map 'MAINMENU' took 0.064
+[2023.01.03-10.42.28:874][301]AssetCheck: New page: Asset Save: MAINMENU
+[2023.01.03-10.42.28:874][301]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/MAINMENU.MAINMENU
+[2023.01.03-10.42.29:756][402]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.01.03-10.42.29:814][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.01.03-10.42.58:870][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.01.03-10.49.08:489][140]AssetReimport: New page: Outstanding source content changes 12:49:08
+[2023.01.03-10.49.08:823][141]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/Main Menu Mix  Detroit Become Human Unreleased OST.wav)
+[2023.01.03-10.49.16:991][142]LogSavePackage: Moving output files for package: /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-10.49.16:991][142]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Main_Menu_Mix__Detroit_Become_Hu0415B9BE4CB3208FFA7C4B8401526B53.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.uasset'
+[2023.01.03-10.49.17:041][143]AssetCheck: New page: Asset Save: Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-10.49.17:041][143]LogContentValidation: Display: Validating SoundWave /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-10.49.20:002][467]AssetReimport: Importing new asset /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.
+[2023.01.03-10.49.21:438][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.01.03-10.49.42:988][583]LogContentBrowser: Deferred new asset file creation: NewSoundClass
+[2023.01.03-10.49.42:996][583]LogContentBrowser: Creating deferred item: NewSoundClass
+[2023.01.03-10.49.43:009][584]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundClass).
+[2023.01.03-10.49.46:790][ 25]LogContentBrowser: Attempting asset rename: NewSoundClass -> MAINMENU
+[2023.01.03-10.49.46:791][ 25]LogContentBrowser: End creating deferred item NewSoundClass
+[2023.01.03-10.49.47:799][139]LogAssetEditorSubsystem: Opening Asset editor for SoundClass /Game/Sound/MAINMENU.MAINMENU
+[2023.01.03-10.50.12:205][463]LogContentBrowser: Deferred new asset file creation: NewSoundMix
+[2023.01.03-10.50.12:213][463]LogContentBrowser: Creating deferred item: NewSoundMix
+[2023.01.03-10.50.12:225][464]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundMix).
+[2023.01.03-10.50.12:598][508]LogContentBrowser: Attempting asset rename: NewSoundMix -> NewSoundMix
+[2023.01.03-10.50.12:598][508]LogContentBrowser: End creating deferred item NewSoundMix
+[2023.01.03-10.50.13:171][573]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Sound/NewSoundMix.NewSoundMix
+[2023.01.03-10.50.33:931][969]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.03-10.50.33:931][969]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.03-10.50.39:367][604]LogContentBrowser: Attempting asset rename: NewSoundMix -> MAINMENU1
+[2023.01.03-10.50.39:447][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/MAINMENU1" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/MAINMENU1.uasset" SILENT=true
+[2023.01.03-10.50.39:448][604]LogSavePackage: Moving output files for package: /Game/Sound/MAINMENU1
+[2023.01.03-10.50.39:448][604]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/MAINMENU136A35CA742F3FF9A8889A0981AE7D8CE.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/MAINMENU1.uasset'
+[2023.01.03-10.50.39:534][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.01.03-10.50.39:590][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.01.03-10.50.39:645][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.01.03-10.50.39:653][604]AssetCheck: New page: Asset Save: MAINMENU1
+[2023.01.03-10.50.39:653][604]LogContentValidation: Display: Validating SoundMix /Game/Sound/MAINMENU1.MAINMENU1
+[2023.01.03-10.51.01:961][ 94]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-10.51.08:052][723]LogSavePackage: Moving output files for package: /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-10.51.08:053][723]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Main_Menu_Mix__Detroit_Become_HuCBABE10148332B3BE56F05A4A4F8A667.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.uasset'
+[2023.01.03-10.51.08:081][723]AssetCheck: New page: Asset Save: Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-10.51.08:081][723]LogContentValidation: Display: Validating SoundWave /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-10.51.12:793][263]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.01.03-10.51.12:852][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.01.03-10.51.13:861][263]LogSlate: Window 'Save Content' being destroyed
+[2023.01.03-10.51.13:946][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/MAINMENU" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/MAINMENU.uasset" SILENT=true
+[2023.01.03-10.51.13:946][263]LogSavePackage: Moving output files for package: /Game/Sound/MAINMENU
+[2023.01.03-10.51.13:946][263]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/MAINMENUDB25907540CDD3A24C31A0B9B2306001.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/MAINMENU.uasset'
+[2023.01.03-10.51.14:000][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.01.03-10.51.14:004][263]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/MAINMENU
+[2023.01.03-10.51.14:005][263]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/MAINMENU7A89444847D83BD9C927DD90A6D7AA3C.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/ThirdPerson/Maps/MAINMENU.umap'
+[2023.01.03-10.51.14:021][263]LogFileHelpers: Saving map 'MAINMENU' took 0.074
+[2023.01.03-10.51.14:021][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/MAINMENU1" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/MAINMENU1.uasset" SILENT=true
+[2023.01.03-10.51.14:022][263]LogSavePackage: Moving output files for package: /Game/Sound/MAINMENU1
+[2023.01.03-10.51.14:022][263]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/MAINMENU1F9DD27844B7C2E089DFB1D9BF4FCE46A.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/MAINMENU1.uasset'
+[2023.01.03-10.51.14:051][264]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-10.51.14:051][264]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/MAINMENU.MAINMENU
+[2023.01.03-10.51.14:052][264]LogContentValidation: Display: Validating SoundMix /Game/Sound/MAINMENU1.MAINMENU1
+[2023.01.03-10.51.14:052][264]LogContentValidation: Display: Validating SoundClass /Game/Sound/MAINMENU.MAINMENU
+[2023.01.03-10.52.01:965][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/MAINMENU1" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/MAINMENU1.uasset" SILENT=true
+[2023.01.03-10.52.01:965][321]LogSavePackage: Moving output files for package: /Game/Sound/MAINMENU1
+[2023.01.03-10.52.01:965][321]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/MAINMENU141907B81401A7A78539D2BAB3EE8AB49.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/MAINMENU1.uasset'
+[2023.01.03-10.52.01:981][321]AssetCheck: New page: Asset Save: MAINMENU1
+[2023.01.03-10.52.01:981][321]LogContentValidation: Display: Validating SoundMix /Game/Sound/MAINMENU1.MAINMENU1
+[2023.01.03-10.53.17:599][997]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.01.03-10.53.17:663][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.01.03-10.53.19:168][997]LogSlate: Window 'Save Content' being destroyed
+[2023.01.03-10.53.19:458][997]LogSavePackage: Moving output files for package: /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-10.53.19:458][997]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Main_Menu_Mix__Detroit_Become_HuB10516D24D0E9A1F0D11FFB2362A6A04.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.uasset'
+[2023.01.03-10.53.19:470][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/MAINMENU" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/MAINMENU.uasset" SILENT=true
+[2023.01.03-10.53.19:470][997]LogSavePackage: Moving output files for package: /Game/Sound/MAINMENU
+[2023.01.03-10.53.19:471][997]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/MAINMENUA9EC01154EFFFDB6B35EF39BE2F756A2.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/MAINMENU.uasset'
+[2023.01.03-10.53.19:501][998]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-10.53.19:501][998]LogContentValidation: Display: Validating SoundClass /Game/Sound/MAINMENU.MAINMENU
+[2023.01.03-10.53.19:501][998]LogContentValidation: Display: Validating SoundWave /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-11.01.03:715][ 73]AssetReimport: New page: Outstanding source content changes 13:01:03
+[2023.01.03-11.01.03:716][ 73]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/HoveredSound.wav)
+[2023.01.03-11.01.12:723][ 73]LogSlate: Window 'Message' being destroyed
+[2023.01.03-11.01.12:840][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/HoveredSound" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/HoveredSound.uasset" SILENT=true
+[2023.01.03-11.01.12:841][ 74]LogSavePackage: Moving output files for package: /Game/Sound/HoveredSound
+[2023.01.03-11.01.12:841][ 74]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/HoveredSound18C05A074CF36D6425E393B1885FE720.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/HoveredSound.uasset'
+[2023.01.03-11.01.12:872][ 75]AssetCheck: New page: Asset Save: HoveredSound
+[2023.01.03-11.01.12:872][ 75]LogContentValidation: Display: Validating SoundWave /Game/Sound/HoveredSound.HoveredSound
+[2023.01.03-11.01.15:884][196]AssetReimport: Importing new asset /Game/Sound/HoveredSound.
+[2023.01.03-11.03.57:850][946]AssetReimport: New page: Outstanding source content changes 13:03:57
+[2023.01.03-11.03.57:904][947]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/PressedSound.wav)
+[2023.01.03-11.03.59:471][947]LogSlate: Window 'Message' being destroyed
+[2023.01.03-11.03.59:592][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/PressedSound" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/PressedSound.uasset" SILENT=true
+[2023.01.03-11.03.59:593][948]LogSavePackage: Moving output files for package: /Game/Sound/PressedSound
+[2023.01.03-11.03.59:593][948]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/PressedSound8247688C4DADC79916931298C6E9DCD0.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/PressedSound.uasset'
+[2023.01.03-11.03.59:621][949]AssetCheck: New page: Asset Save: PressedSound
+[2023.01.03-11.03.59:621][949]LogContentValidation: Display: Validating SoundWave /Game/Sound/PressedSound.PressedSound
+[2023.01.03-11.04.02:893][ 60]AssetReimport: Importing new asset /Game/Sound/PressedSound.
+[2023.01.03-11.04.50:828][ 49]BlueprintLog: New page: Compile MENU_START
+[2023.01.03-11.04.50:893][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.01.03-11.04.51:340][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/MENU_START" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/MENU_START.uasset" SILENT=true
+[2023.01.03-11.04.51:345][ 69]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/MENU_START
+[2023.01.03-11.04.51:346][ 69]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/MENU_START70B72536473BA4F2DCCF1E8BBB13E1FA.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/MENU_START.uasset'
+[2023.01.03-11.04.51:363][ 69]AssetCheck: New page: Asset Save: MENU_START
+[2023.01.03-11.04.51:363][ 69]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/MENU_START.MENU_START
+[2023.01.03-11.05.56:430][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.01.03-11.06.02:694][916]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.01.03-11.06.02:754][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.01.03-11.06.03:075][946]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.01.03-11.06.03:136][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.01.03-11.07.10:142][893]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.03-11.07.10:164][893]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.03-11.07.10:175][894]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.03-11.07.17:698][730]LogContentBrowser: Attempting asset rename: NewFolder -> LoadingScreen
+[2023.01.03-11.07.17:699][730]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.03-11.08.18:762][128]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:/Users/MK170/Music/Cigarettes/Detroit Become Human - Menu BG Loop.mp3)
+[2023.01.03-11.08.21:901][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.01.03-11.08.21:902][451]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MAINMENU' took 0.060
+[2023.01.03-11.08.21:903][451]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LoadingScreen/Detroit_Become_Human_-_Menu_BG_Loop] ([1] browsable assets)...
+[2023.01.03-11.08.21:903][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/LoadingScreen/Detroit_Become_Human_-_Menu_BG_Loop]
+[2023.01.03-11.08.21:903][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LoadingScreen/Detroit_Become_Human_-_Menu_BG_Loop_Auto1
+[2023.01.03-11.08.21:903][451]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Detroit_Become_Human_-_Menu_BG_LEF6F56494A11AE2F5A6B93B634073000.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/LoadingScreen/Detroit_Become_Human_-_Menu_BG_Loop_Auto1.uasset'
+[2023.01.03-11.08.21:904][451]LogFileHelpers: Auto-saving content packages took 0.001
+[2023.01.03-11.08.24:711][769]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/LoadingScreen/Detroit_Become_Human_-_Menu_BG_Loop.Detroit_Become_Human_-_Menu_BG_Loop
+[2023.01.03-11.08.47:656][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.01.03-11.08.48:373][441]LogSlate: Window 'Save Content' being destroyed
+[2023.01.03-11.08.48:441][441]LogSavePackage: Moving output files for package: /Game/LoadingScreen/Detroit_Become_Human_-_Menu_BG_Loop
+[2023.01.03-11.08.48:442][441]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Detroit_Become_Human_-_Menu_BG_LD8FCC34041C68CAE1D759EB69EFE1EEE.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/LoadingScreen/Detroit_Become_Human_-_Menu_BG_Loop.uasset'
+[2023.01.03-11.08.48:541][441]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.01.03-11.08.48:541][441]Cmd: MAP LOAD FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.03-11.08.48:541][441]LightingResults: New page: Lighting Build
+[2023.01.03-11.08.48:541][441]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2023.01.03-11.08.48:568][441]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-11.08.48:568][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-11.08.48:602][441]LogWorld: UWorld::CleanupWorld for MAINMENU, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-11.08.48:602][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-11.08.48:602][441]MapCheck: New page: Map Check
+[2023.01.03-11.08.48:602][441]LightingResults: New page: Lighting Build
+[2023.01.03-11.08.48:649][441]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-11.08.48:655][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.01.03-11.08.48:659][441]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-11.08.48:659][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-11.08.48:711][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.01.03-11.08.48:764][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.01.03-11.08.48:770][441]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.01.03-11.08.48:770][441]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-11.08.48:771][441]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.01.03-11.08.48:771][441]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.03-11.08.48:771][441]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.01.03-11.08.48:847][441]LogWorldPartition: Display: WorldPartition initialize took 77 ms
+[2023.01.03-11.08.48:934][441]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.03-11.08.48:993][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.01.03-11.08.48:997][441]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.03-11.08.48:998][441]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,139ms to complete.
+[2023.01.03-11.08.48:998][441]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.456
+[2023.01.03-11.08.49:020][441]AssetCheck: New page: Asset Save: Detroit_Become_Human_-_Menu_BG_Loop
+[2023.01.03-11.08.49:020][441]LogContentValidation: Display: Validating FileMediaSource /Game/LoadingScreen/Detroit_Become_Human_-_Menu_BG_Loop.Detroit_Become_Human_-_Menu_BG_Loop
+[2023.01.03-11.08.51:480][637]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2023.01.03-11.08.51:576][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.01.03-11.10.19:717][439]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-RGN4TNV
+[2023.01.03-11.10.20:459][503]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.03-11.10.20:459][503]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.03-11.10.20:459][503]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.03-11.10.20:459][503]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.03-11.10.20:459][503]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.03-11.10.20:459][503]LogWorldPartition: Display: GetPartitionedActors took 55 us
+[2023.01.03-11.10.20:459][503]LogWorldPartition: Display: GenerateStreaming took 197 us
+[2023.01.03-11.10.20:459][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.03-11.10.20:460][503]PIE: New page: PIE session: ThirdPersonMap (3 sty 2023, 13:10:20)
+[2023.01.03-11.10.20:460][503]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.01.03-11.10.20:463][503]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.01.03-11.10.20:463][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003666s)
+[2023.01.03-11.10.20:463][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003727s)
+[2023.01.03-11.10.20:464][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-11.10.20:464][503]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.01.03-11.10.20:464][503]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.03-11.10.20:464][503]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.03-11.10.20:465][503]LogWorldPartition: Display: WorldPartition initialize took 902 us
+[2023.01.03-11.10.20:465][503]LogPlayLevel: PIE: World Init took: (0.001901s)
+[2023.01.03-11.10.20:551][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.01.03-11.10.20:557][503]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.01.03-11.10.20:558][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.03-11.10.20:558][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.03-11.10.20:558][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.03-11.10.20:558][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.03-11.10.20:558][503]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.03-11.10.20:558][503]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.03-11.10.20:558][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.03-11.10.20:558][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.03-11.10.20:558][503]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.03-11.10.20:558][503]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.03-11.10.20:558][503]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.03-11.10.20:561][503]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.03-11.10.20:595][503]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.03-11.10.20:595][503]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.03-11.10.20:595][503]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.03-11.10.20:595][503]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.03-11.10.20:596][503]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.01.03-11.10.20:596][503]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.01.03-11.10.20:598][503]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.01.03-11.10.20:598][503]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.01.03-11.10.20:598][503]LogInit: FAudioDevice initialized.
+[2023.01.03-11.10.20:598][503]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2023.01.03-11.10.20:611][503]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.03-11.10.20:620][503]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.01.03-12.10.20
+[2023.01.03-11.10.20:620][503]LogWorld: Bringing up level for play took: 0.008734
+[2023.01.03-11.10.20:622][503]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.01.03-11.10.20:627][503]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.01.03-11.10.20:627][503]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.03-11.10.20:627][503]PIE: Server logged in
+[2023.01.03-11.10.20:628][503]PIE: Play in editor total start time 0,169 seconds.
+[2023.01.03-11.10.39:840][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-11.10.39:841][392]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.01.03-11.10.39:841][392]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-11.10.39:841][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-11.10.39:854][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.03-11.10.39:859][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-11.10.39:908][392]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-11.10.39:908][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.01.03-11.10.39:910][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.01.03-11.10.39:913][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-11.10.39:917][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.01.03-11.10.39:969][393]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.01.03-11.10.42:952][624]LogViewport: Scene viewport resized to 474x282, mode Windowed.
+[2023.01.03-11.10.44:012][682]Cmd: DELETE
+[2023.01.03-11.10.44:012][682]Cmd: ACTOR DELETE
+[2023.01.03-11.10.44:014][682]LogEditorActor: Deleted Actor: BP_ThirdPersonCharacter_C
+[2023.01.03-11.10.44:085][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.01.03-11.10.44:087][682]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2023.01.03-11.12.50:638][922]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.03-11.12.50:650][922]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.03-11.12.50:660][923]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.03-11.13.02:239][ 41]LogContentBrowser: Attempting asset rename: NewFolder -> Dialogue_System
+[2023.01.03-11.13.02:239][ 41]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.03-11.14.34:109][859]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.03-11.14.34:117][859]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.03-11.14.34:128][860]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.03-11.14.38:064][239]LogContentBrowser: Attempting asset rename: NewFolder -> Antagonist
+[2023.01.03-11.14.38:065][239]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.03-11.14.43:421][715]LogMetaData: Removing '/Game/Antagonist/BP_Antagonist.BP_Antagonist_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Antagonist.PackageMetaData'
+[2023.01.03-11.14.43:421][715]LogMetaData: Removing '/Game/Antagonist/BP_Antagonist.SKEL_BP_Antagonist_C:InpAxisEvt_Move Forward / Backward_K2Node_InputAxisEvent_14' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Antagonist.PackageMetaData'
+[2023.01.03-11.14.43:421][715]LogMetaData: Removing '/Game/Antagonist/BP_Antagonist.SKEL_BP_Antagonist_C:InpAxisEvt_Turn Right / Left Gamepad_K2Node_InputAxisEvent_15' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Antagonist.PackageMetaData'
+[2023.01.03-11.14.43:421][715]LogMetaData: Removing '/Game/Antagonist/BP_Antagonist.SKEL_BP_Antagonist_C:InpAxisEvt_Turn Right / Left Mouse_K2Node_InputAxisEvent_16' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Antagonist.PackageMetaData'
+[2023.01.03-11.14.43:421][715]LogMetaData: Removing '/Game/Antagonist/BP_Antagonist.SKEL_BP_Antagonist_C:InpAxisEvt_Look Up / Down Mouse_K2Node_InputAxisEvent_17' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Antagonist.PackageMetaData'
+[2023.01.03-11.14.43:421][715]LogMetaData: Removing '/Game/Antagonist/BP_Antagonist.SKEL_BP_Antagonist_C:InpAxisEvt_Look Up / Down Gamepad_K2Node_InputAxisEvent_18' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Antagonist.PackageMetaData'
+[2023.01.03-11.14.43:421][715]LogMetaData: Removing '/Game/Antagonist/BP_Antagonist.SKEL_BP_Antagonist_C:InpAxisEvt_Move Right / Left_K2Node_InputAxisEvent_19' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Antagonist.PackageMetaData'
+[2023.01.03-11.14.43:421][715]LogMetaData: Removing '/Game/Antagonist/BP_Antagonist.SKEL_BP_Antagonist_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Antagonist.PackageMetaData'
+[2023.01.03-11.14.43:421][715]LogMetaData: Removing '/Game/Antagonist/BP_Antagonist.SKEL_BP_Antagonist_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_Antagonist.PackageMetaData'
+[2023.01.03-11.14.43:476][715]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1
+[2023.01.03-11.14.43:477][715]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/66SAEXGOII5USWPHE66AE1E010A88A4FABDC044495F2B0D7CF19AD.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1.uasset'
+[2023.01.03-11.14.43:512][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Antagonist/BP_Antagonist" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset" SILENT=true
+[2023.01.03-11.14.43:524][715]LogSavePackage: Moving output files for package: /Game/Antagonist/BP_Antagonist
+[2023.01.03-11.14.43:524][715]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_Antagonist3A1BEC4F41ADE26A86FB59AC2517EAC7.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset'
+[2023.01.03-11.14.43:596][715]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_309C23489E33095901_2042407729 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KE/CFBT7HL6NZP9HW468OCC9F.PackageMetaData in its package
+[2023.01.03-11.14.43:600][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.01.03-11.14.43:654][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.01.03-11.14.43:702][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.01.03-11.14.43:726][715]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-11.14.43:726][715]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
+[2023.01.03-11.14.43:726][715]LogContentValidation: Display: Validating BP_Antagonist_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Antagonist_C_UAID_309C23489E33FD5801_1164782616
+[2023.01.03-11.14.43:786][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.01.03-11.17.01:511][688]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.03-11.17.01:534][688]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.03-11.17.01:548][689]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.03-11.17.04:698][962]LogContentBrowser: Attempting asset rename: NewFolder -> Interfaces
+[2023.01.03-11.17.04:698][962]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.03-11.17.11:020][395]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2023.01.03-11.17.11:029][395]LogContentBrowser: Creating deferred item: NewInterface
+[2023.01.03-11.17.11:061][397]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2023.01.03-11.17.27:477][859]LogContentBrowser: Attempting asset rename: NewInterface -> Interact_Interface
+[2023.01.03-11.17.27:482][859]LogContentBrowser: End creating deferred item NewInterface
+[2023.01.03-11.18.10:991][202]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interfaces/Interact_Interface.Interact_Interface
+[2023.01.03-11.18.10:991][202]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-11.27.01:972][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.01.03-11.27.03:242][103]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-11.27.03:290][103]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+	Asset Type: SoundWave
+[2023.01.03-11.27.03:630][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.01.03-11.27.03:682][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.01.03-11.27.03:731][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.01.03-11.27.07:234][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.01.03-11.27.08:457][367]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-11.27.08:517][367]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Sound/MAINMENU.MAINMENU
+	Asset Type: SoundClass
+[2023.01.03-11.27.08:845][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.01.03-11.27.08:897][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.01.03-11.27.08:944][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.01.03-11.27.10:738][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.01.03-11.27.11:494][530]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-11.27.11:514][530]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Sound/MAINMENU1.MAINMENU1
+	Asset Type: SoundMix
+[2023.01.03-11.27.11:839][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.03-11.27.11:890][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.01.03-11.27.11:937][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.01.03-11.33.44:582][983]LogDerivedDataCache: C:/Users/MK170/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.893 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.03-12.00.06:228][261]LogIOSDeviceHelper: Warning: Could not pair with connected iOS/tvOS device. Trust this computer by accepting the popup on device.
