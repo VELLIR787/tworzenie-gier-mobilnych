@@ -2804,3 +2804,14 @@ Make sure 'BP_Antagonist_C' has been compiled for  Get Dialogue
 [2023.01.03-17.05.42:452][863]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/66SAEXGOII5USWPHE66AE109713D8240EE28A12EFAAEB3079CCDF8.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1.uasset'
 [2023.01.03-17.05.42:480][863]AssetCheck: New page: Asset Save: BP_Antagonist_C_UAID_309C23489E33FD5801_1164782616
 [2023.01.03-17.05.42:480][863]LogContentValidation: Display: Validating BP_Antagonist_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Antagonist_C_UAID_309C23489E33FD5801_1164782616
+[2023.01.03-17.10.38:407][548]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.03-17.10.38:407][548]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.03-17.10.48:870][493]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.03-17.10.48:870][493]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.03-17.11.22:012][527]BlueprintLog: New page: Compile DialogueWidget
+[2023.01.03-17.11.22:115][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.01.03-17.11.22:805][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/DialogueWidget" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/DialogueWidget.uasset" SILENT=true
+[2023.01.03-17.11.22:815][578]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/DialogueWidget
+[2023.01.03-17.11.22:815][578]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueWidget32FB4AF547B53F7E58B99897B3595685.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/DialogueWidget.uasset'
+[2023.01.03-17.11.22:830][578]AssetCheck: New page: Asset Save: DialogueWidget
+[2023.01.03-17.11.22:831][578]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/DialogueWidget.DialogueWidget
