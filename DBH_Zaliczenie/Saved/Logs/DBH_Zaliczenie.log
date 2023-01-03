@@ -3385,3 +3385,64 @@ Make sure 'BP_Antagonist_C' has been compiled for  Get Dialogue
 [2023.01.03-18.54.54:369][677]LogContentValidation: Display: Validating Blueprint /Game/Dialogue_System/StartDialogue.StartDialogue
 [2023.01.03-18.54.54:369][677]LogContentValidation: Display: Validating BehaviorTree /Game/Dialogue_System/DialogueTree.DialogueTree
 [2023.01.03-18.54.54:370][677]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Dialogue_System/StartDialogue.
+[2023.01.03-18.56.31:489][780]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.01.03-18.56.31:671][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.01.03-18.56.32:452][800]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.01.03-18.56.32:452][800]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_ThirdPersonCharacter06D917564D1D822A9FBFEABDBF8CA2D1.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.01.03-18.56.32:468][800]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.01.03-18.56.32:468][800]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.01.03-18.57.47:615][637]BlueprintLog: New page: Compile DialogueWidget
+[2023.01.03-18.57.47:752][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.01.03-18.57.48:385][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/DialogueWidget" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/DialogueWidget.uasset" SILENT=true
+[2023.01.03-18.57.48:396][656]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/DialogueWidget
+[2023.01.03-18.57.48:396][656]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueWidgetD7903BB844D5F2117A8157BAB3816AA7.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/DialogueWidget.uasset'
+[2023.01.03-18.57.48:413][656]AssetCheck: New page: Asset Save: DialogueWidget
+[2023.01.03-18.57.48:413][656]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/DialogueWidget.DialogueWidget
+[2023.01.03-18.58.00:055][306]BlueprintLog: New page: Compile STARTWIDGET
+[2023.01.03-18.58.00:185][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.01.03-18.58.00:635][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/STARTWIDGET" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/STARTWIDGET.uasset" SILENT=true
+[2023.01.03-18.58.00:644][316]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/STARTWIDGET
+[2023.01.03-18.58.00:645][316]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/STARTWIDGETA4D8A4744EC09BA59B69B29A9388442D.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/STARTWIDGET.uasset'
+[2023.01.03-18.58.00:661][316]AssetCheck: New page: Asset Save: STARTWIDGET
+[2023.01.03-18.58.00:661][316]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET
+[2023.01.03-19.01.47:642][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.01.03-19.01.47:646][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1_Auto2
+[2023.01.03-19.01.47:646][926]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/66SAEXGOII5USWPHE66AE1_Auto258CFDBC5435C13C1A59F738AA9146E75.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1_Auto2.uasset'
+[2023.01.03-19.01.47:646][926]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.108
+[2023.01.03-19.01.47:646][926]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.108
+[2023.01.03-19.01.47:647][926]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dialogue_System/StartDialogue] ([2] browsable assets)...
+[2023.01.03-19.01.47:647][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dialogue_System/StartDialogue]
+[2023.01.03-19.01.47:649][926]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dialogue_System/StartDialogue_Auto2
+[2023.01.03-19.01.47:649][926]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/StartDialogue_Auto295D86B944A43109681D71C81339E0E20.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Dialogue_System/StartDialogue_Auto2.uasset'
+[2023.01.03-19.01.47:650][926]LogFileHelpers: Auto-saving content packages took 0.003
+[2023.01.03-19.33.46:045][931]LogDerivedDataCache: C:/Users/MK170/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.596 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.03-20.33.46:002][331]LogDerivedDataCache: C:/Users/MK170/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.543 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.03-20.37.57:253][738]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2023.01.03-20.37.57:255][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-20.37.59:677][865]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-20.37.59:677][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-20.37.59:723][865]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2023.01.03-20.37.59:724][865]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-20.38.24:387][621]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.03-20.39.07:890][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.01.03-20.39.07:893][426]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.112
+[2023.01.03-20.39.07:893][426]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2023.01.03-20.39.07:893][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2023.01.03-20.39.07:896][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto3
+[2023.01.03-20.39.07:896][426]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_ThirdPersonGameMode_Auto3917A4271405811746BE436894A0F751A.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto3.uasset'
+[2023.01.03-20.39.07:897][426]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.01.03-20.39.38:691][476]BlueprintLog: New page: Compile BP_ThirdPersonGameMode
+[2023.01.03-20.39.38:819][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.01.03-20.39.39:229][493]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2023.01.03-20.39.39:229][493]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_ThirdPersonGameMode0B9E27C1415F62EBE7DC92908843599C.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2023.01.03-20.39.39:245][493]AssetCheck: New page: Asset Save: BP_ThirdPersonGameMode
+[2023.01.03-20.39.39:245][493]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2023.01.03-20.39.42:924][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.01.03-20.39.42:977][671]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1
+[2023.01.03-20.39.42:978][671]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/66SAEXGOII5USWPHE66AE13A8737794A6B41235D5A8585886071D8.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1.uasset'
+[2023.01.03-20.39.42:979][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dialogue_System/StartDialogue" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/StartDialogue.uasset" SILENT=true
+[2023.01.03-20.39.42:981][671]LogSavePackage: Moving output files for package: /Game/Dialogue_System/StartDialogue
+[2023.01.03-20.39.42:981][671]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/StartDialogueCD923C3944440CEB21EC1D8A2C20DECE.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/StartDialogue.uasset'
+[2023.01.03-20.39.42:998][671]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-20.39.42:998][671]LogContentValidation: Display: Validating BP_Antagonist_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Antagonist_C_UAID_309C23489E33FD5801_1164782616
+[2023.01.03-20.39.42:998][671]LogContentValidation: Display: Validating Blueprint /Game/Dialogue_System/StartDialogue.StartDialogue
