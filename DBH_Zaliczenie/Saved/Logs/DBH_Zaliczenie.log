@@ -3496,3 +3496,21 @@ Make sure 'BP_Antagonist_C' has been compiled for  Get Dialogue
 [2023.01.03-20.47.39:836][677]AssetCheck: New page: Asset Save: multiple assets
 [2023.01.03-20.47.39:836][677]LogContentValidation: Display: Validating BlackboardData /Game/Dialogue_System/DialogueBlackBoard.DialogueBlackBoard
 [2023.01.03-20.47.39:836][677]LogContentValidation: Display: Validating Blueprint /Game/Dialogue_System/StartDialogue.StartDialogue
+[2023.01.03-20.48.34:446][336]BlueprintLog: New page: Compile StartDialogue
+[2023.01.03-20.48.34:547][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.01.03-20.48.35:029][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dialogue_System/StartDialogue" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/StartDialogue.uasset" SILENT=true
+[2023.01.03-20.48.35:033][359]LogSavePackage: Moving output files for package: /Game/Dialogue_System/StartDialogue
+[2023.01.03-20.48.35:033][359]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/StartDialogueB98A1B6742D0FFBB5320468713A2C039.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/StartDialogue.uasset'
+[2023.01.03-20.48.35:053][359]AssetCheck: New page: Asset Save: StartDialogue
+[2023.01.03-20.48.35:053][359]LogContentValidation: Display: Validating Blueprint /Game/Dialogue_System/StartDialogue.StartDialogue
+[2023.01.03-20.49.14:514][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dialogue_System/DialogueTree" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/DialogueTree.uasset" SILENT=true
+[2023.01.03-20.49.14:515][ 61]LogSavePackage: Moving output files for package: /Game/Dialogue_System/DialogueTree
+[2023.01.03-20.49.14:515][ 61]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueTree8A93069F41F9504AB9E6F59060A89899.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/DialogueTree.uasset'
+[2023.01.03-20.49.14:535][ 61]AssetCheck: New page: Asset Save: DialogueTree
+[2023.01.03-20.49.14:535][ 61]LogContentValidation: Display: Validating BehaviorTree /Game/Dialogue_System/DialogueTree.DialogueTree
+[2023.01.03-20.49.21:915][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.01.03-20.49.21:979][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dialogue_System/DialogueBlackBoard" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/DialogueBlackBoard.uasset" SILENT=true
+[2023.01.03-20.49.21:979][485]LogSavePackage: Moving output files for package: /Game/Dialogue_System/DialogueBlackBoard
+[2023.01.03-20.49.21:980][485]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueBlackBoard1CD8629740DC0A11790204820ED167DC.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/DialogueBlackBoard.uasset'
+[2023.01.03-20.49.21:996][485]AssetCheck: New page: Asset Save: DialogueBlackBoard
+[2023.01.03-20.49.21:996][485]LogContentValidation: Display: Validating BlackboardData /Game/Dialogue_System/DialogueBlackBoard.DialogueBlackBoard
