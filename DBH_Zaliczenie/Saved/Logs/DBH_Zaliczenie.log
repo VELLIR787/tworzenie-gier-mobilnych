@@ -1318,3 +1318,138 @@ Recommended: 516.25
 [2023.01.03-12.03.52:283][860]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Interact_InterfaceF8B0CB824AB13FA5741326A111640ECC.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Interfaces/Interact_Interface.uasset'
 [2023.01.03-12.03.52:299][860]AssetCheck: New page: Asset Save: Interact_Interface
 [2023.01.03-12.03.52:299][860]LogContentValidation: Display: Validating Blueprint /Game/Interfaces/Interact_Interface.Interact_Interface
+[2023.01.03-12.05.02:682][156]AssetReimport: New page: Detailed File System Changes from 13:05:02
+[2023.01.03-12.05.02:740][156]AssetReimport: 'D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/PressedSound.wav' has been created.
+[2023.01.03-12.05.02:740][156]AssetReimport: 'D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/HoveredSound.wav' has been created.
+[2023.01.03-12.05.07:360][604]AssetReimport: New page: Outstanding source content changes 14:05:07
+[2023.01.03-12.05.07:361][604]LogAudioEditor: Performing atomic reimport of [D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/PressedSound.wav]
+[2023.01.03-12.05.07:363][604]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/PressedSound.wav)
+[2023.01.03-12.05.07:397][604]LogAudioEditor: -- imported successfully
+[2023.01.03-12.05.07:474][605]LogAudioEditor: Performing atomic reimport of [D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/HoveredSound.wav]
+[2023.01.03-12.05.07:475][605]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/HoveredSound.wav)
+[2023.01.03-12.05.07:485][605]LogAudioEditor: -- imported successfully
+[2023.01.03-12.05.07:728][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/PressedSound" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/PressedSound.uasset" SILENT=true
+[2023.01.03-12.05.07:729][606]LogSavePackage: Moving output files for package: /Game/Sound/PressedSound
+[2023.01.03-12.05.07:730][606]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/PressedSound43DBB000497DE205B7DBEE8DA7F3C3B5.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/PressedSound.uasset'
+[2023.01.03-12.05.07:732][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/HoveredSound" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/HoveredSound.uasset" SILENT=true
+[2023.01.03-12.05.07:733][606]LogSavePackage: Moving output files for package: /Game/Sound/HoveredSound
+[2023.01.03-12.05.07:733][606]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/HoveredSoundAB287A964B59285BB06336B26498152B.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/HoveredSound.uasset'
+[2023.01.03-12.05.07:868][607]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-12.05.07:868][607]LogContentValidation: Display: Validating SoundWave /Game/Sound/PressedSound.PressedSound
+[2023.01.03-12.05.07:868][607]LogContentValidation: Display: Validating SoundWave /Game/Sound/HoveredSound.HoveredSound
+[2023.01.03-12.05.10:824][878]AssetReimport: Reimported asset PressedSound from D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/PressedSound.wav.
+[2023.01.03-12.05.10:824][878]AssetReimport: Reimported asset HoveredSound from D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/HoveredSound.wav.
+[2023.01.03-12.05.15:802][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.01.03-12.05.15:867][374]LogLinker: Warning: [AssetLog] D:\GitHub\tworzenie-gier-mobilnych\DBH_Zaliczenie\Content\ThirdPerson\Maps\MAINMENU.umap: Failed to load '/Game/Sound/MAINMENU1': Can't find file.
+[2023.01.03-12.05.15:867][374]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Sound/MAINMENU1'
+[2023.01.03-12.05.15:872][374]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/MAINMENU.MAINMENU
+[2023.01.03-12.05.15:873][374]Cmd: MAP LOAD FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/ThirdPerson/Maps/MAINMENU.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.03-12.05.15:873][374]LightingResults: New page: Lighting Build
+[2023.01.03-12.05.15:873][374]LoadErrors: New page: Loading map: MAINMENU.umap
+[2023.01.03-12.05.15:875][374]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-12.05.15:875][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-12.05.15:877][374]MapCheck: New page: Map Check
+[2023.01.03-12.05.15:877][374]LightingResults: New page: Lighting Build
+[2023.01.03-12.05.15:923][374]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-12.05.15:926][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.01.03-12.05.15:928][374]LogWorld: UWorld::CleanupWorld for MAINMENU, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-12.05.15:928][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-12.05.15:975][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.01.03-12.05.16:023][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.01.03-12.05.16:029][374]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAINMENU'.
+[2023.01.03-12.05.16:029][374]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-12.05.16:029][374]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-12.05.16:030][374]LogAIModule: Creating AISystem for world MAINMENU
+[2023.01.03-12.05.16:045][374]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.03-12.05.16:093][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.01.03-12.05.16:099][374]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.03-12.05.16:099][374]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,065ms to complete.
+[2023.01.03-12.05.16:099][374]LogFileHelpers: Loading map 'MAINMENU' took 0.227
+[2023.01.03-12.05.17:283][504]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.03-12.05.17:288][504]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.01.03-12.05.17:288][504]LogPlayLevel: [PlayLevel] Compiling Interact_Interface before play...
+[2023.01.03-12.05.17:340][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.01.03-12.05.17:342][504]LogPlayLevel: PlayLevel: Blueprint regeneration took 54 ms (1 blueprints)
+[2023.01.03-12.05.17:342][504]PIE: New page: PIE session: MAINMENU (3 sty 2023, 14:05:17)
+[2023.01.03-12.05.17:374][504]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU
+[2023.01.03-12.05.17:375][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000971s)
+[2023.01.03-12.05.17:375][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/MAINMENU.MAINMENU to /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU.MAINMENU (0.001075s)
+[2023.01.03-12.05.17:375][504]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-12.05.17:375][504]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-12.05.17:375][504]LogAIModule: Creating AISystem for world MAINMENU
+[2023.01.03-12.05.17:376][504]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2023.01.03-12.05.17:422][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.03-12.05.17:422][504]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.01.03-12.05.17:422][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.03-12.05.17:422][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.03-12.05.17:422][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.03-12.05.17:423][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.03-12.05.17:423][504]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.03-12.05.17:423][504]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.03-12.05.17:423][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.03-12.05.17:423][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.03-12.05.17:423][504]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.03-12.05.17:423][504]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.03-12.05.17:423][504]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.03-12.05.17:425][504]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.03-12.05.17:460][504]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.03-12.05.17:460][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.03-12.05.17:460][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.03-12.05.17:460][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.03-12.05.17:461][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.01.03-12.05.17:461][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.01.03-12.05.17:463][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.01.03-12.05.17:463][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.01.03-12.05.17:463][504]LogInit: FAudioDevice initialized.
+[2023.01.03-12.05.17:463][504]LogAudio: Display: Audio Device (ID: 5) registered with world 'MAINMENU'.
+[2023.01.03-12.05.17:478][504]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.03-12.05.17:478][504]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU.MAINMENU up for play (max tick rate 0) at 2023.01.03-13.05.17
+[2023.01.03-12.05.17:478][504]LogWorld: Bringing up level for play took: 0.000300
+[2023.01.03-12.05.17:480][504]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.01.03-12.05.17:486][504]PIE: Server logged in
+[2023.01.03-12.05.17:486][504]PIE: Play in editor total start time 0,199 seconds.
+[2023.01.03-12.05.26:483][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-12.05.26:484][567]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU
+[2023.01.03-12.05.26:484][567]LogWorld: UWorld::CleanupWorld for MAINMENU, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-12.05.26:484][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-12.05.26:492][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.03-12.05.26:498][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-12.05.26:544][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-12.05.26:544][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.01.03-12.05.26:546][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.01.03-12.05.26:551][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.01.03-12.05.26:579][568]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.01.03-12.05.28:081][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.01.03-12.05.28:138][728]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.01.03-12.05.28:138][728]Cmd: MAP LOAD FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.03-12.05.28:138][728]LightingResults: New page: Lighting Build
+[2023.01.03-12.05.28:138][728]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2023.01.03-12.05.28:165][728]LogWorld: UWorld::CleanupWorld for MAINMENU, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-12.05.28:165][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-12.05.28:165][728]MapCheck: New page: Map Check
+[2023.01.03-12.05.28:165][728]LightingResults: New page: Lighting Build
+[2023.01.03-12.05.28:210][728]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-12.05.28:212][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.01.03-12.05.28:214][728]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-12.05.28:214][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-12.05.28:261][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.01.03-12.05.28:308][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.01.03-12.05.28:315][728]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2023.01.03-12.05.28:315][728]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-12.05.28:315][728]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.01.03-12.05.28:316][728]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.03-12.05.28:316][728]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.01.03-12.05.28:329][728]LogWorldPartition: Display: WorldPartition initialize took 13 ms
+[2023.01.03-12.05.28:354][728]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.03-12.05.28:407][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.01.03-12.05.28:412][728]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.03-12.05.28:412][728]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,13ms to complete.
+[2023.01.03-12.05.28:412][728]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.274
+[2023.01.03-12.06.00:681][954]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.03-12.06.12:361][137]BlueprintLog: New page: Compile BP_Antagonist
+[2023.01.03-12.06.12:489][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.01.03-12.06.13:017][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Antagonist/BP_Antagonist" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset" SILENT=true
+[2023.01.03-12.06.13:029][169]LogSavePackage: Moving output files for package: /Game/Antagonist/BP_Antagonist
+[2023.01.03-12.06.13:029][169]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_Antagonist6C3BE1FC495EFE146B4931AC78B0CFF9.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset'
+[2023.01.03-12.06.13:045][169]AssetCheck: New page: Asset Save: BP_Antagonist
+[2023.01.03-12.06.13:045][169]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
