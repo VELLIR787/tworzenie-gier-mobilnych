@@ -1725,3 +1725,15 @@ Recommended: 516.25
 [2023.01.03-15.41.04:399][298]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
 [2023.01.03-15.41.04:399][298]LogContentValidation: Display: Validating BP_Antagonist_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Antagonist_C_UAID_309C23489E33FD5801_1164782616
 [2023.01.03-15.41.04:399][298]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/DialogueWidget.DialogueWidget
+[2023.01.03-16.23.54:236][483]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.01.03-16.23.54:237][483]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.01.03-16.24.45:691][353]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.03-16.25.06:167][745]LogEditorTransaction: Undo Modify Component(s)
+[2023.01.03-16.25.06:516][748]LogEditorTransaction: Undo Attach Component
+[2023.01.03-16.25.17:110][524]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.03-16.26.21:344][162]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.01.03-16.26.21:591][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.01.03-16.26.22:289][191]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.01.03-16.26.22:289][191]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_ThirdPersonCharacter5B90255048C732CB49821EAC7222EBCB.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.01.03-16.26.22:304][191]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.01.03-16.26.22:304][191]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
