@@ -4846,3 +4846,84 @@ Make sure 'STARTWIDGET' has been compiled for  Start Dialogue
 [2023.01.03-22.04.18:881][534]LogContentValidation: Display: Validating SoundWave /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
 [2023.01.03-22.04.21:757][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
 [2023.01.03-22.04.21:867][816]AssetReimport: Importing new asset /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.
+[2023.01.03-22.05.13:982][516]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-22.05.13:982][516]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-22.05.13:988][516]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST as actor: AmbientSound /Game/ThirdPerson/Maps/MAINMENU.MAINMENU:PersistentLevel.AmbientSound_0
+[2023.01.03-22.05.13:988][516]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST as actor: AmbientSound /Game/ThirdPerson/Maps/MAINMENU.MAINMENU:PersistentLevel.AmbientSound_0
+[2023.01.03-22.05.14:833][602]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-22.05.14:833][602]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST
+[2023.01.03-22.05.14:834][602]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST as actor: AmbientSound /Game/ThirdPerson/Maps/MAINMENU.MAINMENU:PersistentLevel.AmbientSound_1
+[2023.01.03-22.05.14:834][602]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST.Main_Menu_Mix__Detroit_Become_Human_Unreleased_OST as actor: AmbientSound /Game/ThirdPerson/Maps/MAINMENU.MAINMENU:PersistentLevel.AmbientSound_1
+[2023.01.03-22.05.15:919][684]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.03-22.05.15:926][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.03-22.05.15:926][684]PIE: New page: PIE session: MAINMENU (4 sty 2023, 00:05:15)
+[2023.01.03-22.05.15:926][684]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU
+[2023.01.03-22.05.15:927][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001295s)
+[2023.01.03-22.05.15:927][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/MAINMENU.MAINMENU to /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU.MAINMENU (0.001395s)
+[2023.01.03-22.05.15:927][684]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-22.05.15:927][684]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-22.05.15:928][684]LogAIModule: Creating AISystem for world MAINMENU
+[2023.01.03-22.05.15:928][684]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2023.01.03-22.05.16:004][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.01.03-22.05.16:007][684]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.01.03-22.05.16:007][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.03-22.05.16:007][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.03-22.05.16:007][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.03-22.05.16:007][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.03-22.05.16:007][684]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.03-22.05.16:007][684]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.03-22.05.16:007][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.03-22.05.16:007][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.03-22.05.16:008][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.03-22.05.16:008][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.03-22.05.16:008][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.03-22.05.16:010][684]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.03-22.05.16:044][684]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.03-22.05.16:044][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.03-22.05.16:044][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.03-22.05.16:044][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.03-22.05.16:044][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2023.01.03-22.05.16:045][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2023.01.03-22.05.16:046][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2023.01.03-22.05.16:046][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2023.01.03-22.05.16:046][684]LogInit: FAudioDevice initialized.
+[2023.01.03-22.05.16:046][684]LogAudio: Display: Audio Device (ID: 38) registered with world 'MAINMENU'.
+[2023.01.03-22.05.16:058][684]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.03-22.05.16:058][684]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU.MAINMENU up for play (max tick rate 0) at 2023.01.03-23.05.16
+[2023.01.03-22.05.16:058][684]LogWorld: Bringing up level for play took: 0.000327
+[2023.01.03-22.05.16:060][684]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2023.01.03-22.05.16:066][684]PIE: Server logged in
+[2023.01.03-22.05.16:067][684]PIE: Play in editor total start time 0,142 seconds.
+[2023.01.03-22.05.29:165][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-22.05.29:165][128]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_MAINMENU
+[2023.01.03-22.05.29:165][128]LogWorld: UWorld::CleanupWorld for MAINMENU, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-22.05.29:165][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-22.05.29:179][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.03-22.05.29:187][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-22.05.29:261][128]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-22.05.29:261][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.01.03-22.05.29:262][128]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.01.03-22.05.29:266][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-22.05.29:269][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.01.03-22.05.29:336][129]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2023.01.03-22.12.04:473][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.01.03-22.12.04:482][376]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/MAINMENU_Auto6
+[2023.01.03-22.12.04:482][376]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/MAINMENU_Auto6AFD433E14C683D41679B6EA70A60FFB1.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/ThirdPerson/Maps/MAINMENU_Auto6.umap'
+[2023.01.03-22.12.04:487][376]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Temp/Autosaves/Game/ThirdPerson/Maps/MAINMENU_Auto6.
+[2023.01.03-22.12.04:488][376]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/MAINMENU' took 0.099
+[2023.01.03-22.12.04:488][376]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.099
+[2023.01.03-22.19.38:773][725]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Downtown_West/Assets/props/props_lights/BP_lamps_light_sign_a.
+[2023.01.03-22.19.38:776][725]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Downtown_West/Assets/props/props_lights/BP_lamps_light_sign_b.
+[2023.01.03-22.19.38:779][725]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Downtown_West/Assets/props/props_lights/BP_lamps_tree_light.
+[2023.01.03-22.19.38:782][725]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Downtown_West/Assets/props/props_light_post/BP_lightpost_a.
+[2023.01.03-22.19.38:785][725]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Downtown_West/Assets/props/props_light_post/BP_lightpost_a1.
+[2023.01.03-22.19.38:788][725]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Downtown_West/Assets/props/props_streetlight/BP_light_streetlight.
+[2023.01.03-22.19.38:791][725]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Downtown_West/Assets/props/props_streetlight/BP_light_streetlight_complete.
+[2023.01.03-22.19.40:050][729]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Downtown_West/Assets/props/prop_hanging_tarps/BP_lightpost_a.
+[2023.01.03-22.19.42:437][736]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Downtown_West/Maps/Demo_Environment.
+[2023.01.03-22.19.52:438][766]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Downtown_West/VFX/Blueprints/BP_fountain_off.
+[2023.01.03-22.19.52:440][766]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Downtown_West/VFX/Blueprints/BP_fountain_on.
+[2023.01.03-22.19.52:442][766]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Downtown_West/VFX/Blueprints/BP_TreeNarrowLeaf_FX1.
+[2023.01.03-22.20.20:725][850]LogDirectoryWatcher: Display: A directory notification failed for 'D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.01.03-22.20.20:725][850]LogDirectoryWatcher: Display: A directory notification failed for 'D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Developers/MK170/Collections/' because it could not be accessed. Aborting watch request...
+[2023.01.03-22.20.21:078][851]LogDirectoryWatcher: Display: A directory notification failed for 'D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Collections/' because it could not be accessed. Aborting watch request...
