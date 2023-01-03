@@ -3335,3 +3335,37 @@ Make sure 'BP_Antagonist_C' has been compiled for  Get Dialogue
 [2023.01.03-18.50.37:780][610]AssetCheck: New page: Asset Save: multiple assets
 [2023.01.03-18.50.37:780][610]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
 [2023.01.03-18.50.37:780][610]LogContentValidation: Display: Validating BP_Antagonist_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Antagonist_C_UAID_309C23489E33FD5801_1164782616
+[2023.01.03-18.51.20:669][851]BlueprintLog: New page: Compile BP_Antagonist
+[2023.01.03-18.51.20:909][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.01.03-18.51.21:338][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Antagonist/BP_Antagonist" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset" SILENT=true
+[2023.01.03-18.51.21:352][852]LogSavePackage: Moving output files for package: /Game/Antagonist/BP_Antagonist
+[2023.01.03-18.51.21:352][852]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_Antagonist313B4799483FCFFFC445109996930A0F.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset'
+[2023.01.03-18.51.21:392][852]AssetCheck: New page: Asset Save: BP_Antagonist
+[2023.01.03-18.51.21:392][852]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
+[2023.01.03-18.51.21:409][853]LogViewport: Scene viewport resized to 474x282, mode Windowed.
+[2023.01.03-18.51.21:930][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Antagonist/BP_Antagonist" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset" SILENT=true
+[2023.01.03-18.51.21:944][884]LogSavePackage: Moving output files for package: /Game/Antagonist/BP_Antagonist
+[2023.01.03-18.51.21:944][884]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_Antagonist28A82B264AC8F9B37EE75B9F7823713C.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset'
+[2023.01.03-18.51.21:961][884]AssetCheck: New page: Asset Save: BP_Antagonist
+[2023.01.03-18.51.21:962][884]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
+[2023.01.03-18.51.47:339][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.01.03-18.51.47:345][424]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1_Auto1
+[2023.01.03-18.51.47:345][424]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/66SAEXGOII5USWPHE66AE1_Auto1A75B15F4494A1B06A413A9BB3079132C.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1_Auto1.uasset'
+[2023.01.03-18.51.47:345][424]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.094
+[2023.01.03-18.51.47:345][424]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2023.01.03-18.51.58:257][ 92]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.03-18.52.30:772][197]LogContentBrowser: Deferred new asset file creation: NewBehaviorTree
+[2023.01.03-18.52.30:785][197]LogContentBrowser: Creating deferred item: NewBehaviorTree
+[2023.01.03-18.52.30:874][199]LogContentBrowser: Renaming the item being created (Deferred Item: NewBehaviorTree).
+[2023.01.03-18.52.37:564][605]LogContentBrowser: Attempting asset rename: NewBehaviorTree -> DialogueTree
+[2023.01.03-18.52.37:565][605]LogContentBrowser: End creating deferred item NewBehaviorTree
+[2023.01.03-18.53.15:800][  0]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Dialogue_System/DialogueTree.DialogueTree
+[2023.01.03-18.53.22:142][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.01.03-18.53.22:201][397]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1
+[2023.01.03-18.53.22:201][397]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/66SAEXGOII5USWPHE66AE16DB2DA6B488E85CD6D878A8F0627A6D2.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1.uasset'
+[2023.01.03-18.53.22:202][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dialogue_System/DialogueTree" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/DialogueTree.uasset" SILENT=true
+[2023.01.03-18.53.22:204][397]LogSavePackage: Moving output files for package: /Game/Dialogue_System/DialogueTree
+[2023.01.03-18.53.22:204][397]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueTree9F1CB3DE4C480DDE98EEA4808182D4D8.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/DialogueTree.uasset'
+[2023.01.03-18.53.22:224][397]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-18.53.22:224][397]LogContentValidation: Display: Validating BP_Antagonist_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Antagonist_C_UAID_309C23489E33FD5801_1164782616
+[2023.01.03-18.53.22:224][397]LogContentValidation: Display: Validating BehaviorTree /Game/Dialogue_System/DialogueTree.DialogueTree
