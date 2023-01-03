@@ -3293,3 +3293,36 @@ Make sure 'BP_Antagonist_C' has been compiled for  Get Dialogue
 [2023.01.03-18.46.49:956][404]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/DialogueWidget.DialogueWidget
 [2023.01.03-18.46.49:956][404]LogContentValidation: Display: Validating BP_Antagonist_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Antagonist_C_UAID_309C23489E33FD5801_1164782616
 [2023.01.03-18.46.49:956][404]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/Antagonist_AI.Antagonist_AI
+[2023.01.03-18.47.24:777][636]BlueprintLog: New page: Compile Antagonist_AI
+[2023.01.03-18.47.24:891][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.01.03-18.47.25:479][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Antagonist/Antagonist_AI" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/Antagonist_AI.uasset" SILENT=true
+[2023.01.03-18.47.25:482][676]LogSavePackage: Moving output files for package: /Game/Antagonist/Antagonist_AI
+[2023.01.03-18.47.25:482][676]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Antagonist_AI1143CD32492E5E9131C00C93C4B60B35.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/Antagonist_AI.uasset'
+[2023.01.03-18.47.25:500][676]AssetCheck: New page: Asset Save: Antagonist_AI
+[2023.01.03-18.47.25:500][676]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/Antagonist_AI.Antagonist_AI
+[2023.01.03-18.47.47:463][631]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.03-18.47.52:330][ 36]BlueprintLog: New page: Compile BP_Antagonist
+[2023.01.03-18.47.52:529][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.01.03-18.47.52:931][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Antagonist/BP_Antagonist" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset" SILENT=true
+[2023.01.03-18.47.52:943][ 40]LogSavePackage: Moving output files for package: /Game/Antagonist/BP_Antagonist
+[2023.01.03-18.47.52:943][ 40]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_AntagonistABA5BEB548E6CFFE65458FB3A329072E.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset'
+[2023.01.03-18.47.52:959][ 40]AssetCheck: New page: Asset Save: BP_Antagonist
+[2023.01.03-18.47.52:959][ 40]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
+[2023.01.03-18.48.01:867][741]LogViewport: Scene viewport resized to 474x282, mode Windowed.
+[2023.01.03-18.48.52:383][610]BlueprintLog: New page: Compile BP_Antagonist
+[2023.01.03-18.48.52:647][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.01.03-18.48.53:055][612]LogViewport: Scene viewport resized to 474x282, mode Windowed.
+[2023.01.03-18.49.07:773][712]BlueprintLog: New page: Compile BP_Antagonist
+[2023.01.03-18.49.07:786][712]LogClass: Warning: Type mismatch in DialogueTree of BP_Antagonist_C - Previous (BoolProperty) Current(ObjectProperty) for package:  FObjectReader
+[2023.01.03-18.49.08:022][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.01.03-18.49.08:437][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Antagonist/BP_Antagonist" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset" SILENT=true
+[2023.01.03-18.49.08:450][713]LogSavePackage: Moving output files for package: /Game/Antagonist/BP_Antagonist
+[2023.01.03-18.49.08:450][713]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_Antagonist5C4DF70340455241D755E4BA8BBC22E9.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset'
+[2023.01.03-18.49.08:492][713]AssetCheck: New page: Asset Save: BP_Antagonist
+[2023.01.03-18.49.08:492][713]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
+[2023.01.03-18.49.08:524][714]LogViewport: Scene viewport resized to 474x282, mode Windowed.
+[2023.01.03-18.49.08:813][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Antagonist/BP_Antagonist" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset" SILENT=true
+[2023.01.03-18.49.08:826][727]LogSavePackage: Moving output files for package: /Game/Antagonist/BP_Antagonist
+[2023.01.03-18.49.08:826][727]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_Antagonist12853D994D0CBAB4EAFCB98C2915584E.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset'
+[2023.01.03-18.49.08:844][727]AssetCheck: New page: Asset Save: BP_Antagonist
+[2023.01.03-18.49.08:844][727]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
