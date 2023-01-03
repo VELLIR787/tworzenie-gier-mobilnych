@@ -3479,3 +3479,20 @@ Make sure 'BP_Antagonist_C' has been compiled for  Get Dialogue
 [2023.01.03-20.44.53:618][169]LogContentValidation: Display: Validating Blueprint /Game/Dialogue_System/StartDialogue.StartDialogue
 [2023.01.03-20.44.53:618][169]LogContentValidation: Display: Validating BehaviorTree /Game/Dialogue_System/DialogueTree.DialogueTree
 [2023.01.03-20.45.24:394][565]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.03-20.46.49:704][819]BlueprintLog: New page: Compile StartDialogue
+[2023.01.03-20.46.49:809][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.01.03-20.46.50:279][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dialogue_System/StartDialogue" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/StartDialogue.uasset" SILENT=true
+[2023.01.03-20.46.50:283][840]LogSavePackage: Moving output files for package: /Game/Dialogue_System/StartDialogue
+[2023.01.03-20.46.50:283][840]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/StartDialogueB3DEE0074188503CA9E3CC804DB698FB.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/StartDialogue.uasset'
+[2023.01.03-20.46.50:302][840]AssetCheck: New page: Asset Save: StartDialogue
+[2023.01.03-20.46.50:303][840]LogContentValidation: Display: Validating Blueprint /Game/Dialogue_System/StartDialogue.StartDialogue
+[2023.01.03-20.47.39:750][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.01.03-20.47.39:812][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dialogue_System/StartDialogue" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/StartDialogue.uasset" SILENT=true
+[2023.01.03-20.47.39:815][677]LogSavePackage: Moving output files for package: /Game/Dialogue_System/StartDialogue
+[2023.01.03-20.47.39:815][677]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/StartDialogue3264BF94409A3C11F8F0A19D44FD9D5B.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/StartDialogue.uasset'
+[2023.01.03-20.47.39:815][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dialogue_System/DialogueBlackBoard" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/DialogueBlackBoard.uasset" SILENT=true
+[2023.01.03-20.47.39:815][677]LogSavePackage: Moving output files for package: /Game/Dialogue_System/DialogueBlackBoard
+[2023.01.03-20.47.39:816][677]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueBlackBoard9B25718F4AB7B57CB0A5BDAC7CD23460.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/DialogueBlackBoard.uasset'
+[2023.01.03-20.47.39:836][677]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-20.47.39:836][677]LogContentValidation: Display: Validating BlackboardData /Game/Dialogue_System/DialogueBlackBoard.DialogueBlackBoard
+[2023.01.03-20.47.39:836][677]LogContentValidation: Display: Validating Blueprint /Game/Dialogue_System/StartDialogue.StartDialogue
