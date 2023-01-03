@@ -3514,3 +3514,9 @@ Make sure 'BP_Antagonist_C' has been compiled for  Get Dialogue
 [2023.01.03-20.49.21:980][485]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueBlackBoard1CD8629740DC0A11790204820ED167DC.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/DialogueBlackBoard.uasset'
 [2023.01.03-20.49.21:996][485]AssetCheck: New page: Asset Save: DialogueBlackBoard
 [2023.01.03-20.49.21:996][485]LogContentValidation: Display: Validating BlackboardData /Game/Dialogue_System/DialogueBlackBoard.DialogueBlackBoard
+[2023.01.03-20.50.46:443][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.01.03-20.50.46:498][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Antagonist/Antagonist_AI" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/Antagonist_AI.uasset" SILENT=true
+[2023.01.03-20.50.46:501][ 57]LogSavePackage: Moving output files for package: /Game/Antagonist/Antagonist_AI
+[2023.01.03-20.50.46:501][ 57]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Antagonist_AI057C319C4AB940BEE60F98A237AD8D6D.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/Antagonist_AI.uasset'
+[2023.01.03-20.50.46:523][ 57]AssetCheck: New page: Asset Save: Antagonist_AI
+[2023.01.03-20.50.46:523][ 57]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/Antagonist_AI.Antagonist_AI
