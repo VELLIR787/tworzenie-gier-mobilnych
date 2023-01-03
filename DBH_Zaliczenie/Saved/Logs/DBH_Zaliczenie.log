@@ -3252,3 +3252,21 @@ Make sure 'BP_Antagonist_C' has been compiled for  Get Dialogue
 [2023.01.03-18.39.07:363][ 22]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTAE770D0E42E21E9BB2762792AF4569F8.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/TEXT.uasset'
 [2023.01.03-18.39.07:381][ 22]AssetCheck: New page: Asset Save: TEXT
 [2023.01.03-18.39.07:381][ 22]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/TEXT.TEXT
+[2023.01.03-18.40.02:673][827]LogSlate: Window 'Save Asset As' being destroyed
+[2023.01.03-18.41.47:637][390]LogSlate: Took 0.003924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.01.03-18.42.13:139][849]BlueprintLog: New page: Compile TEXT
+[2023.01.03-18.42.13:248][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.01.03-18.42.18:442][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/TEXT" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/TEXT.uasset" SILENT=true
+[2023.01.03-18.42.18:446][328]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/TEXT
+[2023.01.03-18.42.18:446][328]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXT5F5E26B649353D67E5C1629697ADD584.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/TEXT.uasset'
+[2023.01.03-18.42.18:464][328]AssetCheck: New page: Asset Save: TEXT
+[2023.01.03-18.42.18:464][328]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/TEXT.TEXT
+[2023.01.03-18.42.19:449][415]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.03-18.42.19:449][415]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.03-18.42.41:090][213]BlueprintLog: New page: Compile TEXT
+[2023.01.03-18.42.41:197][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.01.03-18.42.41:596][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/TEXT" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/TEXT.uasset" SILENT=true
+[2023.01.03-18.42.41:600][225]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/TEXT
+[2023.01.03-18.42.41:600][225]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXT08DE18974E54F5F12D35AD89046A7E5C.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/TEXT.uasset'
+[2023.01.03-18.42.41:619][225]AssetCheck: New page: Asset Save: TEXT
+[2023.01.03-18.42.41:619][225]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/TEXT.TEXT
