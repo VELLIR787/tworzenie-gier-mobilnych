@@ -1470,3 +1470,96 @@ Recommended: 516.25
 [2023.01.03-12.18.04:715][549]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.01.03-12.18.05:119][549]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
 [2023.01.03-12.18.05:119][549]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.03-12.25.28:365][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.01.03-12.25.28:368][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1_Auto3
+[2023.01.03-12.25.28:368][708]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/66SAEXGOII5USWPHE66AE1_Auto33B75CFD64F1CACBF70538FB3BF216A19.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1_Auto3.uasset'
+[2023.01.03-12.25.28:369][708]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.071
+[2023.01.03-12.25.28:369][708]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2023.01.03-12.25.28:369][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Antagonist/BP_Antagonist] ([2] browsable assets)...
+[2023.01.03-12.25.28:390][708]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist]
+[2023.01.03-12.25.28:391][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/Antagonist/BP_Antagonist]
+[2023.01.03-12.25.28:403][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Antagonist/BP_Antagonist_Auto3
+[2023.01.03-12.25.28:403][708]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_Antagonist_Auto3EEEFB1794D7D493615900DBAB97F2072.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Antagonist/BP_Antagonist_Auto3.uasset'
+[2023.01.03-12.25.28:403][708]LogFileHelpers: Auto-saving content packages took 0.035
+[2023.01.03-12.31.01:744][519]LogIOSDeviceHelper: Warning: Could not pair with connected iOS/tvOS device. Trust this computer by accepting the popup on device.
+[2023.01.03-12.33.45:766][643]LogDerivedDataCache: C:/Users/MK170/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.323 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.03-13.33.45:349][598]LogDerivedDataCache: C:/Users/MK170/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.905 and deleted 11 file(s) with total size 23 MiB.
+[2023.01.03-13.49.42:396][ 26]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=2781 (NVIDIA High Definition Audio), InstanceID=1
+[2023.01.03-13.49.42:396][ 26]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4056
+[2023.01.03-13.49.42:727][ 26]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{75eaa162-3d4c-47ad-a63e-bc914272d6d6}, Name=2781 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.14
+[2023.01.03-13.49.42:727][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.03-13.49.42:733][ 27]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.03-14.33.45:173][941]LogDerivedDataCache: C:/Users/MK170/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.547 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.03-14.44.26:253][591]LogSlate: Took 0.007720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.01.03-14.47.56:749][919]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.03-14.48.01:173][301]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.03-14.48.04:890][608]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.03-14.48.08:676][927]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.03-14.49.03:275][918]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2023.01.03-14.49.03:723][925]Cmd: TRANSACTION UNDO
+[2023.01.03-14.49.03:723][925]LogEditorTransaction: Undo Move Widget
+[2023.01.03-14.49.05:406][ 59]Cmd: TRANSACTION UNDO
+[2023.01.03-14.49.05:407][ 59]LogEditorTransaction: Undo Move Widget
+[2023.01.03-14.50.52:952][664]AssetReimport: New page: Outstanding source content changes 16:50:52
+[2023.01.03-14.50.52:953][664]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/RamkaZZD.tga)
+[2023.01.03-14.50.53:202][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/RamkaZZD" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/RamkaZZD.uasset" SILENT=true
+[2023.01.03-14.50.53:206][665]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/RamkaZZD
+[2023.01.03-14.50.53:206][665]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/RamkaZZD2C2F6A0B42E3DE7D6E0B8FB79A07890A.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/RamkaZZD.uasset'
+[2023.01.03-14.50.53:368][666]AssetCheck: New page: Asset Save: RamkaZZD
+[2023.01.03-14.50.53:368][666]LogContentValidation: Display: Validating Texture2D /Game/Blueprints/UI/RamkaZZD.RamkaZZD
+[2023.01.03-14.50.56:307][916]AssetReimport: Importing new asset /Game/Blueprints/UI/RamkaZZD.
+[2023.01.03-14.51.12:232][368]LogEditorTransaction: Undo Edit Image
+[2023.01.03-14.53.36:748][ 83]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2023.01.03-14.53.36:991][ 86]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.36:991][ 86]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2023.01.03-14.53.37:191][ 88]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.37:191][ 88]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.01.03-14.53.37:349][ 90]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.37:349][ 90]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.01.03-14.53.37:533][ 98]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.37:533][ 98]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2023.01.03-14.53.37:716][106]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.37:716][106]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2023.01.03-14.53.37:908][115]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.37:908][115]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.01.03-14.53.38:108][124]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.38:108][124]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2023.01.03-14.53.38:356][138]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.38:356][138]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.01.03-14.53.38:575][150]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.38:575][150]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.01.03-14.53.38:804][163]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.38:804][163]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.01.03-14.53.39:010][174]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.39:010][174]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.01.03-14.53.39:211][184]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.39:211][184]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.01.03-14.53.39:419][195]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.39:420][195]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2023.01.03-14.53.39:613][204]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.39:613][204]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.01.03-14.53.39:816][214]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.39:816][214]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.01.03-14.53.40:030][225]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.40:030][225]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2023.01.03-14.53.40:238][235]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.40:238][235]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.01.03-14.53.40:453][245]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.40:453][245]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.01.03-14.53.40:647][254]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.40:647][254]LogEditorTransaction: Undo Move Widget
+[2023.01.03-14.53.40:849][264]Cmd: TRANSACTION UNDO
+[2023.01.03-14.53.40:849][264]LogEditorTransaction: Undo Move Widget
+[2023.01.03-15.03.05:101][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.01.03-15.03.05:169][643]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1
+[2023.01.03-15.03.05:170][643]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/66SAEXGOII5USWPHE66AE131004E664AED2BE58948E7B2ED2998DC.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1.uasset'
+[2023.01.03-15.03.05:173][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Antagonist/BP_Antagonist" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset" SILENT=true
+[2023.01.03-15.03.05:185][643]LogSavePackage: Moving output files for package: /Game/Antagonist/BP_Antagonist
+[2023.01.03-15.03.05:185][643]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_Antagonist0979BE5B48BDB89CF901928D5C6C9AB8.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset'
+[2023.01.03-15.03.05:189][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/DialogueWidget" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/DialogueWidget.uasset" SILENT=true
+[2023.01.03-15.03.05:193][643]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/DialogueWidget
+[2023.01.03-15.03.05:193][643]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueWidgetA74078674E07A036CFB3F9B2FA0AD03B.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/DialogueWidget.uasset'
+[2023.01.03-15.03.05:212][643]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-15.03.05:212][643]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
+[2023.01.03-15.03.05:212][643]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/DialogueWidget.DialogueWidget
+[2023.01.03-15.03.05:212][643]LogContentValidation: Display: Validating BP_Antagonist_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Antagonist_C_UAID_309C23489E33FD5801_1164782616
