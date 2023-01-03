@@ -3478,3 +3478,4 @@ Make sure 'BP_Antagonist_C' has been compiled for  Get Dialogue
 [2023.01.03-20.44.53:618][169]LogContentValidation: Display: Validating BlackboardData /Game/Dialogue_System/DialogueBlackBoard.DialogueBlackBoard
 [2023.01.03-20.44.53:618][169]LogContentValidation: Display: Validating Blueprint /Game/Dialogue_System/StartDialogue.StartDialogue
 [2023.01.03-20.44.53:618][169]LogContentValidation: Display: Validating BehaviorTree /Game/Dialogue_System/DialogueTree.DialogueTree
+[2023.01.03-20.45.24:394][565]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
