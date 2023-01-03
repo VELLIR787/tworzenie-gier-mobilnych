@@ -3540,3 +3540,168 @@ Make sure 'BP_Antagonist_C' has been compiled for  Get Dialogue
 [2023.01.03-20.53.54:865][116]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_Antagonist0DB152894B54A1110F5C8CA516123A84.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset'
 [2023.01.03-20.53.54:885][116]AssetCheck: New page: Asset Save: BP_Antagonist
 [2023.01.03-20.53.54:885][116]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
+[2023.01.03-20.59.47:959][352]BlueprintLog: New page: Compile STARTWIDGET
+[2023.01.03-20.59.47:967][352]LogBlueprint: Error: [AssetLog] D:\GitHub\tworzenie-gier-mobilnych\DBH_Zaliczenie\Content\Blueprints\UI\STARTWIDGET.uasset: [Compiler] Can't connect pins  Self  and  Controlled Actor : Self Object Reference is not compatible with Actor Object Reference.
+[2023.01.03-20.59.47:967][352]LogBlueprint: Error: [AssetLog] D:\GitHub\tworzenie-gier-mobilnych\DBH_Zaliczenie\Content\Blueprints\UI\STARTWIDGET.uasset: [Compiler] Can't connect pins  Controlled Actor  and  Self : Actor Object Reference is not compatible with Self Object Reference.
+[2023.01.03-20.59.48:119][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.01.03-20.59.48:604][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/STARTWIDGET" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/STARTWIDGET.uasset" SILENT=true
+[2023.01.03-20.59.48:614][372]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/STARTWIDGET
+[2023.01.03-20.59.48:614][372]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/STARTWIDGETACFAC13646D2BC8CB99C9E833FF59617.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/STARTWIDGET.uasset'
+[2023.01.03-20.59.48:633][372]AssetCheck: New page: Asset Save: STARTWIDGET
+[2023.01.03-20.59.48:633][372]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET
+[2023.01.03-21.00.15:436][405]BlueprintLog: New page: Compile STARTWIDGET
+[2023.01.03-21.00.15:571][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.01.03-21.00.16:988][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/STARTWIDGET" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/STARTWIDGET.uasset" SILENT=true
+[2023.01.03-21.00.16:997][483]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/STARTWIDGET
+[2023.01.03-21.00.16:997][483]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/STARTWIDGET7FACE101463B4FE2AEBD3D9DD14933AE.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/STARTWIDGET.uasset'
+[2023.01.03-21.00.17:017][483]AssetCheck: New page: Asset Save: STARTWIDGET
+[2023.01.03-21.00.17:017][483]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET
+[2023.01.03-21.00.19:586][638]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.03-21.00.19:593][638]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.03-21.00.19:593][638]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.03-21.00.19:593][638]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.03-21.00.19:593][638]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.03-21.00.19:593][638]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.03-21.00.19:593][638]LogWorldPartition: Display: GetPartitionedActors took 59 us
+[2023.01.03-21.00.19:593][638]LogWorldPartition: Display: GenerateStreaming took 194 us
+[2023.01.03-21.00.19:597][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.03-21.00.19:597][638]PIE: New page: PIE session: ThirdPersonMap (3 sty 2023, 23:00:19)
+[2023.01.03-21.00.19:597][638]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.01.03-21.00.19:600][638]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.01.03-21.00.19:600][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003159s)
+[2023.01.03-21.00.19:600][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003219s)
+[2023.01.03-21.00.19:600][638]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-21.00.19:601][638]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.01.03-21.00.19:601][638]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.03-21.00.19:601][638]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.03-21.00.19:602][638]LogWorldPartition: Display: WorldPartition initialize took 739 us
+[2023.01.03-21.00.19:602][638]LogPlayLevel: PIE: World Init took: (0.001702s)
+[2023.01.03-21.00.19:695][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.01.03-21.00.19:698][638]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.01.03-21.00.19:698][638]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.03-21.00.19:698][638]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.03-21.00.19:698][638]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.03-21.00.19:698][638]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.03-21.00.19:698][638]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.03-21.00.19:698][638]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.03-21.00.19:698][638]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.03-21.00.19:698][638]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.03-21.00.19:699][638]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.03-21.00.19:699][638]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.03-21.00.19:699][638]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.03-21.00.19:701][638]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.03-21.00.19:728][638]LogAudioMixer: Display: Using Audio Hardware Device 2781 (NVIDIA High Definition Audio)
+[2023.01.03-21.00.19:728][638]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.03-21.00.19:728][638]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.03-21.00.19:728][638]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.03-21.00.19:730][638]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.01.03-21.00.19:730][638]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.01.03-21.00.19:731][638]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.01.03-21.00.19:731][638]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.01.03-21.00.19:731][638]LogInit: FAudioDevice initialized.
+[2023.01.03-21.00.19:731][638]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonMap'.
+[2023.01.03-21.00.19:745][638]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.03-21.00.19:750][638]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.01.03-22.00.19
+[2023.01.03-21.00.19:750][638]LogWorld: Bringing up level for play took: 0.004887
+[2023.01.03-21.00.19:752][638]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2023.01.03-21.00.19:757][638]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.01.03-21.00.19:757][638]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.03-21.00.19:758][638]PIE: Server logged in
+[2023.01.03-21.00.19:759][638]PIE: Play in editor total start time 0,167 seconds.
+[2023.01.03-21.01.12:658][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-21.01.12:658][562]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.01.03-21.01.12:658][562]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-21.01.12:659][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-21.01.12:692][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.03-21.01.12:701][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-21.01.12:797][562]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-21.01.12:798][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.01.03-21.01.12:799][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.01.03-21.01.12:802][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-21.01.12:806][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.01.03-21.01.12:882][563]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2023.01.03-21.01.12:888][563]LogViewport: Scene viewport resized to 474x282, mode Windowed.
+[2023.01.03-21.01.15:685][731]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-21.01.15:685][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-21.01.16:644][785]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-21.01.16:644][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-21.01.17:708][845]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.03-21.01.17:708][845]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-21.01.17:708][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-21.01.29:295][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.01.03-21.01.30:383][550]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-21.01.30:639][550]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-21.01.30:639][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-21.01.30:650][550]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-21.01.30:650][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-21.01.30:733][550]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.03-21.01.30:733][550]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-21.01.30:733][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-21.01.30:858][550]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.03-21.01.30:858][550]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-21.01.30:858][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-21.01.30:945][550]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Antagonist/Antagonist_AI.Antagonist_AI
+	Asset Type: Blueprint
+[2023.01.03-21.01.32:043][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.01.03-21.01.32:130][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.01.03-21.01.32:193][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.01.03-21.01.42:020][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.01.03-21.01.42:800][434]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-21.01.43:114][434]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Dialogue_System/StartDialogue.StartDialogue
+	Asset Type: Blueprint
+[2023.01.03-21.01.44:030][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.01.03-21.01.44:096][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.01.03-21.01.44:158][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.01.03-21.01.44:201][435]LogViewport: Scene viewport resized to 474x282, mode Windowed.
+[2023.01.03-21.01.46:285][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.01.03-21.01.47:254][561]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-21.01.47:485][561]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Dialogue_System/DialogueTree.DialogueTree
+	Asset Type: BehaviorTree
+[2023.01.03-21.01.47:990][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.01.03-21.01.48:057][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.01.03-21.01.48:120][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.01.03-21.01.49:691][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.01.03-21.01.50:464][695]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.03-21.01.50:533][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.01.03-21.01.50:600][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.01.03-21.01.50:667][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.01.03-21.01.57:583][312]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
+[2023.01.03-21.01.57:583][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-21.02.04:579][851]BlueprintLog: New page: Compile BP_Antagonist
+[2023.01.03-21.02.04:587][851]LogBlueprint: Error: [AssetLog] D:\GitHub\tworzenie-gier-mobilnych\DBH_Zaliczenie\Content\Antagonist\BP_Antagonist.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.03-21.02.04:588][851]LogBlueprint: Error: [AssetLog] D:\GitHub\tworzenie-gier-mobilnych\DBH_Zaliczenie\Content\Antagonist\BP_Antagonist.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2023.01.03-21.02.04:588][851]LogBlueprint: Warning: [AssetLog] D:\GitHub\tworzenie-gier-mobilnych\DBH_Zaliczenie\Content\Antagonist\BP_Antagonist.uasset: [Compiler] Could not find a variable named "DialogueTree" in 'BP_Antagonist'.
+Make sure 'BP_Antagonist' has been compiled for  Set DialogueTree
+[2023.01.03-21.02.04:780][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.01.03-21.02.05:177][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Antagonist/BP_Antagonist" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset" SILENT=true
+[2023.01.03-21.02.05:190][853]LogSavePackage: Moving output files for package: /Game/Antagonist/BP_Antagonist
+[2023.01.03-21.02.05:191][853]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_Antagonist2A316F064D5DCF728C00B58340780DD2.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset'
+[2023.01.03-21.02.05:207][853]AssetCheck: New page: Asset Save: BP_Antagonist
+[2023.01.03-21.02.05:207][853]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
+[2023.01.03-21.02.12:028][472]BlueprintLog: New page: Compile BP_Antagonist
+[2023.01.03-21.02.12:233][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.01.03-21.02.12:588][474]LogViewport: Scene viewport resized to 474x282, mode Windowed.
+[2023.01.03-21.02.12:954][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Antagonist/BP_Antagonist" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset" SILENT=true
+[2023.01.03-21.02.12:966][491]LogSavePackage: Moving output files for package: /Game/Antagonist/BP_Antagonist
+[2023.01.03-21.02.12:967][491]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_Antagonist6607D69B4BCF2093F6CDE2A27469EAC0.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset'
+[2023.01.03-21.02.12:983][491]AssetCheck: New page: Asset Save: BP_Antagonist
+[2023.01.03-21.02.12:983][491]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
+[2023.01.03-21.02.16:287][690]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-21.02.16:287][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-21.02.20:330][948]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.01.03-21.02.20:331][948]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-21.02.24:858][199]LogViewport: Scene viewport resized to 1077x686, mode Windowed.
+[2023.01.03-21.02.25:948][255]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.01.03-21.02.26:116][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.01.03-21.02.28:366][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.01.03-21.02.28:437][399]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1
+[2023.01.03-21.02.28:438][399]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/66SAEXGOII5USWPHE66AE1DEDE8F5E413E7BE37CFF9C9A01D0757E.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1.uasset'
+[2023.01.03-21.02.28:438][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/STARTWIDGET" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/STARTWIDGET.uasset" SILENT=true
+[2023.01.03-21.02.28:448][399]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/STARTWIDGET
+[2023.01.03-21.02.28:448][399]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/STARTWIDGET586AFA5840B883CF21EBA69AE03B16BC.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/STARTWIDGET.uasset'
+[2023.01.03-21.02.28:469][399]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-21.02.28:469][399]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET
+[2023.01.03-21.02.28:469][399]LogContentValidation: Display: Validating BP_Antagonist_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Antagonist_C_UAID_309C23489E33FD5801_1164782616
