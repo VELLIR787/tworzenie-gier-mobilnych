@@ -7179,3 +7179,784 @@ Please use /Niagara/Modules/Spawn/Orientation/V3/InitialMeshOrientation.InitialM
 [2023.01.03-23.02.54:267][215]LogViewport: Scene viewport resized to 633x282, mode Windowed.
 [2023.01.03-23.02.55:979][231]LogViewport: Scene viewport resized to 633x282, mode Windowed.
 [2023.01.03-23.02.59:345][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.01.03-23.03.30:375][373]LogViewport: Scene viewport resized to 1266x282, mode Windowed.
+[2023.01.03-23.03.37:050][441]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.03-23.03.37:058][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.03-23.03.37:058][441]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 01:03:37)
+[2023.01.03-23.03.37:058][441]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.03.37:656][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.597411s)
+[2023.01.03-23.03.37:656][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.597506s)
+[2023.01.03-23.03.37:656][441]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-23.03.37:656][441]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-23.03.37:657][441]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.03-23.03.37:658][441]LogPlayLevel: PIE: World Init took: (0.002508s)
+[2023.01.03-23.03.37:742][441]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.01.03-23.03.37:747][441]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2023.01.03-23.03.37:747][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.03-23.03.37:747][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.03-23.03.37:747][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.03-23.03.37:747][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.03-23.03.37:747][441]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.03-23.03.37:747][441]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.03-23.03.37:747][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.03-23.03.37:747][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.03-23.03.37:748][441]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.03-23.03.37:748][441]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.03-23.03.37:748][441]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.03-23.03.37:749][441]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.03-23.03.37:785][441]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.03-23.03.37:785][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.03-23.03.37:785][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.03-23.03.37:785][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.03-23.03.37:786][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2023.01.03-23.03.37:786][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2023.01.03-23.03.37:788][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2023.01.03-23.03.37:788][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2023.01.03-23.03.37:788][441]LogInit: FAudioDevice initialized.
+[2023.01.03-23.03.37:788][441]LogAudio: Display: Audio Device (ID: 42) registered with world 'Demo_Environment'.
+[2023.01.03-23.03.37:802][441]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.03-23.03.38:369][441]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-00.03.38
+[2023.01.03-23.03.38:375][441]LogWorld: Bringing up level for play took: 0.238971
+[2023.01.03-23.03.38:377][441]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2023.01.03-23.03.38:388][441]PIE: Server logged in
+[2023.01.03-23.03.38:389][441]PIE: Play in editor total start time 1,331 seconds.
+[2023.01.03-23.03.41:689][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.03.41:689][485]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.03.41:694][485]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-23.03.41:717][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.03.41:730][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.03-23.03.41:749][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.03.41:859][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.03.41:859][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.01.03-23.03.41:861][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.01.03-23.03.41:921][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.01.03-23.03.42:028][486]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2023.01.03-23.03.42:120][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.01.03-23.03.42:133][486]LogViewport: Scene viewport resized to 1266x282, mode Windowed.
+[2023.01.03-23.16.15:444][897]LogSlate: Window 'Message' being destroyed
+[2023.01.03-23.16.15:449][897]Message dialog closed, result: Ok, title: Message, text: MakeLevelCurrent: The requested operation could not be completed because the level is locked.
+[2023.01.03-23.19.08:171][563]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.03-23.19.15:290][640]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.03-23.19.18:882][670]LogViewport: Scene viewport resized to 524x282, mode Windowed.
+[2023.01.03-23.19.23:765][716]LogViewport: Scene viewport resized to 1266x282, mode Windowed.
+[2023.01.03-23.19.34:261][  3]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2023.01.03-23.19.34:261][  3]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2023.01.03-23.19.34:261][  3]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2023.01.03-23.19.34:262][  3]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2023.01.03-23.19.34:262][  3]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2023.01.03-23.19.34:262][  3]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2023.01.03-23.19.34:263][  3]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2023.01.03-23.19.34:263][  3]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2023.01.03-23.19.34:555][  3]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2023.01.03-23.19.34:556][  3]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2023.01.03-23.19.34:556][  3]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2023.01.03-23.19.35:818][  9]LogContentStreaming: Texture pool size now 600 MB
+[2023.01.03-23.19.42:498][162]LogViewport: Scene viewport resized to 524x282, mode Windowed.
+[2023.01.03-23.19.53:213][309]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.01.03-23.19.53:213][309]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.01.03-23.19.53:232][309]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2023.01.03-23.19.53:244][309]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2023.01.03-23.19.54:762][353]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.01.03-23.19.54:762][353]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.01.03-23.19.54:785][353]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.BP_ThirdPersonCharacter_C_1
+[2023.01.03-23.19.54:799][353]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.BP_ThirdPersonCharacter_C_1
+[2023.01.03-23.19.55:025][353]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.03-23.19.55:060][354]LogViewport: Scene viewport resized to 474x282, mode Windowed.
+[2023.01.03-23.20.06:368][587]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.03-23.20.06:368][587]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.03-23.20.06:368][587]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.03-23.20.06:368][587]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.03-23.20.06:368][587]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.03-23.20.06:368][587]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.03-23.20.06:368][587]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.03-23.20.06:369][587]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.03-23.20.06:659][587]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.03-23.20.06:659][587]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.03-23.20.06:659][587]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.03-23.20.07:123][590]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.03-23.20.09:800][744]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.03-23.20.09:858][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.03-23.20.09:858][744]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 01:20:09)
+[2023.01.03-23.20.09:859][744]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.20.10:484][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.625150s)
+[2023.01.03-23.20.10:484][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.625257s)
+[2023.01.03-23.20.10:484][744]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-23.20.10:484][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-23.20.10:485][744]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.03-23.20.10:487][744]LogPlayLevel: PIE: World Init took: (0.002414s)
+[2023.01.03-23.20.10:598][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2023.01.03-23.20.10:612][744]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2023.01.03-23.20.10:612][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.03-23.20.10:612][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.03-23.20.10:612][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.03-23.20.10:612][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.03-23.20.10:612][744]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.03-23.20.10:612][744]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.03-23.20.10:612][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.03-23.20.10:612][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.03-23.20.10:613][744]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.03-23.20.10:613][744]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.03-23.20.10:613][744]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.03-23.20.10:614][744]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.03-23.20.10:649][744]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.03-23.20.10:649][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.03-23.20.10:649][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.03-23.20.10:649][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.03-23.20.10:650][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2023.01.03-23.20.10:650][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2023.01.03-23.20.10:652][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2023.01.03-23.20.10:652][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2023.01.03-23.20.10:652][744]LogInit: FAudioDevice initialized.
+[2023.01.03-23.20.10:652][744]LogAudio: Display: Audio Device (ID: 43) registered with world 'Demo_Environment'.
+[2023.01.03-23.20.10:666][744]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.03-23.20.11:298][744]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-00.20.11
+[2023.01.03-23.20.11:306][744]LogWorld: Bringing up level for play took: 0.279655
+[2023.01.03-23.20.11:308][744]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2023.01.03-23.20.11:320][744]PIE: Server logged in
+[2023.01.03-23.20.11:321][744]PIE: Play in editor total start time 1,498 seconds.
+[2023.01.03-23.20.21:837][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.20.21:837][904]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.20.21:843][904]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-23.20.21:865][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.20.21:896][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.03-23.20.21:915][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.20.22:026][904]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-23.20.22:028][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.01.03-23.20.22:030][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.01.03-23.20.22:034][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.20.22:094][904]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2023.01.03-23.20.22:236][905]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2023.01.03-23.20.22:329][905]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.01.03-23.20.22:359][905]LogViewport: Scene viewport resized to 474x282, mode Windowed.
+[2023.01.03-23.20.22:512][905]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.03-23.20.25:218][924]Cmd: DELETE
+[2023.01.03-23.20.25:218][924]Cmd: ACTOR DELETE
+[2023.01.03-23.20.25:363][924]LogEditorActor: Deleted Actor: BP_ThirdPersonCharacter_C
+[2023.01.03-23.20.25:469][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.01.03-23.20.25:476][924]LogEditorActor: Deleted 1 Actors (0.258 secs)
+[2023.01.03-23.20.28:251][958]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.03-23.20.28:259][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.03-23.20.28:260][958]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 01:20:28)
+[2023.01.03-23.20.28:260][958]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.20.28:876][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.615131s)
+[2023.01.03-23.20.28:876][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.615240s)
+[2023.01.03-23.20.28:876][958]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-23.20.28:876][958]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-23.20.28:877][958]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.03-23.20.28:878][958]LogPlayLevel: PIE: World Init took: (0.002638s)
+[2023.01.03-23.20.28:972][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.01.03-23.20.28:975][958]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2023.01.03-23.20.28:975][958]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.03-23.20.28:975][958]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.03-23.20.28:975][958]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.03-23.20.28:975][958]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.03-23.20.28:975][958]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.03-23.20.28:975][958]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.03-23.20.28:975][958]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.03-23.20.28:975][958]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.03-23.20.28:976][958]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.03-23.20.28:976][958]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.03-23.20.28:976][958]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.03-23.20.28:978][958]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.03-23.20.29:013][958]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.03-23.20.29:013][958]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.03-23.20.29:013][958]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.03-23.20.29:013][958]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.03-23.20.29:014][958]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2023.01.03-23.20.29:014][958]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2023.01.03-23.20.29:015][958]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2023.01.03-23.20.29:016][958]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2023.01.03-23.20.29:016][958]LogInit: FAudioDevice initialized.
+[2023.01.03-23.20.29:016][958]LogAudio: Display: Audio Device (ID: 44) registered with world 'Demo_Environment'.
+[2023.01.03-23.20.29:029][958]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.03-23.20.29:627][958]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-00.20.29
+[2023.01.03-23.20.29:635][958]LogWorld: Bringing up level for play took: 0.258420
+[2023.01.03-23.20.29:637][958]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2023.01.03-23.20.29:648][958]PIE: Server logged in
+[2023.01.03-23.20.29:649][958]PIE: Play in editor total start time 1,389 seconds.
+[2023.01.03-23.21.19:486][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.21.19:486][867]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.21.19:492][867]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-23.21.19:515][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.21.19:536][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.03-23.21.19:558][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.21.19:683][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.21.19:683][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.01.03-23.21.19:685][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2023.01.03-23.21.19:751][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2023.01.03-23.21.19:805][868]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2023.01.03-23.21.19:892][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.01.03-23.21.59:062][502]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Antagonist/BP_Antagonist.BP_Antagonist_C
+[2023.01.03-23.21.59:062][502]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Antagonist/BP_Antagonist.BP_Antagonist_C
+[2023.01.03-23.21.59:077][502]LogActorFactory: Actor Factory spawned Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist as actor: BP_Antagonist_C /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.BP_Antagonist_C_0
+[2023.01.03-23.21.59:084][502]LogActorFactory: Actor Factory spawned Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist as actor: BP_Antagonist_C /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.BP_Antagonist_C_0
+[2023.01.03-23.21.59:935][522]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Antagonist/BP_Antagonist.BP_Antagonist_C
+[2023.01.03-23.21.59:935][522]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Antagonist/BP_Antagonist.BP_Antagonist_C
+[2023.01.03-23.21.59:954][522]LogActorFactory: Actor Factory spawned Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist as actor: BP_Antagonist_C /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.BP_Antagonist_C_1
+[2023.01.03-23.21.59:962][522]LogActorFactory: Actor Factory spawned Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist as actor: BP_Antagonist_C /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.BP_Antagonist_C_1
+[2023.01.03-23.22.00:118][522]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.03-23.22.00:143][523]LogViewport: Scene viewport resized to 474x282, mode Windowed.
+[2023.01.03-23.22.13:656][679]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.03-23.22.13:663][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.03-23.22.13:663][679]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 01:22:13)
+[2023.01.03-23.22.13:664][679]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.22.14:277][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.613079s)
+[2023.01.03-23.22.14:277][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.613193s)
+[2023.01.03-23.22.14:278][679]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-23.22.14:278][679]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-23.22.14:278][679]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.03-23.22.14:280][679]LogPlayLevel: PIE: World Init took: (0.002758s)
+[2023.01.03-23.22.14:381][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.01.03-23.22.14:390][679]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2023.01.03-23.22.14:390][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.03-23.22.14:390][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.03-23.22.14:390][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.03-23.22.14:390][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.03-23.22.14:390][679]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.03-23.22.14:390][679]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.03-23.22.14:390][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.03-23.22.14:390][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.03-23.22.14:391][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.03-23.22.14:391][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.03-23.22.14:391][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.03-23.22.14:392][679]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.03-23.22.14:427][679]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.03-23.22.14:427][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.03-23.22.14:427][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.03-23.22.14:427][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.03-23.22.14:428][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2023.01.03-23.22.14:428][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2023.01.03-23.22.14:430][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2023.01.03-23.22.14:430][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2023.01.03-23.22.14:430][679]LogInit: FAudioDevice initialized.
+[2023.01.03-23.22.14:430][679]LogAudio: Display: Audio Device (ID: 45) registered with world 'Demo_Environment'.
+[2023.01.03-23.22.14:448][679]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.03-23.22.15:044][679]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-00.22.15
+[2023.01.03-23.22.15:051][679]LogWorld: Bringing up level for play took: 0.251123
+[2023.01.03-23.22.15:053][679]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2023.01.03-23.22.15:065][679]PIE: Server logged in
+[2023.01.03-23.22.15:065][679]PIE: Play in editor total start time 1,402 seconds.
+[2023.01.03-23.22.22:666][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.22.22:666][803]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.22.22:672][803]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-23.22.22:694][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.22.22:719][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.03-23.22.22:740][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.22.22:861][803]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-23.22.22:865][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.01.03-23.22.22:866][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2023.01.03-23.22.22:871][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.22.22:930][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2023.01.03-23.22.23:083][804]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2023.01.03-23.22.23:169][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.01.03-23.22.23:224][804]LogViewport: Scene viewport resized to 474x282, mode Windowed.
+[2023.01.03-23.22.23:329][804]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.03-23.22.36:149][999]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.03-23.22.36:159][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.03-23.22.36:159][999]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 01:22:36)
+[2023.01.03-23.22.36:160][999]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.22.36:770][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.610501s)
+[2023.01.03-23.22.36:770][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.610607s)
+[2023.01.03-23.22.36:770][999]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-23.22.36:770][999]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-23.22.36:771][999]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.03-23.22.36:772][999]LogPlayLevel: PIE: World Init took: (0.002517s)
+[2023.01.03-23.22.36:856][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.01.03-23.22.36:862][999]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2023.01.03-23.22.36:862][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.03-23.22.36:862][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.03-23.22.36:862][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.03-23.22.36:862][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.03-23.22.36:862][999]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.03-23.22.36:862][999]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.03-23.22.36:863][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.03-23.22.36:863][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.03-23.22.36:863][999]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.03-23.22.36:863][999]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.03-23.22.36:863][999]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.03-23.22.36:865][999]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.03-23.22.36:900][999]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.03-23.22.36:900][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.03-23.22.36:900][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.03-23.22.36:900][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.03-23.22.36:901][999]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2023.01.03-23.22.36:901][999]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2023.01.03-23.22.36:902][999]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2023.01.03-23.22.36:902][999]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2023.01.03-23.22.36:902][999]LogInit: FAudioDevice initialized.
+[2023.01.03-23.22.36:903][999]LogAudio: Display: Audio Device (ID: 46) registered with world 'Demo_Environment'.
+[2023.01.03-23.22.36:917][999]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.03-23.22.37:510][999]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-00.22.37
+[2023.01.03-23.22.37:518][999]LogWorld: Bringing up level for play took: 0.256084
+[2023.01.03-23.22.37:520][999]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2023.01.03-23.22.37:531][999]PIE: Server logged in
+[2023.01.03-23.22.37:532][999]PIE: Play in editor total start time 1,373 seconds.
+[2023.01.03-23.22.53:946][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.22.53:946][296]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.22.53:952][296]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-23.22.53:971][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.22.54:015][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.03-23.22.54:036][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.22.54:149][296]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-23.22.54:149][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2023.01.03-23.22.54:151][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2023.01.03-23.22.54:155][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.22.54:215][296]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2023.01.03-23.22.54:333][297]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2023.01.03-23.22.54:412][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.01.03-23.23.37:908][101]LogViewport: Scene viewport resized to 633x282, mode Windowed.
+[2023.01.03-23.24.31:026][603]LogSlate: Window 'Message' being destroyed
+[2023.01.03-23.24.31:031][603]Message dialog closed, result: Ok, title: Message, text: MakeLevelCurrent: The requested operation could not be completed because the level is locked.
+[2023.01.03-23.24.41:110][720]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2023.01.03-23.24.41:111][720]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2023.01.03-23.24.41:111][720]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2023.01.03-23.24.41:111][720]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2023.01.03-23.24.41:111][720]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2023.01.03-23.24.41:111][720]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2023.01.03-23.24.41:111][720]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2023.01.03-23.24.41:111][720]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2023.01.03-23.24.41:400][720]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2023.01.03-23.24.41:400][720]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2023.01.03-23.24.41:400][720]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2023.01.03-23.24.41:540][720]LogContentStreaming: Texture pool size now 600 MB
+[2023.01.03-23.24.41:644][721]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2023.01.03-23.24.41:644][721]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2023.01.03-23.24.41:644][721]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2023.01.03-23.24.41:644][721]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2023.01.03-23.24.41:644][721]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2023.01.03-23.24.41:644][721]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2023.01.03-23.24.41:644][721]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2023.01.03-23.24.41:644][721]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2023.01.03-23.24.41:929][721]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2023.01.03-23.24.41:929][721]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2023.01.03-23.24.41:929][721]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2023.01.03-23.24.42:332][727]LogContentStreaming: Texture pool size now 400 MB
+[2023.01.03-23.24.48:835][131]LogViewport: Scene viewport resized to 760x282, mode Windowed.
+[2023.01.03-23.24.49:952][180]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.03-23.24.49:968][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.03-23.24.49:968][180]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 01:24:49)
+[2023.01.03-23.24.49:968][180]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.24.50:573][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.604767s)
+[2023.01.03-23.24.50:573][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.604944s)
+[2023.01.03-23.24.50:574][180]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-23.24.50:574][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-23.24.50:574][180]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.03-23.24.50:576][180]LogPlayLevel: PIE: World Init took: (0.002393s)
+[2023.01.03-23.24.50:662][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.01.03-23.24.50:671][180]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2023.01.03-23.24.50:671][180]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.03-23.24.50:671][180]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.03-23.24.50:671][180]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.03-23.24.50:671][180]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.03-23.24.50:671][180]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.03-23.24.50:671][180]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.03-23.24.50:671][180]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.03-23.24.50:671][180]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.03-23.24.50:672][180]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.03-23.24.50:672][180]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.03-23.24.50:672][180]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.03-23.24.50:674][180]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.03-23.24.50:709][180]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.03-23.24.50:709][180]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.03-23.24.50:709][180]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.03-23.24.50:709][180]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.03-23.24.50:710][180]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2023.01.03-23.24.50:710][180]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2023.01.03-23.24.50:712][180]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2023.01.03-23.24.50:712][180]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2023.01.03-23.24.50:712][180]LogInit: FAudioDevice initialized.
+[2023.01.03-23.24.50:712][180]LogAudio: Display: Audio Device (ID: 47) registered with world 'Demo_Environment'.
+[2023.01.03-23.24.50:724][180]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.03-23.24.51:313][180]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-00.24.51
+[2023.01.03-23.24.51:320][180]LogWorld: Bringing up level for play took: 0.254927
+[2023.01.03-23.24.51:323][180]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2023.01.03-23.24.51:334][180]PIE: Server logged in
+[2023.01.03-23.24.51:334][180]PIE: Play in editor total start time 1,366 seconds.
+[2023.01.03-23.25.02:146][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.25.02:146][ 23]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.25.02:152][ 23]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-23.25.02:177][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.25.02:195][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.03-23.25.02:214][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.25.02:322][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-23.25.02:322][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.01.03-23.25.02:323][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.01.03-23.25.02:327][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.25.02:384][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2023.01.03-23.25.02:497][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2023.01.03-23.25.02:589][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.01.03-23.25.02:601][ 24]LogViewport: Scene viewport resized to 760x282, mode Windowed.
+[2023.01.03-23.25.19:647][930]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -1800.00,110.00,0.00
+[2023.01.03-23.25.19:938][931]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.03-23.25.37:602][837]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.03-23.25.37:609][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.03-23.25.37:609][837]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 01:25:37)
+[2023.01.03-23.25.37:609][837]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.25.38:221][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.610783s)
+[2023.01.03-23.25.38:221][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.610882s)
+[2023.01.03-23.25.38:221][837]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-23.25.38:221][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-23.25.38:222][837]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.03-23.25.38:223][837]LogPlayLevel: PIE: World Init took: (0.002396s)
+[2023.01.03-23.25.38:305][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.01.03-23.25.38:312][837]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2023.01.03-23.25.38:313][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.03-23.25.38:313][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.03-23.25.38:313][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.03-23.25.38:313][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.03-23.25.38:313][837]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.03-23.25.38:313][837]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.03-23.25.38:313][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.03-23.25.38:313][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.03-23.25.38:313][837]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.03-23.25.38:313][837]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.03-23.25.38:313][837]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.03-23.25.38:315][837]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.03-23.25.38:349][837]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.03-23.25.38:350][837]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.03-23.25.38:350][837]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.03-23.25.38:350][837]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.03-23.25.38:351][837]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2023.01.03-23.25.38:351][837]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2023.01.03-23.25.38:352][837]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2023.01.03-23.25.38:352][837]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2023.01.03-23.25.38:352][837]LogInit: FAudioDevice initialized.
+[2023.01.03-23.25.38:352][837]LogAudio: Display: Audio Device (ID: 48) registered with world 'Demo_Environment'.
+[2023.01.03-23.25.38:368][837]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.03-23.25.38:949][837]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-00.25.38
+[2023.01.03-23.25.38:956][837]LogWorld: Bringing up level for play took: 0.247726
+[2023.01.03-23.25.38:958][837]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2023.01.03-23.25.38:970][837]PIE: Server logged in
+[2023.01.03-23.25.38:970][837]PIE: Play in editor total start time 1,36 seconds.
+[2023.01.03-23.25.43:725][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.25.43:725][193]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.25.43:731][193]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-23.25.43:755][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.25.43:773][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.03-23.25.43:793][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.25.43:903][193]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-23.25.43:903][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.01.03-23.25.43:904][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.01.03-23.25.43:908][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.25.43:968][193]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2023.01.03-23.25.44:105][194]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2023.01.03-23.25.44:196][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.01.03-23.25.57:776][814]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.01.03-23.25.57:776][814]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.01.03-23.25.57:794][814]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.BP_ThirdPersonCharacter_C_2
+[2023.01.03-23.25.57:804][814]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.BP_ThirdPersonCharacter_C_2
+[2023.01.03-23.25.59:335][870]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.01.03-23.25.59:335][870]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.01.03-23.25.59:358][870]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.BP_ThirdPersonCharacter_C_3
+[2023.01.03-23.25.59:370][870]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.BP_ThirdPersonCharacter_C_3
+[2023.01.03-23.25.59:595][870]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.03-23.25.59:629][871]LogViewport: Scene viewport resized to 474x282, mode Windowed.
+[2023.01.03-23.26.49:756][896]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.03-23.26.49:789][897]LogViewport: Scene viewport resized to 474x282, mode Windowed.
+[2023.01.03-23.27.00:964][228]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.03-23.27.00:989][228]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.03-23.27.01:004][228]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.03-23.27.03:617][228]LogContentBrowser: Attempting asset rename: NewFolder -> CutScene
+[2023.01.03-23.27.03:618][228]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.03-23.27.11:189][228]LogSlate: Window 'Save Asset As' being destroyed
+[2023.01.03-23.27.11:214][228]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/CutScene/StartScene.StartScene
+[2023.01.03-23.27.11:214][228]LogActorFactory: Actor Factory attempting to spawn LevelSequence /Game/CutScene/StartScene.StartScene
+[2023.01.03-23.27.11:224][228]LogActorFactory: Actor Factory spawned LevelSequence /Game/CutScene/StartScene.StartScene as actor: LevelSequenceActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.LevelSequenceActor_0
+[2023.01.03-23.27.11:224][228]LogActorFactory: Actor Factory spawned LevelSequence /Game/CutScene/StartScene.StartScene as actor: LevelSequenceActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.LevelSequenceActor_0
+[2023.01.03-23.27.11:246][228]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CutScene/StartScene.StartScene
+[2023.01.03-23.27.11:295][228]LogSceneOutliner: Outliner Column Spawnable does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.01.03-23.27.11:295][228]LogSceneOutliner: Outliner Column Sequence does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.01.03-23.27.11:352][228]LogViewport: Scene viewport resized to 1504x530, mode Windowed.
+[2023.01.03-23.27.11:452][229]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.27.14:618][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.01.03-23.27.16:532][398]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Downtown_West/Maps/Demo_Environment_Auto7
+[2023.01.03-23.27.16:532][398]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Demo_Environment_Auto7669580FE4B412A7A736CC29C706E47A5.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Downtown_West/Maps/Demo_Environment_Auto7.umap'
+[2023.01.03-23.27.16:552][398]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Temp/Autosaves/Game/Downtown_West/Maps/Demo_Environment_Auto7.
+[2023.01.03-23.27.16:554][398]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 2.033
+[2023.01.03-23.27.16:554][398]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.033
+[2023.01.03-23.27.16:554][398]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CutScene/StartScene] ([1] browsable assets)...
+[2023.01.03-23.27.16:554][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/CutScene/StartScene]
+[2023.01.03-23.27.16:555][398]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CutScene/StartScene_Auto7
+[2023.01.03-23.27.16:555][398]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/StartScene_Auto764C8418E4253376220349B9CB9609136.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/CutScene/StartScene_Auto7.uasset'
+[2023.01.03-23.27.16:555][398]LogFileHelpers: Auto-saving content packages took 0.001
+[2023.01.03-23.28.13:047][563]LogViewport: Scene viewport resized to 375x167, mode Windowed.
+[2023.01.03-23.28.14:582][628]LogViewport: Scene viewport resized to 375x167, mode Windowed.
+[2023.01.03-23.28.16:201][695]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.28.17:166][732]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.28.22:652][991]LogViewport: Scene viewport resized to 750x167, mode Windowed.
+[2023.01.03-23.28.23:446][ 18]LogViewport: Scene viewport resized to 311x167, mode Windowed.
+[2023.01.03-23.28.24:002][ 34]LogViewport: Scene viewport resized to 750x167, mode Windowed.
+[2023.01.03-23.28.29:689][270]LogViewport: Scene viewport resized to 311x167, mode Windowed.
+[2023.01.03-23.28.30:904][317]LogViewport: Scene viewport resized to 375x167, mode Windowed.
+[2023.01.03-23.28.37:549][631]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.03-23.28.37:549][631]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.03-23.28.37:549][631]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.03-23.28.37:549][631]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.03-23.28.37:549][631]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.03-23.28.37:549][631]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.03-23.28.37:549][631]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.03-23.28.37:549][631]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.03-23.28.37:816][631]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.03-23.28.37:816][631]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.03-23.28.37:816][631]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.03-23.28.38:060][633]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.03-23.28.40:232][656]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.28.41:371][670]LogViewport: Scene viewport resized to 750x167, mode Windowed.
+[2023.01.03-23.28.42:268][679]LogViewport: Scene viewport resized to 311x167, mode Windowed.
+[2023.01.03-23.28.42:869][685]LogViewport: Scene viewport resized to 375x167, mode Windowed.
+[2023.01.03-23.28.43:434][691]LogViewport: Scene viewport resized to 375x167, mode Windowed.
+[2023.01.03-23.28.44:028][697]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.28.44:835][705]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.28.45:926][716]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.28.46:663][724]LogViewport: Scene viewport resized to 375x167, mode Windowed.
+[2023.01.03-23.28.47:464][732]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.28.48:322][741]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.28.48:978][748]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.28.49:984][759]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.02:523][906]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.04:252][925]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.07:146][958]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.08:215][970]LogViewport: Scene viewport resized to 450x167, mode Windowed.
+[2023.01.03-23.29.09:596][985]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.16:666][ 69]LogViewport: Scene viewport resized to 450x167, mode Windowed.
+[2023.01.03-23.29.17:698][ 80]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.18:617][ 90]LogViewport: Scene viewport resized to 375x167, mode Windowed.
+[2023.01.03-23.29.19:324][ 97]LogViewport: Scene viewport resized to 375x167, mode Windowed.
+[2023.01.03-23.29.20:596][112]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.28:093][197]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.28:759][204]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.29:413][211]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.30:064][218]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.30:716][225]LogViewport: Scene viewport resized to 450x167, mode Windowed.
+[2023.01.03-23.29.39:107][308]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.39:933][317]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.40:606][324]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.41:184][330]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.41:866][337]LogViewport: Scene viewport resized to 375x167, mode Windowed.
+[2023.01.03-23.29.42:489][343]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.43:076][349]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.43:671][355]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.29.44:559][364]LogViewport: Scene viewport resized to 375x167, mode Windowed.
+[2023.01.03-23.29.45:698][376]LogViewport: Scene viewport resized to 375x167, mode Windowed.
+[2023.01.03-23.29.46:601][386]LogViewport: Scene viewport resized to 311x167, mode Windowed.
+[2023.01.03-23.29.47:390][394]LogViewport: Scene viewport resized to 750x167, mode Windowed.
+[2023.01.03-23.29.48:180][402]LogViewport: Scene viewport resized to 311x167, mode Windowed.
+[2023.01.03-23.29.57:679][506]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.30.13:274][679]LogViewport: Scene viewport resized to 1504x894, mode Windowed.
+[2023.01.03-23.30.13:635][680]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.03-23.30.19:960][748]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -220.00,-60.00,0.00
+[2023.01.03-23.30.20:281][749]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.03-23.32.15:729][899]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CutScene/StartScene.StartScene
+[2023.01.03-23.32.15:756][899]LogSceneOutliner: Outliner Column Spawnable does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.01.03-23.32.15:757][899]LogSceneOutliner: Outliner Column Sequence does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.01.03-23.32.15:793][899]LogViewport: Scene viewport resized to 1504x530, mode Windowed.
+[2023.01.03-23.32.43:677][468]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.33.36:315][657]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.33.46:736][821]LogDerivedDataCache: C:/Users/MK170/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.232 and deleted 1 file(s) with total size 0 MiB.
+[2023.01.03-23.35.42:898][297]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2023.01.03-23.35.42:898][297]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2023.01.03-23.35.42:898][297]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2023.01.03-23.35.42:898][297]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2023.01.03-23.35.42:898][297]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2023.01.03-23.35.42:898][297]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2023.01.03-23.35.42:898][297]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2023.01.03-23.35.42:898][297]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2023.01.03-23.35.43:185][297]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2023.01.03-23.35.43:185][297]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2023.01.03-23.35.43:185][297]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2023.01.03-23.35.43:325][297]LogContentStreaming: Texture pool size now 400 MB
+[2023.01.03-23.35.59:637][543]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CutScene/StartScene.StartScene:StartScene (Director BP)
+[2023.01.03-23.35.59:638][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-23.36.00:013][543]LogBlueprint: Warning: Unknown type of hyperlinked object (StartScene (Director BP)), cannot focus it
+[2023.01.03-23.36.26:573][666]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.36.27:675][729]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.36.28:450][770]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.36.30:300][878]LogViewport: Scene viewport resized to 297x167, mode Windowed.
+[2023.01.03-23.38.33:304][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.01.03-23.38.35:220][ 12]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Downtown_West/Maps/Demo_Environment_Auto8
+[2023.01.03-23.38.35:220][ 12]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Demo_Environment_Auto83F410E614832EDF1FF2E1AB6CE8766A4.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Downtown_West/Maps/Demo_Environment_Auto8.umap'
+[2023.01.03-23.38.35:238][ 12]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Temp/Autosaves/Game/Downtown_West/Maps/Demo_Environment_Auto8.
+[2023.01.03-23.38.35:240][ 12]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 2.061
+[2023.01.03-23.38.35:240][ 12]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.061
+[2023.01.03-23.38.35:241][ 12]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CutScene/StartScene] ([2] browsable assets)...
+[2023.01.03-23.38.35:241][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/CutScene/StartScene]
+[2023.01.03-23.38.35:247][ 12]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CutScene/StartScene_Auto8
+[2023.01.03-23.38.35:247][ 12]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/StartScene_Auto801A9136E4AE7D62DD77A12927D4B1AB8.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/CutScene/StartScene_Auto8.uasset'
+[2023.01.03-23.38.35:247][ 12]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.01.03-23.40.09:977][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2023.01.03-23.40.11:313][  5]LogSlate: Window 'Save Content' being destroyed
+[2023.01.03-23.40.12:442][ 93]LogSlate: Window 'Render Movie Settings' being destroyed
+[2023.01.03-23.40.35:041][ 79]Cmd: TRANSACTION UNDO
+[2023.01.03-23.40.35:041][ 79]LogEditorTransaction: Undo Resize section
+[2023.01.03-23.40.39:810][437]Cmd: TRANSACTION UNDO
+[2023.01.03-23.40.39:811][437]LogEditorTransaction: Undo Move Keys or Sections
+[2023.01.03-23.40.56:151][736]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.03-23.40.56:151][736]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.03-23.40.56:151][736]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.03-23.40.56:151][736]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.03-23.40.56:151][736]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.03-23.40.56:151][736]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.03-23.40.56:151][736]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.03-23.40.56:152][736]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.03-23.40.56:425][736]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.03-23.40.56:425][736]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.03-23.40.56:425][736]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.03-23.40.56:571][737]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.03-23.41.25:799][372]Cmd: TRANSACTION UNDO
+[2023.01.03-23.41.25:799][372]LogEditorTransaction: Undo Resize section
+[2023.01.03-23.41.26:351][380]Cmd: TRANSACTION UNDO
+[2023.01.03-23.41.26:351][380]LogEditorTransaction: Undo Move Keys or Sections
+[2023.01.03-23.46.42:768][887]LogViewport: Scene viewport resized to 1523x530, mode Windowed.
+[2023.01.03-23.46.42:920][889]LogViewport: Scene viewport resized to 1573x530, mode Windowed.
+[2023.01.03-23.46.43:164][891]LogViewport: Scene viewport resized to 1642x530, mode Windowed.
+[2023.01.03-23.46.43:351][893]LogViewport: Scene viewport resized to 1671x530, mode Windowed.
+[2023.01.03-23.46.43:510][895]LogViewport: Scene viewport resized to 1698x530, mode Windowed.
+[2023.01.03-23.47.04:737][336]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.04:737][336]LogEditorTransaction: Undo Edit Section Range
+[2023.01.03-23.47.05:006][338]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.05:006][338]LogEditorTransaction: Undo Edit Section Range
+[2023.01.03-23.47.05:176][340]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.05:176][340]LogEditorTransaction: Undo Edit Section Range
+[2023.01.03-23.47.05:322][343]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.05:322][343]LogEditorTransaction: Undo Move Keys or Sections
+[2023.01.03-23.47.05:636][349]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.05:636][349]LogEditorTransaction: Undo Set Playback Range
+[2023.01.03-23.47.06:226][359]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.06:226][359]LogEditorTransaction: Undo Move Keys or Sections
+[2023.01.03-23.47.06:721][367]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.06:721][367]LogEditorTransaction: Undo Edit Section Range
+[2023.01.03-23.47.07:276][377]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.07:276][377]LogEditorTransaction: Undo Edit Section Range
+[2023.01.03-23.47.07:740][386]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.07:740][386]LogEditorTransaction: Undo Edit Section Range
+[2023.01.03-23.47.08:203][395]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.08:203][395]LogEditorTransaction: Undo Edit Section Range
+[2023.01.03-23.47.08:717][405]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.08:717][405]LogEditorTransaction: Undo Edit Section Range
+[2023.01.03-23.47.09:076][412]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.09:076][412]LogEditorTransaction: Undo Edit Section Range
+[2023.01.03-23.47.09:422][418]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.09:422][418]LogEditorTransaction: Undo Edit Section Range
+[2023.01.03-23.47.09:883][427]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.09:883][427]LogEditorTransaction: Undo Edit Section Range
+[2023.01.03-23.47.10:399][437]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.10:400][437]LogEditorTransaction: Undo Move Keys or Sections
+[2023.01.03-23.47.10:809][444]Cmd: TRANSACTION UNDO
+[2023.01.03-23.47.10:809][444]LogEditorTransaction: Undo Move Keys or Sections
+[2023.01.03-23.47.47:109][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScene/StartScene" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/CutScene/StartScene.uasset" SILENT=true
+[2023.01.03-23.47.47:116][115]LogSavePackage: Moving output files for package: /Game/CutScene/StartScene
+[2023.01.03-23.47.47:116][115]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/StartScene4BC344FA4CC00C1AFB4F61BC0BBA099D.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/CutScene/StartScene.uasset'
+[2023.01.03-23.47.47:151][115]AssetCheck: New page: Asset Save: StartScene
+[2023.01.03-23.47.47:152][115]LogContentValidation: Display: Validating LevelSequence /Game/CutScene/StartScene.StartScene
+[2023.01.03-23.47.47:153][115]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/CutScene/StartScene.
+[2023.01.03-23.48.17:589][691]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.03-23.48.17:620][692]LogViewport: Scene viewport resized to 536x167, mode Windowed.
+[2023.01.03-23.48.20:334][724]LogViewport: Scene viewport resized to 1649x530, mode Windowed.
+[2023.01.03-23.48.20:515][725]LogViewport: Scene viewport resized to 520x167, mode Windowed.
+[2023.01.03-23.48.20:648][726]LogViewport: Scene viewport resized to 1518x530, mode Windowed.
+[2023.01.03-23.48.20:788][727]LogViewport: Scene viewport resized to 479x167, mode Windowed.
+[2023.01.03-23.48.20:948][728]LogViewport: Scene viewport resized to 1496x530, mode Windowed.
+[2023.01.03-23.48.21:116][729]LogViewport: Scene viewport resized to 472x167, mode Windowed.
+[2023.01.03-23.48.21:236][730]LogViewport: Scene viewport resized to 1446x530, mode Windowed.
+[2023.01.03-23.48.21:357][731]LogViewport: Scene viewport resized to 456x167, mode Windowed.
+[2023.01.03-23.48.48:050][  9]LogViewport: Scene viewport resized to 1446x894, mode Windowed.
+[2023.01.03-23.48.48:233][ 10]LogViewport: Scene viewport resized to 456x282, mode Windowed.
+[2023.01.03-23.48.50:544][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.01.03-23.48.50:719][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.01.03-23.48.52:668][ 34]LogSavePackage: Moving output files for package: /Game/Downtown_West/Maps/Demo_Environment
+[2023.01.03-23.48.52:669][ 34]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Demo_EnvironmentF1C4CC3E42A1564A6A35388178967942.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Downtown_West/Maps/Demo_Environment.umap'
+[2023.01.03-23.48.52:697][ 34]LogFileHelpers: No new changes to save!
+[2023.01.03-23.48.52:697][ 34]LogFileHelpers: Saving map 'Demo_Environment' took 2.087
+[2023.01.03-23.48.52:697][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScene/StartScene" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/CutScene/StartScene.uasset" SILENT=true
+[2023.01.03-23.48.52:704][ 34]LogSavePackage: Moving output files for package: /Game/CutScene/StartScene
+[2023.01.03-23.48.52:704][ 34]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/StartScene891452C74757594B2260548F9BB996D6.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/CutScene/StartScene.uasset'
+[2023.01.03-23.48.52:745][ 34]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-23.48.52:745][ 34]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment
+[2023.01.03-23.48.52:745][ 34]LogContentValidation: Display: Validating LevelSequence /Game/CutScene/StartScene.StartScene
+[2023.01.03-23.48.58:956][102]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.03-23.48.58:970][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.03-23.48.58:970][102]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 01:48:58)
+[2023.01.03-23.48.58:970][102]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.48.59:618][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.648536s)
+[2023.01.03-23.48.59:618][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.648643s)
+[2023.01.03-23.48.59:618][102]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.03-23.48.59:618][102]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-23.48.59:619][102]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.03-23.48.59:621][102]LogPlayLevel: PIE: World Init took: (0.002468s)
+[2023.01.03-23.48.59:730][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2023.01.03-23.48.59:738][102]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2023.01.03-23.48.59:738][102]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.03-23.48.59:738][102]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.03-23.48.59:738][102]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.03-23.48.59:738][102]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.03-23.48.59:738][102]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.03-23.48.59:738][102]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.03-23.48.59:738][102]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.03-23.48.59:738][102]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.03-23.48.59:738][102]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.03-23.48.59:738][102]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.03-23.48.59:738][102]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.03-23.48.59:740][102]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.03-23.48.59:775][102]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.03-23.48.59:776][102]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.03-23.48.59:776][102]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.03-23.48.59:776][102]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.03-23.48.59:776][102]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2023.01.03-23.48.59:776][102]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2023.01.03-23.48.59:778][102]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2023.01.03-23.48.59:778][102]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2023.01.03-23.48.59:778][102]LogInit: FAudioDevice initialized.
+[2023.01.03-23.48.59:778][102]LogAudio: Display: Audio Device (ID: 49) registered with world 'Demo_Environment'.
+[2023.01.03-23.48.59:795][102]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.03-23.49.00:376][102]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-00.49.00
+[2023.01.03-23.49.00:385][102]LogWorld: Bringing up level for play took: 0.245438
+[2023.01.03-23.49.00:387][102]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2023.01.03-23.49.00:398][102]PIE: Server logged in
+[2023.01.03-23.49.00:399][102]PIE: Play in editor total start time 1,43 seconds.
+[2023.01.03-23.49.07:018][207]Cmd: LevelEditor.ToggleImmersive
+[2023.01.03-23.49.07:139][207]LogViewport: Scene viewport resized to 720x445, mode Windowed.
+[2023.01.03-23.49.07:270][207]LogViewport: Scene viewport resized to 720x445, mode Windowed.
+[2023.01.03-23.49.07:344][207]LogViewport: Scene viewport resized to 720x445, mode Windowed.
+[2023.01.03-23.49.07:452][207]LogViewport: Scene viewport resized to 1920x1032, mode Windowed.
+[2023.01.03-23.49.45:154][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.49.45:154][926]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.03-23.49.45:159][926]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.03-23.49.45:182][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.49.45:212][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.03-23.49.45:232][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.03-23.49.45:341][926]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.03-23.49.45:349][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2023.01.03-23.49.45:351][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2023.01.03-23.49.45:355][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.03-23.49.45:412][926]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2023.01.03-23.49.45:490][927]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2023.01.03-23.49.45:595][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.01.03-23.49.45:605][927]LogViewport: Scene viewport resized to 606x325, mode Windowed.
+[2023.01.03-23.49.46:436][935]LogViewport: Scene viewport resized to 1446x894, mode Windowed.
+[2023.01.03-23.49.46:498][936]LogViewport: Scene viewport resized to 456x282, mode Windowed.
+[2023.01.03-23.49.51:488][990]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2023.01.03-23.49.51:488][990]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2023.01.03-23.49.51:488][990]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2023.01.03-23.49.51:488][990]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2023.01.03-23.49.51:488][990]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2023.01.03-23.49.51:488][990]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2023.01.03-23.49.51:488][990]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2023.01.03-23.49.51:488][990]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2023.01.03-23.49.51:758][990]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2023.01.03-23.49.51:758][990]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2023.01.03-23.49.51:759][990]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2023.01.03-23.49.51:982][992]LogContentStreaming: Texture pool size now 400 MB
+[2023.01.03-23.50.03:918][812]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.Demo_Environment
+[2023.01.03-23.50.03:919][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-23.50.08:174][ 28]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Downtown_West/Maps/Sub-Levels/Nightime_Lighting.Nightime_Lighting:PersistentLevel.Nightime_Lighting
+[2023.01.03-23.50.08:174][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-23.50.15:027][396]LogSlate: Window 'Message' being destroyed
+[2023.01.03-23.50.15:032][396]Message dialog closed, result: Ok, title: Message, text: MakeLevelCurrent: The requested operation could not be completed because the level is locked.
+[2023.01.03-23.51.13:333][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2023.01.03-23.51.13:507][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.01.03-23.51.15:649][676]LogSavePackage: Moving output files for package: /Game/Downtown_West/Maps/Demo_Environment
+[2023.01.03-23.51.15:649][676]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Demo_Environment5BD3A07644B805B018055695ECF6F3AE.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Downtown_West/Maps/Demo_Environment.umap'
+[2023.01.03-23.51.15:680][676]LogFileHelpers: No new changes to save!
+[2023.01.03-23.51.15:680][676]LogFileHelpers: Saving map 'Demo_Environment' took 2.285
+[2023.01.03-23.51.15:728][676]AssetCheck: New page: Asset Save: Demo_Environment
+[2023.01.03-23.51.15:729][676]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment
