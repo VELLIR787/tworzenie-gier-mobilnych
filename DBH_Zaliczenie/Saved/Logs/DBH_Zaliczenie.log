@@ -3369,3 +3369,19 @@ Make sure 'BP_Antagonist_C' has been compiled for  Get Dialogue
 [2023.01.03-18.53.22:224][397]AssetCheck: New page: Asset Save: multiple assets
 [2023.01.03-18.53.22:224][397]LogContentValidation: Display: Validating BP_Antagonist_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Antagonist_C_UAID_309C23489E33FD5801_1164782616
 [2023.01.03-18.53.22:224][397]LogContentValidation: Display: Validating BehaviorTree /Game/Dialogue_System/DialogueTree.DialogueTree
+[2023.01.03-18.54.16:971][919]LogSlate: Window 'Save Asset As' being destroyed
+[2023.01.03-18.54.47:668][372]LogSlate: Window 'Save Asset As' being destroyed
+[2023.01.03-18.54.47:683][372]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dialogue_System/StartDialogue.StartDialogue
+[2023.01.03-18.54.47:684][372]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.03-18.54.48:055][372]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Dialogue_System/StartDialogue.
+[2023.01.03-18.54.54:294][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.01.03-18.54.54:347][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dialogue_System/DialogueTree" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/DialogueTree.uasset" SILENT=true
+[2023.01.03-18.54.54:349][677]LogSavePackage: Moving output files for package: /Game/Dialogue_System/DialogueTree
+[2023.01.03-18.54.54:349][677]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueTreeA153A4584BBCF1FD52197DB7F7696240.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/DialogueTree.uasset'
+[2023.01.03-18.54.54:350][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dialogue_System/StartDialogue" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/StartDialogue.uasset" SILENT=true
+[2023.01.03-18.54.54:351][677]LogSavePackage: Moving output files for package: /Game/Dialogue_System/StartDialogue
+[2023.01.03-18.54.54:351][677]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/StartDialogue0361FC4543F3DC9167C7C5A0DD379ACB.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Dialogue_System/StartDialogue.uasset'
+[2023.01.03-18.54.54:369][677]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.03-18.54.54:369][677]LogContentValidation: Display: Validating Blueprint /Game/Dialogue_System/StartDialogue.StartDialogue
+[2023.01.03-18.54.54:369][677]LogContentValidation: Display: Validating BehaviorTree /Game/Dialogue_System/DialogueTree.DialogueTree
+[2023.01.03-18.54.54:370][677]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Dialogue_System/StartDialogue.
