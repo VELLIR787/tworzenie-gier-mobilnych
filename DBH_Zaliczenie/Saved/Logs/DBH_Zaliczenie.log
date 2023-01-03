@@ -1737,3 +1737,10 @@ Recommended: 516.25
 [2023.01.03-16.26.22:289][191]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_ThirdPersonCharacter5B90255048C732CB49821EAC7222EBCB.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
 [2023.01.03-16.26.22:304][191]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2023.01.03-16.26.22:304][191]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.01.03-16.26.50:491][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.01.03-16.26.50:498][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KE/CFBT7HL6NZP9HW468OCC9F_Auto5
+[2023.01.03-16.26.50:498][461]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/CFBT7HL6NZP9HW468OCC9F_Auto539A3FDE9429E49E7CC16C6820476DFA5.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KE/CFBT7HL6NZP9HW468OCC9F_Auto5.uasset'
+[2023.01.03-16.26.50:500][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1_Auto5
+[2023.01.03-16.26.50:500][461]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/66SAEXGOII5USWPHE66AE1_Auto5830E134D43E18734F8161B901411026B.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PQ/66SAEXGOII5USWPHE66AE1_Auto5.uasset'
+[2023.01.03-16.26.50:500][461]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.081
+[2023.01.03-16.26.50:500][461]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.081
