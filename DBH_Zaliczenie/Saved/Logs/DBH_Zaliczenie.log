@@ -1017,3 +1017,1193 @@ Continue: Skip saving this asset only.
 [2023.01.04-16.29.48:288][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
 [2023.01.04-16.29.48:367][540]LogPlayLevel: Display: Destroying online subsystem :Context_15
 [2023.01.04-16.29.48:430][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.01.04-16.37.06:863][153]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.01.04-16.37.06:863][153]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-16.37.33:182][648]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.04-16.37.42:350][267]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/DialogueWidget.DialogueWidget
+[2023.01.04-16.37.42:351][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-16.37.42:382][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-16.37.42:728][267]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-16.37.42:728][267]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-16.37.54:159][645]LogSlate: Took 0.005308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.01.04-16.38.19:394][486]BlueprintLog: New page: Compile DialogueWidget
+[2023.01.04-16.38.19:508][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.01.04-16.38.29:550][ 47]BlueprintLog: New page: Compile STARTWIDGET
+[2023.01.04-16.38.29:659][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.01.04-16.38.30:148][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/STARTWIDGET" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/STARTWIDGET.uasset" SILENT=true
+[2023.01.04-16.38.30:154][ 61]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_0:
+[2023.01.04-16.38.30:691][ 61]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-16.38.30:691][ 61]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.38.30:691][ 61]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-16.38.30:691][ 61]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.38.30:691][ 61]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-16.38.31:631][ 61]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-16.38.31:631][ 61]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.38.31:631][ 61]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.38.31:631][ 61]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-16.38.31:631][ 61]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.38.31:631][ 61]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-16.38.31:631][ 61]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.38.31:631][ 61]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-16.38.33:064][ 61]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-16.38.33:065][ 61]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.38.33:065][ 61]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.38.33:065][ 61]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-16.38.33:065][ 61]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.38.33:065][ 61]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-16.38.33:065][ 61]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.38.33:065][ 61]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-16.38.33:613][ 61]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-16.38.33:613][ 61]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.38.33:613][ 61]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-16.38.33:613][ 61]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.38.35:115][ 61]LogSlate: Window 'Message' being destroyed
+[2023.01.04-16.38.35:120][ 61]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/Blueprints/UI/STARTWIDGET' (STARTWIDGET.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2023.01.04-16.38.35:127][ 61]EditorErrors: New page: Save Output
+[2023.01.04-16.38.35:127][ 61]EditorErrors: Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/STARTWIDGET.uasset: Graph is linked to object CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1 (ObjectRef) in external map
+[2023.01.04-16.38.37:229][131]LogSlate: Window 'Message Log' being destroyed
+[2023.01.04-16.38.37:235][131]LogSlate: Window 'Message Log' being destroyed
+[2023.01.04-16.38.38:426][171]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-16.38.38:434][171]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.01.04-16.38.38:435][171]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2023.01.04-16.38.38:618][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.01.04-16.38.38:620][171]LogPlayLevel: PlayLevel: Blueprint regeneration took 185 ms (1 blueprints)
+[2023.01.04-16.38.38:620][171]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 18:38:38)
+[2023.01.04-16.38.38:620][171]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-16.38.39:194][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.572967s)
+[2023.01.04-16.38.39:194][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.573059s)
+[2023.01.04-16.38.39:194][171]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.04-16.38.39:194][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-16.38.39:194][171]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.04-16.38.39:196][171]LogPlayLevel: PIE: World Init took: (0.002349s)
+[2023.01.04-16.38.39:273][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.01.04-16.38.39:275][171]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.01.04-16.38.39:275][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-16.38.39:275][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-16.38.39:275][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-16.38.39:275][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-16.38.39:275][171]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-16.38.39:275][171]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-16.38.39:275][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-16.38.39:275][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-16.38.39:276][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-16.38.39:276][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-16.38.39:276][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-16.38.39:278][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-16.38.39:311][171]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.04-16.38.39:312][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-16.38.39:312][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-16.38.39:312][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-16.38.39:313][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.01.04-16.38.39:313][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.01.04-16.38.39:315][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.01.04-16.38.39:315][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.01.04-16.38.39:315][171]LogInit: FAudioDevice initialized.
+[2023.01.04-16.38.39:315][171]LogAudio: Display: Audio Device (ID: 3) registered with world 'Demo_Environment'.
+[2023.01.04-16.38.39:328][171]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.04-16.38.39:897][171]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-17.38.39
+[2023.01.04-16.38.39:904][171]LogWorld: Bringing up level for play took: 0.244797
+[2023.01.04-16.38.39:906][171]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.01.04-16.38.39:918][171]PIE: Server logged in
+[2023.01.04-16.38.39:918][171]PIE: Play in editor total start time 1,485 seconds.
+[2023.01.04-16.39.55:201][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-16.39.55:202][651]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-16.39.55:208][651]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-16.39.55:232][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-16.39.55:246][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-16.39.55:262][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-16.39.55:327][651]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-16.39.55:342][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.01.04-16.39.55:344][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.01.04-16.39.55:347][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-16.39.55:412][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.01.04-16.39.55:487][652]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.01.04-16.39.55:562][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.01.04-16.40.49:534][695]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-16.40.49:535][695]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-16.42.23:343][907]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.04-16.42.23:362][907]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.04-16.42.23:378][908]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.04-16.42.27:498][ 42]LogContentBrowser: Attempting asset rename: NewFolder -> Dialogues
+[2023.01.04-16.42.27:499][ 42]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.04-16.42.30:092][194]LogMetaData: Removing '/Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C' ref from Metadata '/Game/Blueprints/UI/DialogueWidget.PackageMetaData'
+[2023.01.04-16.42.30:092][194]LogMetaData: Removing '/Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/UI/DialogueWidget.PackageMetaData'
+[2023.01.04-16.42.30:092][194]LogMetaData: Removing '/Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/UI/DialogueWidget.PackageMetaData'
+[2023.01.04-16.42.30:092][194]LogMetaData: Removing '/Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/UI/DialogueWidget.PackageMetaData'
+[2023.01.04-16.42.30:092][194]LogMetaData: Removing '/Game/Blueprints/UI/Dialogues/DialogueWidget.SKEL_DialogueWidget_C' ref from Metadata '/Game/Blueprints/UI/DialogueWidget.PackageMetaData'
+[2023.01.04-16.42.30:092][194]LogMetaData: Removing '/Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:Construct' ref from Metadata '/Game/Blueprints/UI/DialogueWidget.PackageMetaData'
+[2023.01.04-16.42.30:093][194]LogMetaData: Removing '/Game/Blueprints/UI/Dialogues/DialogueWidget.SKEL_DialogueWidget_C:PreConstruct' ref from Metadata '/Game/Blueprints/UI/DialogueWidget.PackageMetaData'
+[2023.01.04-16.42.30:093][194]LogMetaData: Removing '/Game/Blueprints/UI/Dialogues/DialogueWidget.SKEL_DialogueWidget_C:Construct' ref from Metadata '/Game/Blueprints/UI/DialogueWidget.PackageMetaData'
+[2023.01.04-16.42.30:093][194]LogMetaData: Removing '/Game/Blueprints/UI/Dialogues/DialogueWidget.SKEL_DialogueWidget_C:Tick' ref from Metadata '/Game/Blueprints/UI/DialogueWidget.PackageMetaData'
+[2023.01.04-16.42.30:093][194]LogMetaData: Removing '/Game/Blueprints/UI/Dialogues/DialogueWidget.SKEL_DialogueWidget_C:BndEvt__DialogueWidget_Option1_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Blueprints/UI/DialogueWidget.PackageMetaData'
+[2023.01.04-16.42.30:204][194]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.01.04-16.42.30:205][194]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_ThirdPersonCharacterC638BF094B3019D7AB78A7809BF00DBE.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.01.04-16.42.30:227][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Antagonist/BP_Antagonist" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset" SILENT=true
+[2023.01.04-16.42.30:240][194]LogSavePackage: Moving output files for package: /Game/Antagonist/BP_Antagonist
+[2023.01.04-16.42.30:240][194]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_Antagonist1557D29F4DD46AC6038024B4C0FB9CDF.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Antagonist/BP_Antagonist.uasset'
+[2023.01.04-16.42.30:259][194]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/Dialogues/DialogueWidget
+[2023.01.04-16.42.30:259][194]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueWidget5D0366734B6FFE0658A36EAEB5F5E4AD.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/Dialogues/DialogueWidget.uasset'
+[2023.01.04-16.42.30:360][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.01.04-16.42.30:429][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.01.04-16.42.30:492][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.01.04-16.42.30:517][194]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.04-16.42.30:517][194]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget
+[2023.01.04-16.42.30:518][194]LogContentValidation: Display: Validating Blueprint /Game/Antagonist/BP_Antagonist.BP_Antagonist
+[2023.01.04-16.42.30:518][194]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.01.04-16.42.33:318][402]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.04-16.42.33:318][402]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.04-16.42.33:846][450]LogContentBrowser: Deferred new asset file creation: DialogueWidget1
+[2023.01.04-16.42.33:861][450]LogContentBrowser: Creating deferred item: DialogueWidget1
+[2023.01.04-16.42.33:878][451]LogContentBrowser: Renaming the item being created (Deferred Item: DialogueWidget1).
+[2023.01.04-16.42.35:386][500]LogContentBrowser: Attempting asset rename: DialogueWidget1 -> DialogueWidget1
+[2023.01.04-16.42.35:466][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.01.04-16.42.35:480][500]LogContentBrowser: End creating deferred item DialogueWidget1
+[2023.01.04-16.42.38:419][655]LogContentBrowser: Deferred new asset file creation: DialogueWidget2
+[2023.01.04-16.42.38:444][655]LogContentBrowser: Creating deferred item: DialogueWidget2
+[2023.01.04-16.42.38:460][656]LogContentBrowser: Renaming the item being created (Deferred Item: DialogueWidget2).
+[2023.01.04-16.42.39:326][685]LogContentBrowser: Attempting asset rename: DialogueWidget2 -> DialogueWidget2
+[2023.01.04-16.42.39:410][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.01.04-16.42.39:426][685]LogContentBrowser: End creating deferred item DialogueWidget2
+[2023.01.04-16.42.47:145][963]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/Dialogues/DialogueWidget1.DialogueWidget1
+[2023.01.04-16.42.47:145][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-16.42.47:177][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-16.42.47:532][963]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-16.42.47:532][963]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-16.42.52:782][155]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/Dialogues/DialogueWidget2.DialogueWidget2
+[2023.01.04-16.42.52:782][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-16.42.52:814][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-16.42.53:177][155]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-16.42.53:177][155]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-16.43.23:240][188]BlueprintLog: New page: Compile DialogueWidget
+[2023.01.04-16.43.23:368][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.01.04-16.43.23:777][200]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/Dialogues/DialogueWidget
+[2023.01.04-16.43.23:777][200]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueWidget035017B247AB1FAEA282C6A2AB9D2CDC.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/Dialogues/DialogueWidget.uasset'
+[2023.01.04-16.43.23:795][200]AssetCheck: New page: Asset Save: DialogueWidget
+[2023.01.04-16.43.23:795][200]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget
+[2023.01.04-16.43.25:276][250]BlueprintLog: New page: Compile DialogueWidget1
+[2023.01.04-16.43.25:280][250]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/UI/Dialogues/DialogueWidget1.DialogueWidget1 (no disk path found): [Compiler] On Clicked (Option1)  does not have a valid matching component!
+[2023.01.04-16.43.25:280][250]LogBlueprint: Warning: [AssetLog] /Game/Blueprints/UI/Dialogues/DialogueWidget1.DialogueWidget1 (no disk path found): [Compiler] Could not find a variable named "Show1" in 'DialogueWidget1_C'.
+Make sure 'DialogueWidget1_C' has been compiled for  Get Show1
+[2023.01.04-16.43.25:281][250]LogBlueprint: Error: [AssetLog] /Game/Blueprints/UI/Dialogues/DialogueWidget1.DialogueWidget1 (no disk path found): [Compiler] The property associated with  Show 1  could not be found in '/Game/Blueprints/UI/Dialogues/DialogueWidget1.DialogueWidget1_C'
+[2023.01.04-16.43.25:372][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.01.04-16.43.25:892][264]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/Dialogues/DialogueWidget1
+[2023.01.04-16.43.25:892][264]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueWidget1979DD0FD47F6E799B5D8EEB44180317B.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/Dialogues/DialogueWidget1.uasset'
+[2023.01.04-16.43.25:908][264]AssetCheck: New page: Asset Save: DialogueWidget1
+[2023.01.04-16.43.25:908][264]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/Dialogues/DialogueWidget1.DialogueWidget1
+[2023.01.04-16.43.33:123][526]BlueprintLog: New page: Compile DialogueWidget1
+[2023.01.04-16.43.33:237][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.01.04-16.43.33:775][542]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/Dialogues/DialogueWidget1
+[2023.01.04-16.43.33:776][542]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueWidget1E0B19EDC4AA4875664A1C4A2C94A0762.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/Dialogues/DialogueWidget1.uasset'
+[2023.01.04-16.43.33:794][542]AssetCheck: New page: Asset Save: DialogueWidget1
+[2023.01.04-16.43.33:794][542]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/Dialogues/DialogueWidget1.DialogueWidget1
+[2023.01.04-16.43.40:017][772]BlueprintLog: New page: Compile DialogueWidget2
+[2023.01.04-16.43.40:130][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.01.04-16.43.40:526][783]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/Dialogues/DialogueWidget2
+[2023.01.04-16.43.40:526][783]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueWidget239F1D7404E50B3AA50AA788DC3E75254.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/Dialogues/DialogueWidget2.uasset'
+[2023.01.04-16.43.40:542][783]AssetCheck: New page: Asset Save: DialogueWidget2
+[2023.01.04-16.43.40:542][783]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/Dialogues/DialogueWidget2.DialogueWidget2
+[2023.01.04-16.43.45:453][947]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-16.43.45:453][947]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-16.43.46:577][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-16.43.46:577][983]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-16.44.12:898][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.01.04-16.44.12:901][875]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.088
+[2023.01.04-16.44.12:902][875]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/STARTWIDGET] ([2] browsable assets)...
+[2023.01.04-16.44.12:903][875]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET]
+[2023.01.04-16.44.12:903][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/STARTWIDGET]
+[2023.01.04-16.44.12:908][875]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_0:
+[2023.01.04-16.44.13:449][875]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-16.44.13:449][875]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.44.13:449][875]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-16.44.13:449][875]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.44.13:449][875]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-16.44.14:384][875]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-16.44.14:384][875]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.44.14:384][875]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.44.14:384][875]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-16.44.14:384][875]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.44.14:384][875]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-16.44.14:384][875]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.44.14:384][875]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-16.44.15:814][875]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-16.44.15:814][875]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.44.15:814][875]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.44.15:814][875]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-16.44.15:814][875]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.44.15:814][875]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-16.44.15:814][875]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.44.15:814][875]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-16.44.16:357][875]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-16.44.16:357][875]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.44.16:357][875]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-16.44.16:357][875]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.44.16:357][875]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/STARTWIDGET_Auto1.uasset: Graph is linked to object CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1 (ObjectRef) in external map
+[2023.01.04-16.54.16:622][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.01.04-16.54.16:625][396]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.087
+[2023.01.04-16.54.16:625][396]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/STARTWIDGET] ([2] browsable assets)...
+[2023.01.04-16.54.16:625][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/STARTWIDGET]
+[2023.01.04-16.54.16:632][396]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_0:
+[2023.01.04-16.54.17:173][396]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-16.54.17:173][396]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.54.17:173][396]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-16.54.17:173][396]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.54.17:173][396]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-16.54.18:122][396]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-16.54.18:122][396]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.54.18:122][396]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.54.18:122][396]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-16.54.18:122][396]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.54.18:122][396]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-16.54.18:122][396]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.54.18:122][396]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-16.54.19:573][396]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-16.54.19:573][396]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.54.19:573][396]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.54.19:573][396]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-16.54.19:573][396]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.54.19:573][396]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-16.54.19:573][396]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.54.19:573][396]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-16.54.20:121][396]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-16.54.20:121][396]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-16.54.20:121][396]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-16.54.20:121][396]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-16.54.20:121][396]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/STARTWIDGET_Auto1.uasset: Graph is linked to object CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1 (ObjectRef) in external map
+[2023.01.04-17.04.20:350][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.04-17.04.20:353][288]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.077
+[2023.01.04-17.04.20:353][288]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/STARTWIDGET] ([2] browsable assets)...
+[2023.01.04-17.04.20:353][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/STARTWIDGET]
+[2023.01.04-17.04.20:359][288]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_0:
+[2023.01.04-17.04.20:897][288]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-17.04.20:897][288]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.04.20:897][288]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.04.20:897][288]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.04.20:897][288]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-17.04.21:829][288]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-17.04.21:829][288]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.04.21:829][288]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.04.21:829][288]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.04.21:829][288]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.04.21:829][288]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.04.21:829][288]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.04.21:829][288]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-17.04.23:248][288]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-17.04.23:248][288]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.04.23:248][288]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.04.23:248][288]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.04.23:248][288]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.04.23:248][288]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.04.23:248][288]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.04.23:248][288]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-17.04.23:802][288]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-17.04.23:802][288]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.04.23:802][288]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.04.23:802][288]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.04.23:802][288]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/STARTWIDGET_Auto1.uasset: Graph is linked to object CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1 (ObjectRef) in external map
+[2023.01.04-17.14.24:060][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.04-17.14.24:063][181]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.077
+[2023.01.04-17.14.24:064][181]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/STARTWIDGET] ([2] browsable assets)...
+[2023.01.04-17.14.24:064][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/STARTWIDGET]
+[2023.01.04-17.14.24:070][181]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_0:
+[2023.01.04-17.14.24:608][181]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-17.14.24:608][181]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.14.24:608][181]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.14.24:608][181]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.14.24:608][181]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-17.14.25:543][181]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-17.14.25:543][181]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.14.25:543][181]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.14.25:543][181]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.14.25:543][181]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.14.25:543][181]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.14.25:543][181]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.14.25:543][181]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-17.14.26:966][181]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-17.14.26:966][181]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.14.26:966][181]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.14.26:966][181]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.14.26:966][181]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.14.26:966][181]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.14.26:966][181]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.14.26:966][181]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-17.14.27:508][181]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-17.14.27:508][181]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.14.27:508][181]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.14.27:508][181]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.14.27:508][181]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/STARTWIDGET_Auto1.uasset: Graph is linked to object CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1 (ObjectRef) in external map
+[2023.01.04-17.24.27:744][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.04-17.24.27:747][ 57]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.087
+[2023.01.04-17.24.27:748][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/STARTWIDGET] ([2] browsable assets)...
+[2023.01.04-17.24.27:748][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/STARTWIDGET]
+[2023.01.04-17.24.27:754][ 57]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_0:
+[2023.01.04-17.24.28:292][ 57]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-17.24.28:292][ 57]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.24.28:292][ 57]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.24.28:292][ 57]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.24.28:292][ 57]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-17.24.29:228][ 57]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-17.24.29:228][ 57]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.24.29:228][ 57]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.24.29:228][ 57]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.24.29:228][ 57]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.24.29:228][ 57]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.24.29:228][ 57]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.24.29:228][ 57]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-17.24.30:658][ 57]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-17.24.30:658][ 57]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.24.30:658][ 57]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.24.30:658][ 57]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.24.30:658][ 57]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.24.30:658][ 57]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.24.30:658][ 57]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.24.30:658][ 57]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-17.24.31:199][ 57]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-17.24.31:199][ 57]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.24.31:199][ 57]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.24.31:199][ 57]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.24.31:199][ 57]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/STARTWIDGET_Auto1.uasset: Graph is linked to object CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1 (ObjectRef) in external map
+[2023.01.04-17.25.54:373][813]LogDerivedDataCache: C:/Users/MK170/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.683 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.04-17.34.31:453][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.04-17.34.31:456][946]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.077
+[2023.01.04-17.34.31:456][946]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/STARTWIDGET] ([2] browsable assets)...
+[2023.01.04-17.34.31:456][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/STARTWIDGET]
+[2023.01.04-17.34.31:462][946]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_0:
+[2023.01.04-17.34.32:002][946]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-17.34.32:002][946]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.34.32:002][946]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.34.32:002][946]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.34.32:002][946]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-17.34.32:933][946]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-17.34.32:933][946]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.34.32:933][946]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.34.32:933][946]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.34.32:933][946]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.34.32:933][946]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.34.32:933][946]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.34.32:933][946]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-17.34.34:358][946]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-17.34.34:358][946]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.34.34:358][946]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.34.34:358][946]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.34.34:358][946]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.34.34:358][946]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.34.34:358][946]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.34.34:358][946]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-17.34.34:899][946]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-17.34.34:899][946]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.34.34:899][946]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.34.34:899][946]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.34.34:899][946]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/STARTWIDGET_Auto1.uasset: Graph is linked to object CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1 (ObjectRef) in external map
+[2023.01.04-17.44.35:140][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.01.04-17.44.35:143][835]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.077
+[2023.01.04-17.44.35:143][835]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/STARTWIDGET] ([2] browsable assets)...
+[2023.01.04-17.44.35:143][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/STARTWIDGET]
+[2023.01.04-17.44.35:149][835]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_0:
+[2023.01.04-17.44.35:687][835]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-17.44.35:687][835]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.44.35:687][835]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.44.35:687][835]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.44.35:687][835]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-17.44.36:626][835]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-17.44.36:626][835]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.44.36:626][835]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.44.36:626][835]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.44.36:626][835]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.44.36:626][835]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.44.36:626][835]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.44.36:626][835]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-17.44.38:050][835]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-17.44.38:050][835]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.44.38:050][835]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.44.38:050][835]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.44.38:050][835]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.44.38:050][835]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.44.38:050][835]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.44.38:050][835]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-17.44.38:592][835]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-17.44.38:593][835]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.44.38:593][835]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.44.38:593][835]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.44.38:593][835]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/STARTWIDGET_Auto1.uasset: Graph is linked to object CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1 (ObjectRef) in external map
+[2023.01.04-17.54.38:834][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.01.04-17.54.38:836][719]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.078
+[2023.01.04-17.54.38:837][719]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/STARTWIDGET] ([2] browsable assets)...
+[2023.01.04-17.54.38:837][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/STARTWIDGET]
+[2023.01.04-17.54.38:843][719]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_0:
+[2023.01.04-17.54.39:386][719]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-17.54.39:386][719]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.54.39:386][719]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.54.39:386][719]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.54.39:386][719]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-17.54.40:322][719]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-17.54.40:322][719]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.54.40:322][719]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.54.40:322][719]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.54.40:322][719]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.54.40:322][719]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.54.40:322][719]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.54.40:322][719]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-17.54.41:757][719]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-17.54.41:757][719]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.54.41:757][719]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.54.41:757][719]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-17.54.41:757][719]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.54.41:757][719]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.54.41:757][719]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.54.41:757][719]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-17.54.42:302][719]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-17.54.42:302][719]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-17.54.42:302][719]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-17.54.42:302][719]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-17.54.42:302][719]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/STARTWIDGET_Auto1.uasset: Graph is linked to object CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1 (ObjectRef) in external map
+[2023.01.04-18.04.42:533][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.04-18.04.42:535][601]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.078
+[2023.01.04-18.04.42:536][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/STARTWIDGET] ([2] browsable assets)...
+[2023.01.04-18.04.42:536][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/STARTWIDGET]
+[2023.01.04-18.04.42:542][601]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_0:
+[2023.01.04-18.04.43:081][601]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-18.04.43:081][601]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.04.43:081][601]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-18.04.43:081][601]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.04.43:081][601]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-18.04.44:015][601]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-18.04.44:016][601]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.04.44:016][601]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.04.44:016][601]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-18.04.44:016][601]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.04.44:016][601]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.04.44:016][601]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.04.44:016][601]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-18.04.45:452][601]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-18.04.45:452][601]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.04.45:452][601]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.04.45:452][601]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-18.04.45:452][601]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.04.45:452][601]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.04.45:452][601]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.04.45:452][601]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-18.04.45:998][601]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-18.04.45:998][601]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.04.45:998][601]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.04.45:998][601]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.04.45:998][601]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/STARTWIDGET_Auto1.uasset: Graph is linked to object CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1 (ObjectRef) in external map
+[2023.01.04-18.14.46:264][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.04-18.14.46:267][477]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.086
+[2023.01.04-18.14.46:267][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/STARTWIDGET] ([2] browsable assets)...
+[2023.01.04-18.14.46:267][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/STARTWIDGET]
+[2023.01.04-18.14.46:273][477]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_0:
+[2023.01.04-18.14.46:810][477]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-18.14.46:810][477]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.14.46:810][477]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-18.14.46:810][477]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.14.46:810][477]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-18.14.47:748][477]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-18.14.47:748][477]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.14.47:748][477]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.14.47:748][477]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-18.14.47:748][477]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.14.47:748][477]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.14.47:748][477]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.14.47:748][477]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-18.14.49:167][477]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-18.14.49:167][477]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.14.49:167][477]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.14.49:167][477]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-18.14.49:167][477]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.14.49:167][477]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.14.49:167][477]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.14.49:167][477]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-18.14.49:713][477]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-18.14.49:713][477]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.14.49:713][477]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.14.49:713][477]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.14.49:713][477]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/STARTWIDGET_Auto1.uasset: Graph is linked to object CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1 (ObjectRef) in external map
+[2023.01.04-18.17.35:366][331]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-18.17.35:375][331]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.01.04-18.17.35:383][331]LogPlayLevel: [PlayLevel] Compiling BP_Antagonist before play...
+[2023.01.04-18.17.35:525][331]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2023.01.04-18.17.35:680][331]LogPlayLevel: [PlayLevel] Compiling STARTWIDGET before play...
+[2023.01.04-18.17.35:815][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.01.04-18.17.35:816][331]LogPlayLevel: PlayLevel: Blueprint regeneration took 441 ms (3 blueprints)
+[2023.01.04-18.17.35:816][331]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 20:17:35)
+[2023.01.04-18.17.35:816][331]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.17.36:394][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.577147s)
+[2023.01.04-18.17.36:394][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.577238s)
+[2023.01.04-18.17.36:394][331]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.04-18.17.36:394][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-18.17.36:395][331]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.04-18.17.36:397][331]LogPlayLevel: PIE: World Init took: (0.002585s)
+[2023.01.04-18.17.36:474][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.01.04-18.17.36:475][331]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.01.04-18.17.36:475][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-18.17.36:475][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-18.17.36:475][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-18.17.36:475][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-18.17.36:475][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-18.17.36:475][331]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-18.17.36:475][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-18.17.36:475][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-18.17.36:476][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-18.17.36:476][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-18.17.36:476][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-18.17.36:478][331]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-18.17.36:514][331]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.04-18.17.36:514][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-18.17.36:514][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-18.17.36:514][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-18.17.36:515][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.01.04-18.17.36:515][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.01.04-18.17.36:516][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.01.04-18.17.36:516][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.01.04-18.17.36:516][331]LogInit: FAudioDevice initialized.
+[2023.01.04-18.17.36:516][331]LogAudio: Display: Audio Device (ID: 4) registered with world 'Demo_Environment'.
+[2023.01.04-18.17.36:528][331]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.04-18.17.37:092][331]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-19.17.37
+[2023.01.04-18.17.37:099][331]LogWorld: Bringing up level for play took: 0.237043
+[2023.01.04-18.17.37:101][331]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.01.04-18.17.37:112][331]PIE: Server logged in
+[2023.01.04-18.17.37:113][331]PIE: Play in editor total start time 1,738 seconds.
+[2023.01.04-18.18.58:849][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.18.58:849][101]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.18.58:854][101]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-18.18.58:876][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.18.58:889][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-18.18.58:906][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.18.58:981][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.18.59:009][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.01.04-18.18.59:010][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.01.04-18.18.59:063][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.01.04-18.18.59:108][102]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.01.04-18.18.59:185][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.01.04-18.19.00:404][141]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-18.19.00:414][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-18.19.00:414][141]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 20:19:00)
+[2023.01.04-18.19.00:414][141]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.19.00:999][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.586241s)
+[2023.01.04-18.19.00:999][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.586322s)
+[2023.01.04-18.19.01:000][141]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.04-18.19.01:000][141]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-18.19.01:000][141]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.04-18.19.01:002][141]LogPlayLevel: PIE: World Init took: (0.002131s)
+[2023.01.04-18.19.01:078][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.01.04-18.19.01:079][141]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.01.04-18.19.01:079][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-18.19.01:079][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-18.19.01:079][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-18.19.01:079][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-18.19.01:079][141]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-18.19.01:079][141]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-18.19.01:079][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-18.19.01:079][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-18.19.01:080][141]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-18.19.01:080][141]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-18.19.01:080][141]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-18.19.01:082][141]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-18.19.01:115][141]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.04-18.19.01:115][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-18.19.01:115][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-18.19.01:115][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-18.19.01:116][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.01.04-18.19.01:116][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.01.04-18.19.01:117][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.01.04-18.19.01:117][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.01.04-18.19.01:117][141]LogInit: FAudioDevice initialized.
+[2023.01.04-18.19.01:118][141]LogAudio: Display: Audio Device (ID: 5) registered with world 'Demo_Environment'.
+[2023.01.04-18.19.01:128][141]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.04-18.19.01:683][141]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-19.19.01
+[2023.01.04-18.19.01:690][141]LogWorld: Bringing up level for play took: 0.228571
+[2023.01.04-18.19.01:691][141]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.01.04-18.19.01:703][141]PIE: Server logged in
+[2023.01.04-18.19.01:703][141]PIE: Play in editor total start time 1,29 seconds.
+[2023.01.04-18.19.41:638][  8]Cmd: LevelEditor.ToggleImmersive
+[2023.01.04-18.19.41:703][  8]LogViewport: Scene viewport resized to 724x445, mode Windowed.
+[2023.01.04-18.19.41:765][  8]LogViewport: Scene viewport resized to 724x445, mode Windowed.
+[2023.01.04-18.19.41:804][  8]LogViewport: Scene viewport resized to 724x445, mode Windowed.
+[2023.01.04-18.19.41:837][  8]LogViewport: Scene viewport resized to 1877x1019, mode Windowed.
+[2023.01.04-18.19.41:885][  9]LogViewport: Scene viewport resized to 1920x1032, mode Windowed.
+[2023.01.04-18.20.27:980][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.20.27:980][137]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.20.27:985][137]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-18.20.28:008][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.20.28:035][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-18.20.28:052][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.20.28:127][137]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-18.20.28:128][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.01.04-18.20.28:129][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.01.04-18.20.28:133][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.20.28:211][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2023.01.04-18.20.28:239][138]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.01.04-18.20.28:315][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.01.04-18.20.30:364][198]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-18.20.30:364][198]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-18.20.38:087][443]BlueprintLog: New page: Compile DialogueWidget
+[2023.01.04-18.20.38:216][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.01.04-18.20.38:781][457]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/Dialogues/DialogueWidget
+[2023.01.04-18.20.38:781][457]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueWidget39A5D3DD46C541BEE6179E988845A63D.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/Dialogues/DialogueWidget.uasset'
+[2023.01.04-18.20.38:801][457]AssetCheck: New page: Asset Save: DialogueWidget
+[2023.01.04-18.20.38:801][457]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget
+[2023.01.04-18.20.43:174][590]LogViewport: Scene viewport resized to 1590x935, mode Windowed.
+[2023.01.04-18.20.43:251][591]LogViewport: Scene viewport resized to 1455x895, mode Windowed.
+[2023.01.04-18.20.43:287][592]LogViewport: Scene viewport resized to 1453x894, mode Windowed.
+[2023.01.04-18.21.35:129][237]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.04-18.21.42:611][467]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/TEXTLINES/TEXTLINES1.TEXTLINES1
+[2023.01.04-18.21.42:612][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-18.21.42:644][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-18.21.43:000][467]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-18.21.43:000][467]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-18.22.21:423][708]BlueprintLog: New page: Compile STARTWIDGET
+[2023.01.04-18.22.21:555][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.01.04-18.22.37:822][232]Cmd: TRANSACTION UNDO
+[2023.01.04-18.22.37:822][232]LogEditorTransaction: Undo Delete current selection
+[2023.01.04-18.24.24:854][637]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/TEXTLINES/TEXTLINES.TEXTLINES
+[2023.01.04-18.24.24:855][637]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-18.24.24:888][637]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-18.24.25:231][637]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-18.24.25:231][637]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-18.25.52:759][460]LogDerivedDataCache: C:/Users/MK170/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.068 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.04-18.27.41:473][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.01.04-18.27.43:259][948]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Downtown_West/Maps/Demo_Environment_Auto1
+[2023.01.04-18.27.43:259][948]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Demo_Environment_Auto1B1D2A16B486EEBA7A7E0FA9CC34FEA58.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Downtown_West/Maps/Demo_Environment_Auto1.umap'
+[2023.01.04-18.27.43:282][948]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 1.909
+[2023.01.04-18.27.43:282][948]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.909
+[2023.01.04-18.27.43:282][948]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-18.27.43:284][948]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget]
+[2023.01.04-18.27.43:284][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-18.27.43:295][948]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1
+[2023.01.04-18.27.43:295][948]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/DialogueWidget_Auto1DA8402004C9FB23C4E1BCA8E61789CA7.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset'
+[2023.01.04-18.27.43:295][948]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/STARTWIDGET] ([2] browsable assets)...
+[2023.01.04-18.27.43:296][948]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET]
+[2023.01.04-18.27.43:296][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/STARTWIDGET]
+[2023.01.04-18.27.43:302][948]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_0:
+[2023.01.04-18.27.43:845][948]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-18.27.43:845][948]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.27.43:845][948]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-18.27.43:845][948]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.27.43:845][948]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-18.27.44:775][948]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-18.27.44:775][948]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.27.44:775][948]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.27.44:775][948]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-18.27.44:775][948]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.27.44:775][948]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.27.44:775][948]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.27.44:775][948]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-18.27.46:186][948]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (2 refs)
+[2023.01.04-18.27.46:186][948]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.27.46:186][948]LogSavePackage: Warning: 		1) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.27.46:186][948]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-18.27.46:186][948]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.27.46:186][948]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.27.46:186][948]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.27.46:186][948]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-18.27.46:730][948]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-18.27.46:730][948]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_1_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.27.46:730][948]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.27.46:730][948]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.27.46:730][948]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/STARTWIDGET_Auto1.uasset: Graph is linked to object CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1 (ObjectRef) in external map
+[2023.01.04-18.29.59:688][194]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-18.30.01:968][236]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-18.30.04:752][296]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-18.30.07:163][341]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.04-18.30.07:199][342]LogViewport: Scene viewport resized to 458x282, mode Windowed.
+[2023.01.04-18.30.08:878][370]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-18.30.12:520][452]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-18.30.38:451][ 46]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.04-18.30.51:029][322]BlueprintLog: New page: Compile DialogueWidget
+[2023.01.04-18.30.51:175][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.01.04-18.30.54:584][399]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-18.30.54:594][399]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.01.04-18.30.54:596][399]LogPlayLevel: [PlayLevel] Compiling STARTWIDGET before play...
+[2023.01.04-18.30.54:726][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.01.04-18.30.54:728][399]LogPlayLevel: PlayLevel: Blueprint regeneration took 133 ms (1 blueprints)
+[2023.01.04-18.30.54:728][399]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 20:30:54)
+[2023.01.04-18.30.54:728][399]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.30.55:312][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.583725s)
+[2023.01.04-18.30.55:312][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.583816s)
+[2023.01.04-18.30.55:312][399]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.04-18.30.55:312][399]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-18.30.55:312][399]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.04-18.30.55:315][399]LogPlayLevel: PIE: World Init took: (0.002791s)
+[2023.01.04-18.30.55:404][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.01.04-18.30.55:405][399]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.01.04-18.30.55:405][399]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-18.30.55:405][399]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-18.30.55:405][399]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-18.30.55:405][399]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-18.30.55:405][399]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-18.30.55:405][399]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-18.30.55:405][399]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-18.30.55:405][399]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-18.30.55:406][399]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-18.30.55:406][399]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-18.30.55:406][399]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-18.30.55:407][399]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-18.30.55:442][399]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.04-18.30.55:442][399]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-18.30.55:442][399]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-18.30.55:442][399]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-18.30.55:442][399]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.01.04-18.30.55:442][399]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.01.04-18.30.55:444][399]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.01.04-18.30.55:444][399]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.01.04-18.30.55:444][399]LogInit: FAudioDevice initialized.
+[2023.01.04-18.30.55:444][399]LogAudio: Display: Audio Device (ID: 6) registered with world 'Demo_Environment'.
+[2023.01.04-18.30.55:454][399]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.04-18.30.56:011][399]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-19.30.56
+[2023.01.04-18.30.56:018][399]LogWorld: Bringing up level for play took: 0.232643
+[2023.01.04-18.30.56:019][399]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.01.04-18.30.56:031][399]PIE: Server logged in
+[2023.01.04-18.30.56:032][399]PIE: Play in editor total start time 1,438 seconds.
+[2023.01.04-18.32.24:358][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.32.24:358][654]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.32.24:363][654]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-18.32.24:387][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.32.24:402][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-18.32.24:420][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.32.24:509][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.32.24:536][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.01.04-18.32.24:537][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.01.04-18.32.24:593][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.01.04-18.32.24:718][655]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.01.04-18.32.24:806][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.01.04-18.32.24:837][655]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-18.32.30:435][814]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.01.04-18.32.30:619][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.01.04-18.32.56:455][124]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-18.32.56:465][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-18.32.56:465][124]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 20:32:56)
+[2023.01.04-18.32.56:465][124]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.32.57:049][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.583548s)
+[2023.01.04-18.32.57:049][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.583637s)
+[2023.01.04-18.32.57:049][124]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.04-18.32.57:049][124]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-18.32.57:050][124]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.04-18.32.57:051][124]LogPlayLevel: PIE: World Init took: (0.002505s)
+[2023.01.04-18.32.57:145][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.01.04-18.32.57:147][124]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.01.04-18.32.57:147][124]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-18.32.57:147][124]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-18.32.57:147][124]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-18.32.57:147][124]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-18.32.57:147][124]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-18.32.57:147][124]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-18.32.57:147][124]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-18.32.57:147][124]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-18.32.57:148][124]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-18.32.57:148][124]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-18.32.57:148][124]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-18.32.57:149][124]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-18.32.57:183][124]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.04-18.32.57:183][124]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-18.32.57:183][124]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-18.32.57:183][124]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-18.32.57:184][124]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.01.04-18.32.57:184][124]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.01.04-18.32.57:186][124]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.01.04-18.32.57:186][124]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.01.04-18.32.57:186][124]LogInit: FAudioDevice initialized.
+[2023.01.04-18.32.57:186][124]LogAudio: Display: Audio Device (ID: 7) registered with world 'Demo_Environment'.
+[2023.01.04-18.32.57:200][124]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.04-18.32.57:762][124]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-19.32.57
+[2023.01.04-18.32.57:769][124]LogWorld: Bringing up level for play took: 0.233231
+[2023.01.04-18.32.57:771][124]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.01.04-18.32.57:783][124]PIE: Server logged in
+[2023.01.04-18.32.57:783][124]PIE: Play in editor total start time 1,319 seconds.
+[2023.01.04-18.34.25:237][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.34.25:237][296]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.34.25:243][296]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-18.34.25:269][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.34.25:285][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-18.34.25:302][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.34.25:425][296]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-18.34.25:426][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.01.04-18.34.25:427][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.01.04-18.34.25:430][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.34.25:481][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.01.04-18.34.25:605][297]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.01.04-18.34.25:694][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.01.04-18.34.25:722][297]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-18.36.09:743][429]BlueprintLog: New page: Compile DialogueWidget
+[2023.01.04-18.36.09:872][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.01.04-18.36.15:354][636]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-18.36.15:363][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-18.36.15:363][636]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 20:36:15)
+[2023.01.04-18.36.15:363][636]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.36.15:956][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.592843s)
+[2023.01.04-18.36.15:956][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.592935s)
+[2023.01.04-18.36.15:956][636]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.04-18.36.15:956][636]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-18.36.15:957][636]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.04-18.36.15:959][636]LogPlayLevel: PIE: World Init took: (0.002788s)
+[2023.01.04-18.36.16:050][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.01.04-18.36.16:052][636]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.01.04-18.36.16:052][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-18.36.16:052][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-18.36.16:052][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-18.36.16:052][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-18.36.16:052][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-18.36.16:052][636]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-18.36.16:052][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-18.36.16:052][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-18.36.16:053][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-18.36.16:053][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-18.36.16:053][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-18.36.16:055][636]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-18.36.16:089][636]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.04-18.36.16:089][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-18.36.16:089][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-18.36.16:089][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-18.36.16:091][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.01.04-18.36.16:091][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.01.04-18.36.16:092][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.01.04-18.36.16:092][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.01.04-18.36.16:092][636]LogInit: FAudioDevice initialized.
+[2023.01.04-18.36.16:092][636]LogAudio: Display: Audio Device (ID: 8) registered with world 'Demo_Environment'.
+[2023.01.04-18.36.16:105][636]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.04-18.36.16:687][636]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-19.36.16
+[2023.01.04-18.36.16:693][636]LogWorld: Bringing up level for play took: 0.251961
+[2023.01.04-18.36.16:695][636]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.01.04-18.36.16:706][636]PIE: Server logged in
+[2023.01.04-18.36.16:707][636]PIE: Play in editor total start time 1,344 seconds.
+[2023.01.04-18.37.28:368][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.37.28:368][951]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.37.28:374][951]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-18.37.28:397][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.37.28:410][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-18.37.28:427][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.37.28:551][951]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-18.37.28:552][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.01.04-18.37.28:553][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.01.04-18.37.28:556][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.37.28:607][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.01.04-18.37.28:696][952]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.01.04-18.37.28:792][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.01.04-18.37.28:801][952]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-18.37.47:029][567]BlueprintLog: New page: Compile TEXTLINES1
+[2023.01.04-18.37.47:153][567]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.01.04-18.37.48:499][601]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-18.37.48:509][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-18.37.48:509][601]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 20:37:48)
+[2023.01.04-18.37.48:509][601]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.37.49:103][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.594026s)
+[2023.01.04-18.37.49:103][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.594134s)
+[2023.01.04-18.37.49:103][601]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.04-18.37.49:103][601]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-18.37.49:104][601]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.04-18.37.49:105][601]LogPlayLevel: PIE: World Init took: (0.002250s)
+[2023.01.04-18.37.49:196][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.01.04-18.37.49:200][601]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.01.04-18.37.49:200][601]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-18.37.49:200][601]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-18.37.49:200][601]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-18.37.49:200][601]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-18.37.49:200][601]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-18.37.49:200][601]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-18.37.49:200][601]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-18.37.49:200][601]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-18.37.49:200][601]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-18.37.49:200][601]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-18.37.49:200][601]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-18.37.49:202][601]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-18.37.49:237][601]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.04-18.37.49:238][601]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-18.37.49:238][601]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-18.37.49:238][601]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-18.37.49:239][601]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.01.04-18.37.49:239][601]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.01.04-18.37.49:241][601]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.01.04-18.37.49:241][601]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.01.04-18.37.49:241][601]LogInit: FAudioDevice initialized.
+[2023.01.04-18.37.49:241][601]LogAudio: Display: Audio Device (ID: 9) registered with world 'Demo_Environment'.
+[2023.01.04-18.37.49:251][601]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.04-18.37.49:817][601]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-19.37.49
+[2023.01.04-18.37.49:824][601]LogWorld: Bringing up level for play took: 0.240173
+[2023.01.04-18.37.49:826][601]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.01.04-18.37.49:837][601]PIE: Server logged in
+[2023.01.04-18.37.49:838][601]PIE: Play in editor total start time 1,329 seconds.
+[2023.01.04-18.39.02:717][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.39.02:718][969]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.39.02:723][969]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-18.39.02:747][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.39.02:761][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-18.39.02:779][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.39.02:879][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.39.02:894][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.01.04-18.39.02:895][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.01.04-18.39.02:950][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.01.04-18.39.03:074][970]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.01.04-18.39.03:162][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.01.04-18.39.03:192][970]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-18.39.12:090][311]BlueprintLog: New page: Compile TEXTLINES1
+[2023.01.04-18.39.12:210][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.01.04-18.39.12:927][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/TEXTLINES/TEXTLINES1" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/TEXTLINES/TEXTLINES1.uasset" SILENT=true
+[2023.01.04-18.39.12:930][326]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/TEXTLINES/TEXTLINES1
+[2023.01.04-18.39.12:930][326]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES18350AF4D4CF1D593F32E5B815E2A7D10.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/TEXTLINES/TEXTLINES1.uasset'
+[2023.01.04-18.39.12:953][326]AssetCheck: New page: Asset Save: TEXTLINES1
+[2023.01.04-18.39.12:953][326]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/UI/TEXTLINES/TEXTLINES1.TEXTLINES1
+[2023.01.04-18.39.14:246][363]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-18.39.14:255][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-18.39.14:255][363]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 20:39:14)
+[2023.01.04-18.39.14:256][363]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.39.14:844][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.587513s)
+[2023.01.04-18.39.14:844][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.587640s)
+[2023.01.04-18.39.14:844][363]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.04-18.39.14:844][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-18.39.14:844][363]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.04-18.39.14:846][363]LogPlayLevel: PIE: World Init took: (0.002305s)
+[2023.01.04-18.39.14:947][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.01.04-18.39.14:949][363]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.01.04-18.39.14:949][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-18.39.14:949][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-18.39.14:949][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-18.39.14:949][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-18.39.14:949][363]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-18.39.14:949][363]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-18.39.14:949][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-18.39.14:949][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-18.39.14:950][363]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-18.39.14:950][363]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-18.39.14:950][363]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-18.39.14:951][363]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-18.39.14:985][363]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.04-18.39.14:985][363]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-18.39.14:985][363]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-18.39.14:985][363]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-18.39.14:986][363]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.01.04-18.39.14:986][363]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.01.04-18.39.14:987][363]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.01.04-18.39.14:987][363]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.01.04-18.39.14:987][363]LogInit: FAudioDevice initialized.
+[2023.01.04-18.39.14:987][363]LogAudio: Display: Audio Device (ID: 10) registered with world 'Demo_Environment'.
+[2023.01.04-18.39.14:997][363]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.04-18.39.15:564][363]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-19.39.15
+[2023.01.04-18.39.15:571][363]LogWorld: Bringing up level for play took: 0.238908
+[2023.01.04-18.39.15:573][363]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.01.04-18.39.15:585][363]PIE: Server logged in
+[2023.01.04-18.39.15:585][363]PIE: Play in editor total start time 1,33 seconds.
+[2023.01.04-18.40.24:687][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.40.24:687][479]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.40.24:692][479]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-18.40.24:715][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.40.24:728][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-18.40.24:745][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.40.24:859][479]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-18.40.24:859][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.01.04-18.40.24:861][479]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.01.04-18.40.24:864][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.40.24:915][479]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.01.04-18.40.25:041][480]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.01.04-18.40.25:129][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.01.04-18.40.25:158][480]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-18.40.44:837][261]BlueprintLog: New page: Compile DialogueWidget
+[2023.01.04-18.40.44:967][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.01.04-18.40.46:632][306]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-18.40.46:641][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-18.40.46:641][306]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 20:40:46)
+[2023.01.04-18.40.46:641][306]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.40.47:225][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.584121s)
+[2023.01.04-18.40.47:225][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.584272s)
+[2023.01.04-18.40.47:225][306]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.04-18.40.47:226][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-18.40.47:226][306]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.04-18.40.47:228][306]LogPlayLevel: PIE: World Init took: (0.002387s)
+[2023.01.04-18.40.47:329][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.01.04-18.40.47:331][306]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.01.04-18.40.47:331][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-18.40.47:331][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-18.40.47:331][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-18.40.47:331][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-18.40.47:331][306]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-18.40.47:331][306]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-18.40.47:331][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-18.40.47:331][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-18.40.47:332][306]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-18.40.47:332][306]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-18.40.47:332][306]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-18.40.47:334][306]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-18.40.47:367][306]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.04-18.40.47:367][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-18.40.47:367][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-18.40.47:367][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-18.40.47:368][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.01.04-18.40.47:368][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.01.04-18.40.47:370][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.01.04-18.40.47:370][306]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.01.04-18.40.47:370][306]LogInit: FAudioDevice initialized.
+[2023.01.04-18.40.47:370][306]LogAudio: Display: Audio Device (ID: 11) registered with world 'Demo_Environment'.
+[2023.01.04-18.40.47:380][306]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.04-18.40.47:935][306]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-19.40.47
+[2023.01.04-18.40.47:940][306]LogWorld: Bringing up level for play took: 0.228788
+[2023.01.04-18.40.47:942][306]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.01.04-18.40.47:954][306]PIE: Server logged in
+[2023.01.04-18.40.47:954][306]PIE: Play in editor total start time 1,313 seconds.
+[2023.01.04-18.42.04:376][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.42.04:376][865]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-18.42.04:381][865]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-18.42.04:405][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.42.04:419][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-18.42.04:439][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-18.42.04:528][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-18.42.04:541][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.01.04-18.42.04:543][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.01.04-18.42.04:613][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.01.04-18.42.04:740][866]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.01.04-18.42.04:827][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.01.04-18.42.04:857][866]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-18.42.43:152][808]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-18.42.43:711][808]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-18.42.43:711][808]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-18.42.43:711][808]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.42.43:711][808]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.42.43:711][808]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-18.42.44:660][808]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-18.42.44:660][808]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-18.42.44:660][808]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.42.44:660][808]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.42.44:660][808]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-18.42.46:094][808]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-18.42.46:094][808]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-18.42.46:094][808]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.42.46:094][808]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.42.48:660][808]LogSlate: Window 'Message' being destroyed
+[2023.01.04-18.42.48:667][808]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/Blueprints/UI/Dialogues/DialogueWidget' (DialogueWidget.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2023.01.04-18.42.48:675][808]EditorErrors: New page: Save Output
+[2023.01.04-18.42.48:676][808]EditorErrors: Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/Dialogues/DialogueWidget.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-18.42.54:822][ 25]LogSlate: Window 'Message Log' being destroyed
+[2023.01.04-18.42.54:829][ 25]LogSlate: Window 'Message Log' being destroyed
+[2023.01.04-18.43.13:456][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.01.04-18.43.13:602][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.01.04-18.43.15:379][993]LogSavePackage: Moving output files for package: /Game/Downtown_West/Maps/Demo_Environment
+[2023.01.04-18.43.15:379][993]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Demo_EnvironmentEE6FF2CD4B5EBDBC26DA48AEAF4CAC90.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Downtown_West/Maps/Demo_Environment.umap'
+[2023.01.04-18.43.15:409][993]LogFileHelpers: No new changes to save!
+[2023.01.04-18.43.15:409][993]LogFileHelpers: Saving map 'Demo_Environment' took 1.900
+[2023.01.04-18.43.15:445][993]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.01.04-18.43.15:445][993]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_ThirdPersonCharacter7AB48460487B89901C53AABF65282E8E.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.01.04-18.43.15:452][993]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-18.43.16:000][993]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-18.43.16:000][993]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-18.43.16:000][993]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.43.16:000][993]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.43.16:000][993]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-18.43.16:939][993]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-18.43.16:939][993]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-18.43.16:939][993]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.43.16:939][993]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.43.16:939][993]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-18.43.18:364][993]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-18.43.18:364][993]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-18.43.18:364][993]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.43.18:364][993]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.43.23:555][993]LogSlate: Window 'Message' being destroyed
+[2023.01.04-18.43.23:561][993]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Blueprints/UI/Dialogues/DialogueWidget' (DialogueWidget.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2023.01.04-18.43.23:563][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/STARTWIDGET" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/STARTWIDGET.uasset" SILENT=true
+[2023.01.04-18.43.23:569][993]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_0:
+[2023.01.04-18.43.24:126][993]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-18.43.24:126][993]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.43.24:126][993]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-18.43.24:126][993]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.43.24:126][993]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-18.43.25:066][993]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-18.43.25:066][993]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.43.25:066][993]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.43.25:066][993]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.43.25:066][993]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-18.43.25:066][993]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.43.25:066][993]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-18.43.26:490][993]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-18.43.26:490][993]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-18.43.26:490][993]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.43.26:490][993]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.43.26:490][993]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-18.43.26:490][993]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.43.26:490][993]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-18.43.27:035][993]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.43.27:035][993]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.43.29:920][993]LogSlate: Window 'Message' being destroyed
+[2023.01.04-18.43.29:926][993]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Blueprints/UI/STARTWIDGET' (STARTWIDGET.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2023.01.04-18.43.29:933][993]EditorErrors: New page: Save Output
+[2023.01.04-18.43.29:933][993]EditorErrors: Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/Dialogues/DialogueWidget.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-18.43.29:933][993]EditorErrors: Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/STARTWIDGET.uasset: Graph is linked to object CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1 (ObjectRef) in external map
+[2023.01.04-18.43.34:060][993]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2023.01.04-18.43.34:067][993]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Blueprints/UI/Dialogues/DialogueWidget
+/Game/Blueprints/UI/STARTWIDGET
+[2023.01.04-18.43.34:097][993]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.04-18.43.34:097][993]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.01.04-18.43.34:097][993]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment
+[2023.01.04-18.43.36:025][ 52]LogSlate: Window 'Message Log' being destroyed
+[2023.01.04-18.43.36:031][ 52]LogSlate: Window 'Message Log' being destroyed
