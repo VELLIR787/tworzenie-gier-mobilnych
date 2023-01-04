@@ -2207,3 +2207,653 @@ Continue: Skip saving this asset only.
 [2023.01.04-18.43.34:097][993]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment
 [2023.01.04-18.43.36:025][ 52]LogSlate: Window 'Message Log' being destroyed
 [2023.01.04-18.43.36:031][ 52]LogSlate: Window 'Message Log' being destroyed
+[2023.01.04-18.53.13:894][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.01.04-18.53.13:899][427]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.118
+[2023.01.04-18.53.13:899][427]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-18.53.13:899][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-18.53.13:905][427]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-18.53.14:458][427]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-18.53.14:458][427]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-18.53.14:459][427]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.53.14:459][427]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.53.14:459][427]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-18.53.15:416][427]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-18.53.15:416][427]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-18.53.15:416][427]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.53.15:416][427]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.53.15:416][427]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-18.53.16:856][427]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-18.53.16:856][427]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-18.53.16:856][427]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-18.53.16:856][427]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-18.53.16:856][427]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-19.03.17:253][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.04-19.03.17:256][207]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.099
+[2023.01.04-19.03.17:256][207]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-19.03.17:257][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-19.03.17:263][207]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-19.03.17:814][207]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.03.17:814][207]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.03.17:814][207]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.03.17:814][207]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.03.17:814][207]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-19.03.18:758][207]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.03.18:758][207]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.03.18:758][207]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.03.18:758][207]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.03.18:758][207]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-19.03.20:191][207]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.03.20:191][207]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.03.20:191][207]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.03.20:191][207]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.03.20:191][207]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-19.13.20:758][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.04-19.13.20:761][999]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.089
+[2023.01.04-19.13.20:762][999]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-19.13.20:762][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-19.13.20:767][999]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-19.13.21:313][999]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.13.21:313][999]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.13.21:313][999]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.13.21:313][999]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.13.21:313][999]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-19.13.22:251][999]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.13.22:251][999]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.13.22:251][999]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.13.22:251][999]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.13.22:251][999]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-19.13.23:678][999]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.13.23:678][999]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.13.23:678][999]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.13.23:678][999]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.13.23:678][999]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-19.23.23:964][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.04-19.23.23:968][790]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.103
+[2023.01.04-19.23.23:968][790]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-19.23.23:968][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-19.23.23:974][790]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-19.23.24:522][790]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.23.24:522][790]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.23.24:522][790]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.23.24:522][790]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.23.24:522][790]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-19.23.25:461][790]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.23.25:461][790]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.23.25:461][790]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.23.25:461][790]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.23.25:461][790]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-19.23.26:883][790]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.23.26:883][790]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.23.26:883][790]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.23.26:883][790]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.23.26:883][790]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-19.25.57:099][240]LogDerivedDataCache: C:/Users/MK170/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.175 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.04-19.33.27:103][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.04-19.33.27:106][581]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.089
+[2023.01.04-19.33.27:106][581]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-19.33.27:106][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-19.33.27:112][581]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-19.33.27:662][581]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.33.27:662][581]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.33.27:662][581]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.33.27:662][581]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.33.27:662][581]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-19.33.28:597][581]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.33.28:597][581]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.33.28:597][581]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.33.28:597][581]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.33.28:597][581]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-19.33.30:022][581]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.33.30:022][581]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.33.30:022][581]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.33.30:022][581]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.33.30:022][581]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-19.43.30:279][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.04-19.43.30:283][373]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.088
+[2023.01.04-19.43.30:284][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-19.43.30:284][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-19.43.30:288][373]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-19.43.30:836][373]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.43.30:836][373]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.43.30:836][373]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.43.30:836][373]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.43.30:836][373]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-19.43.31:776][373]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.43.31:776][373]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.43.31:776][373]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.43.31:776][373]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.43.31:776][373]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-19.43.33:204][373]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.43.33:204][373]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.43.33:204][373]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.43.33:204][373]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.43.33:204][373]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-19.53.33:644][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.01.04-19.53.33:647][165]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.093
+[2023.01.04-19.53.33:648][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-19.53.33:648][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-19.53.33:653][165]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-19.53.34:193][165]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.53.34:193][165]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.53.34:193][165]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.53.34:193][165]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.53.34:193][165]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-19.53.35:121][165]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.53.35:121][165]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.53.35:121][165]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.53.35:121][165]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.53.35:121][165]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-19.53.36:530][165]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-19.53.36:531][165]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-19.53.36:531][165]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-19.53.36:531][165]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-19.53.36:531][165]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-20.03.37:047][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.01.04-20.03.37:050][957]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.090
+[2023.01.04-20.03.37:050][957]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-20.03.37:050][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-20.03.37:056][957]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-20.03.37:600][957]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.03.37:600][957]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.03.37:600][957]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.03.37:600][957]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.03.37:600][957]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-20.03.38:534][957]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.03.38:534][957]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.03.38:534][957]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.03.38:535][957]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.03.38:535][957]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-20.03.39:957][957]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.03.39:957][957]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.03.39:957][957]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.03.39:957][957]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.03.39:957][957]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-20.13.40:476][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.04-20.13.40:479][749]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.088
+[2023.01.04-20.13.40:479][749]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-20.13.40:479][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-20.13.40:485][749]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-20.13.41:032][749]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.13.41:032][749]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.13.41:032][749]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.13.41:032][749]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.13.41:032][749]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-20.13.41:973][749]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.13.41:973][749]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.13.41:973][749]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.13.41:973][749]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.13.41:973][749]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-20.13.43:397][749]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.13.43:397][749]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.13.43:397][749]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.13.43:397][749]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.13.43:397][749]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-20.23.43:839][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.04-20.23.43:842][541]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.089
+[2023.01.04-20.23.43:843][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-20.23.43:843][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-20.23.43:848][541]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-20.23.44:392][541]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.23.44:392][541]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.23.44:392][541]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.23.44:392][541]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.23.44:392][541]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-20.23.45:331][541]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.23.45:331][541]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.23.45:331][541]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.23.45:331][541]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.23.45:331][541]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-20.23.46:755][541]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.23.46:755][541]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.23.46:755][541]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.23.46:755][541]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.23.46:755][541]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-20.25.52:553][918]LogDerivedDataCache: C:/Users/MK170/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.640 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.04-20.33.47:242][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.04-20.33.47:245][333]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.088
+[2023.01.04-20.33.47:245][333]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-20.33.47:245][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-20.33.47:251][333]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-20.33.47:799][333]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.33.47:799][333]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.33.47:799][333]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.33.47:799][333]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.33.47:799][333]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-20.33.48:737][333]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.33.48:737][333]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.33.48:737][333]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.33.48:737][333]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.33.48:737][333]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-20.33.50:159][333]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.33.50:159][333]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.33.50:159][333]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.33.50:159][333]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.33.50:159][333]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-20.43.50:620][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.01.04-20.43.50:623][125]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.096
+[2023.01.04-20.43.50:624][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-20.43.50:624][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-20.43.50:630][125]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-20.43.51:172][125]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.43.51:172][125]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.43.51:172][125]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.43.51:172][125]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.43.51:172][125]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-20.43.52:111][125]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.43.52:111][125]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.43.52:111][125]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.43.52:111][125]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.43.52:111][125]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-20.43.53:530][125]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.43.53:530][125]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.43.53:530][125]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.43.53:530][125]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.43.53:530][125]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-20.53.53:928][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.01.04-20.53.53:932][917]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.088
+[2023.01.04-20.53.53:932][917]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-20.53.53:932][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-20.53.53:938][917]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-20.53.54:481][917]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.53.54:481][917]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.53.54:481][917]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.53.54:481][917]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.53.54:481][917]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-20.53.55:424][917]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.53.55:424][917]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.53.55:424][917]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.53.55:425][917]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.53.55:425][917]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-20.53.56:853][917]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-20.53.56:853][917]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-20.53.56:853][917]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-20.53.56:853][917]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-20.53.56:853][917]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-21.03.57:212][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.04-21.03.57:215][709]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.088
+[2023.01.04-21.03.57:215][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-21.03.57:215][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-21.03.57:221][709]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-21.03.57:764][709]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.03.57:764][709]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.03.57:764][709]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.03.57:764][709]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.03.57:764][709]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-21.03.58:703][709]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.03.58:703][709]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.03.58:703][709]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.03.58:703][709]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.03.58:703][709]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-21.04.00:130][709]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.04.00:130][709]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.04.00:130][709]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.04.00:130][709]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.04.00:130][709]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-21.14.00:500][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.04-21.14.00:503][501]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.089
+[2023.01.04-21.14.00:503][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-21.14.00:503][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-21.14.00:509][501]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-21.14.01:051][501]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.14.01:051][501]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.14.01:051][501]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.14.01:051][501]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.14.01:051][501]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-21.14.01:990][501]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.14.01:990][501]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.14.01:990][501]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.14.01:990][501]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.14.01:990][501]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-21.14.03:416][501]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.14.03:416][501]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.14.03:416][501]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.14.03:416][501]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.14.03:416][501]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-21.24.03:726][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.01.04-21.24.03:730][293]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.088
+[2023.01.04-21.24.03:730][293]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-21.24.03:730][293]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-21.24.03:736][293]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-21.24.04:280][293]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.24.04:281][293]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.24.04:281][293]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.24.04:281][293]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.24.04:281][293]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-21.24.05:223][293]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.24.05:223][293]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.24.05:223][293]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.24.05:223][293]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.24.05:223][293]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-21.24.06:647][293]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.24.06:647][293]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.24.06:647][293]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.24.06:647][293]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.24.06:647][293]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-21.25.54:049][615]LogDerivedDataCache: C:/Users/MK170/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.050 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.04-21.34.07:202][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.01.04-21.34.07:205][ 85]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.088
+[2023.01.04-21.34.07:205][ 85]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-21.34.07:205][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-21.34.07:211][ 85]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-21.34.07:753][ 85]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.34.07:754][ 85]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.34.07:754][ 85]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.34.07:754][ 85]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.34.07:754][ 85]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-21.34.08:690][ 85]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.34.08:690][ 85]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.34.08:690][ 85]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.34.08:691][ 85]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.34.08:691][ 85]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-21.34.10:124][ 85]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.34.10:124][ 85]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.34.10:124][ 85]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.34.10:124][ 85]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.34.10:124][ 85]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-21.44.10:657][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.01.04-21.44.10:660][877]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.095
+[2023.01.04-21.44.10:661][877]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-21.44.10:661][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-21.44.10:666][877]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-21.44.11:210][877]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.44.11:210][877]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.44.11:210][877]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.44.11:210][877]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.44.11:210][877]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-21.44.12:145][877]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.44.12:145][877]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.44.12:145][877]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.44.12:145][877]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.44.12:145][877]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-21.44.13:570][877]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.44.13:570][877]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.44.13:570][877]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.44.13:570][877]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.44.13:570][877]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-21.54.13:791][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.01.04-21.54.13:794][668]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Downtown_West/Maps/Demo_Environment' took 0.089
+[2023.01.04-21.54.13:794][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/UI/Dialogues/DialogueWidget] ([2] browsable assets)...
+[2023.01.04-21.54.13:794][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Dialogues/DialogueWidget]
+[2023.01.04-21.54.13:800][668]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-21.54.14:346][668]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.54.14:346][668]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.54.14:346][668]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.54.14:346][668]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.54.14:346][668]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-21.54.15:285][668]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.54.15:285][668]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.54.15:285][668]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.54.15:285][668]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.54.15:285][668]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-21.54.16:714][668]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-21.54.16:714][668]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-21.54.16:714][668]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-21.54.16:714][668]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-21.54.16:714][668]Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Blueprints/UI/Dialogues/DialogueWidget_Auto1.uasset: Graph is linked to object World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment (ObjectRef) in external map
+[2023.01.04-21.58.58:785][766]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.04-21.58.58:794][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.04-21.58.58:794][766]PIE: New page: PIE session: Demo_Environment (4 sty 2023, 23:58:58)
+[2023.01.04-21.58.58:794][766]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-21.58.59:383][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.589520s)
+[2023.01.04-21.58.59:384][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.589606s)
+[2023.01.04-21.58.59:384][766]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.04-21.58.59:384][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-21.58.59:384][766]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.04-21.58.59:386][766]LogPlayLevel: PIE: World Init took: (0.002675s)
+[2023.01.04-21.58.59:476][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.01.04-21.58.59:478][766]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.01.04-21.58.59:478][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.04-21.58.59:478][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.04-21.58.59:478][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.04-21.58.59:478][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.04-21.58.59:478][766]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.04-21.58.59:478][766]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.04-21.58.59:478][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.04-21.58.59:478][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.04-21.58.59:479][766]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.04-21.58.59:479][766]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.04-21.58.59:479][766]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.04-21.58.59:519][766]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.04-21.58.59:554][766]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.04-21.58.59:555][766]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.04-21.58.59:555][766]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.04-21.58.59:555][766]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.04-21.58.59:556][766]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.01.04-21.58.59:556][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.01.04-21.58.59:558][766]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.01.04-21.58.59:558][766]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.01.04-21.58.59:558][766]LogInit: FAudioDevice initialized.
+[2023.01.04-21.58.59:558][766]LogAudio: Display: Audio Device (ID: 12) registered with world 'Demo_Environment'.
+[2023.01.04-21.58.59:571][766]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.04-21.59.00:150][766]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.04-22.59.00
+[2023.01.04-21.59.00:157][766]LogWorld: Bringing up level for play took: 0.247730
+[2023.01.04-21.59.00:159][766]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.01.04-21.59.00:171][766]PIE: Server logged in
+[2023.01.04-21.59.00:171][766]PIE: Play in editor total start time 1,378 seconds.
+[2023.01.04-22.00.26:385][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.00.26:385][888]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.04-22.00.26:391][888]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.00.26:412][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.00.26:431][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.04-22.00.26:449][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.00.26:550][888]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.04-22.00.26:552][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.01.04-22.00.26:553][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.01.04-22.00.26:556][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.04-22.00.26:620][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.01.04-22.00.26:712][889]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.01.04-22.00.26:809][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.01.04-22.00.26:818][889]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-22.01.27:053][579]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-22.01.29:352][621]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-22.01.30:530][643]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-22.01.32:032][674]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-22.01.33:974][711]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.04-22.01.33:995][712]LogViewport: Scene viewport resized to 458x282, mode Windowed.
+[2023.01.04-22.01.35:095][730]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-22.01.47:045][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.01.04-22.01.48:881][231]LogSavePackage: Moving output files for package: /Game/Downtown_West/Maps/Demo_Environment
+[2023.01.04-22.01.48:881][231]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Demo_Environment69A2D798440B1510EB789598A9D6EF43.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Downtown_West/Maps/Demo_Environment.umap'
+[2023.01.04-22.01.48:910][231]LogFileHelpers: No new changes to save!
+[2023.01.04-22.01.48:910][231]LogFileHelpers: Saving map 'Demo_Environment' took 1.965
+[2023.01.04-22.01.48:931][231]AssetCheck: New page: Asset Save: Demo_Environment
+[2023.01.04-22.01.48:931][231]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment
+[2023.01.04-22.02.08:638][234]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.04-22.02.15:017][451]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.02.15:017][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.02.15:031][451]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.02.15:031][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.02.17:554][507]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.02.17:554][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.02.17:568][507]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.02.17:568][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.02.21:538][607]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/TEXTLINES/TEXTLINES2.TEXTLINES2
+[2023.01.04-22.02.21:538][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-22.02.21:579][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-22.02.21:934][607]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-22.02.21:934][607]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-22.02.23:231][646]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/TEXTLINES/TEXTLINES3.TEXTLINES3
+[2023.01.04-22.02.23:231][646]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-22.02.23:271][646]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-22.02.23:624][646]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-22.02.23:624][646]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-22.02.30:684][800]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.04-22.03.26:830][747]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-22.03.29:676][809]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-22.03.31:983][856]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-22.03.33:090][878]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-22.05.45:502][794]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.05.45:502][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.05.45:516][794]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.05.45:516][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.05.47:403][840]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.05.47:403][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.05.47:416][840]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.01.04-22.05.47:416][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.04-22.05.50:008][911]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/TEXTLINES/TEXTLINES4.TEXTLINES4
+[2023.01.04-22.05.50:009][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-22.05.50:044][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-22.05.50:396][911]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-22.05.50:396][911]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-22.05.51:549][948]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/TEXTLINES/TEXTLINES5.TEXTLINES5
+[2023.01.04-22.05.51:549][948]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-22.05.51:587][948]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.04-22.05.51:962][948]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-22.05.51:962][948]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.04-22.06.22:984][ 98]LogViewport: Scene viewport resized to 501x282, mode Windowed.
+[2023.01.04-22.06.50:729][566]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.04-22.07.23:925][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.01.04-22.07.24:080][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.01.04-22.07.25:913][928]LogSavePackage: Moving output files for package: /Game/Downtown_West/Maps/Demo_Environment
+[2023.01.04-22.07.25:913][928]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Demo_EnvironmentAFB8DE894D1926F617E468BBCE421E93.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Downtown_West/Maps/Demo_Environment.umap'
+[2023.01.04-22.07.25:942][928]LogFileHelpers: No new changes to save!
+[2023.01.04-22.07.25:942][928]LogFileHelpers: Saving map 'Demo_Environment' took 1.960
+[2023.01.04-22.07.25:953][928]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-22.07.26:501][928]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-22.07.26:501][928]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-22.07.26:501][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-22.07.26:501][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.26:501][928]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-22.07.27:435][928]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-22.07.27:435][928]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-22.07.27:435][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-22.07.27:435][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.27:435][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_3 (1 refs)
+[2023.01.04-22.07.27:435][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.27:435][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_4 (1 refs)
+[2023.01.04-22.07.27:435][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.27:435][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_5 (1 refs)
+[2023.01.04-22.07.27:435][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.27:435][928]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-22.07.28:862][928]LogSavePackage: Warning: 	DialogueWidget_C /Game/Blueprints/UI/Dialogues/DialogueWidget.Default__DialogueWidget_C (1 refs)
+[2023.01.04-22.07.28:862][928]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget_C:CameraActor_1_ExecuteUbergraph_DialogueWidget_RefProperty
+[2023.01.04-22.07.28:862][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-22.07.28:862][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.28:862][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_3 (1 refs)
+[2023.01.04-22.07.28:862][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.28:862][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_4 (1 refs)
+[2023.01.04-22.07.28:862][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.28:862][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_5 (1 refs)
+[2023.01.04-22.07.28:862][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.28:862][928]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_2:
+[2023.01.04-22.07.29:404][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_3 (1 refs)
+[2023.01.04-22.07.29:404][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.29:404][928]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_4:
+[2023.01.04-22.07.29:949][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_4 (1 refs)
+[2023.01.04-22.07.29:949][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.29:949][928]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_3:
+[2023.01.04-22.07.30:494][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/Dialogues/DialogueWidget.DialogueWidget:EventGraph.K2Node_Literal_5 (1 refs)
+[2023.01.04-22.07.30:494][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.34:234][928]LogSlate: Window 'Message' being destroyed
+[2023.01.04-22.07.34:239][928]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Blueprints/UI/Dialogues/DialogueWidget' (DialogueWidget.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2023.01.04-22.07.34:240][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/STARTWIDGET" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/STARTWIDGET.uasset" SILENT=true
+[2023.01.04-22.07.34:247][928]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_0:
+[2023.01.04-22.07.34:797][928]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-22.07.34:797][928]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-22.07.34:797][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-22.07.34:797][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.34:797][928]LogSavePackage: Warning: 
+Referencers of Level /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel:
+[2023.01.04-22.07.35:733][928]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-22.07.35:734][928]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-22.07.35:734][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-22.07.35:734][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.35:734][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-22.07.35:734][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.35:734][928]LogSavePackage: Warning: 
+Referencers of World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:
+[2023.01.04-22.07.37:154][928]LogSavePackage: Warning: 	STARTWIDGET_C /Game/Blueprints/UI/STARTWIDGET.Default__STARTWIDGET_C (1 refs)
+[2023.01.04-22.07.37:154][928]LogSavePackage: Warning: 		0) ObjectProperty /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET_C:CameraActor_0_ExecuteUbergraph_STARTWIDGET_RefProperty
+[2023.01.04-22.07.37:154][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-22.07.37:154][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.37:154][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_1 (1 refs)
+[2023.01.04-22.07.37:154][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.07.37:154][928]LogSavePackage: Warning: 
+Referencers of CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1:
+[2023.01.04-22.07.37:703][928]LogSavePackage: Warning: 	K2Node_Literal /Game/Blueprints/UI/STARTWIDGET.STARTWIDGET:EventGraph.K2Node_Literal_2 (1 refs)
+[2023.01.04-22.07.37:703][928]LogSavePackage: Warning: 		0) ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef
+[2023.01.04-22.08.01:657][928]LogSlate: Window 'Message' being destroyed
+[2023.01.04-22.08.01:663][928]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Blueprints/UI/STARTWIDGET' (STARTWIDGET.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2023.01.04-22.08.01:669][928]EditorErrors: New page: Save Output
+[2023.01.04-22.08.01:669][928]EditorErrors: Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/Dialogues/DialogueWidget.uasset: Graph is linked to object CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_3 (ObjectRef) in external map
+[2023.01.04-22.08.01:669][928]EditorErrors: Warning: Can't save ../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Blueprints/UI/STARTWIDGET.uasset: Graph is linked to object CameraActor /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.CameraActor_1 (ObjectRef) in external map
+[2023.01.04-22.08.03:341][928]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2023.01.04-22.08.03:346][928]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Blueprints/UI/Dialogues/DialogueWidget
+/Game/Blueprints/UI/STARTWIDGET
+[2023.01.04-22.08.03:376][928]AssetCheck: New page: Asset Save: Demo_Environment
+[2023.01.04-22.08.03:376][928]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment
+[2023.01.04-22.08.04:890][961]LogSlate: Window 'Message Log' being destroyed
+[2023.01.04-22.08.04:933][961]LogSlate: Window 'Message Log' being destroyed
