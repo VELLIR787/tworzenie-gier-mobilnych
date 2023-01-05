@@ -5440,3 +5440,136 @@ Script Stack (0 frames):
 [2023.01.05-13.04.57:419][187]LogContentValidation: Display: Validating SoundCue /Game/Sound/FootSteps/FootStepCue.FootStepCue
 [2023.01.05-13.04.57:419][187]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Untitled31.Untitled31
 [2023.01.05-13.04.57:606][187]LogAutomationController: Ignoring very large delta of 17.99 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.05-13.05.15:810][486]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sound/FootSteps/FootStepCue.FootStepCue was zero and has changed. Consider manually Re-saving the asset
+[2023.01.05-13.05.42:252][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/FootSteps/FootStepCue" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/FootSteps/FootStepCue.uasset" SILENT=true
+[2023.01.05-13.05.42:253][298]LogSavePackage: Moving output files for package: /Game/Sound/FootSteps/FootStepCue
+[2023.01.05-13.05.42:253][298]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/FootStepCue9C0548B040ECE66635260ABB995DBDFF.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/FootSteps/FootStepCue.uasset'
+[2023.01.05-13.05.42:285][298]AssetCheck: New page: Asset Save: FootStepCue
+[2023.01.05-13.05.42:285][298]LogContentValidation: Display: Validating SoundCue /Game/Sound/FootSteps/FootStepCue.FootStepCue
+[2023.01.05-13.06.04:358][967]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.05-13.06.07:370][ 51]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2023.01.05-13.06.08:772][ 89]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2023.01.05-13.06.08:774][ 89]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-13.06.08:897][ 89]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-13.06.08:912][ 89]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.05-13.06.09:596][ 89]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-13.06.10:103][ 89]LogViewport: Scene viewport resized to 476x409, mode Windowed.
+[2023.01.05-13.06.10:151][ 89]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.01.05-13.06.25:697][537]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.BS_MM_WalkRun
+[2023.01.05-13.06.25:698][537]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-13.06.25:745][537]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.05-13.06.25:909][537]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-13.06.26:087][537]LogViewport: Scene viewport resized to 685x534, mode Windowed.
+[2023.01.05-13.06.26:108][537]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.01.05-13.07.06:470][704]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.05-13.07.10:917][834]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.05-13.07.19:076][ 70]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.05-13.08.06:410][437]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.01.05-13.08.11:111][547]LogLinker: Warning: Failed to load '/Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny': Can't find file.
+[2023.01.05-13.08.11:112][547]LogLinker: Warning: Failed to load '/Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny': Can't find file.
+[2023.01.05-13.08.11:112][547]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Characters/Heroes/Mannequin/Meshes/SKM_Manny.SKM_Manny'
+[2023.01.05-13.08.12:863][586]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.05-13.08.12:871][586]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-13.08.58:728][656]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.05-13.10.42:218][ 33]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2023.01.05-13.10.42:218][ 33]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2023.01.05-13.10.42:218][ 33]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2023.01.05-13.10.42:237][ 33]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn) ...
+[2023.01.05-13.10.46:313][ 33]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2023.01.05-13.10.49:760][ 33]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2023.01.05-13.10.53:056][ 33]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
+[2023.01.05-13.10.53:056][ 33]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.049977s
+[2023.01.05-13.10.54:671][ 33]LogSkeletalMesh: Built Skeletal Mesh [12.47s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2023.01.05-13.10.54:671][ 33]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 0.002355s (1.660058s overbudget)
+[2023.01.05-13.10.54:741][ 33]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd
+[2023.01.05-13.10.54:742][ 33]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/MF_Walk_FwdC4A11531406902F96A5EFF89645D9CFB.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset'
+[2023.01.05-13.10.54:780][ 33]AssetCheck: New page: Asset Save: MF_Walk_Fwd
+[2023.01.05-13.10.54:780][ 33]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd
+[2023.01.05-13.10.54:799][ 33]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2023.01.05-13.10.54:799][ 33]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2023.01.05-13.10.54:799][ 33]LogAutomationController: Ignoring very large delta of 13.00 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.05-13.10.54:815][ 35]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2023.01.05-13.10.54:816][ 35]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2023.01.05-13.10.54:837][ 36]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2023.01.05-13.10.54:837][ 36]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2023.01.05-13.10.54:856][ 37]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2023.01.05-13.10.54:856][ 37]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2023.01.05-13.10.54:965][ 38]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2023.01.05-13.10.54:965][ 38]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2023.01.05-13.10.55:019][ 39]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2023.01.05-13.10.55:019][ 39]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2023.01.05-13.10.57:204][ 89]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.01.05-13.10.57:211][ 89]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-13.10.57:326][ 89]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-13.10.57:326][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.11.49:897][325]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd
+[2023.01.05-13.11.49:898][325]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/MM_Walk_Fwd482E75AC43A0D63C4786E28BAECF9CB9.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset'
+[2023.01.05-13.11.49:929][325]AssetCheck: New page: Asset Save: MM_Walk_Fwd
+[2023.01.05-13.11.49:929][325]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2023.01.05-13.11.51:438][357]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd
+[2023.01.05-13.11.51:438][357]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/MM_Walk_Fwd49C234FF4FF8CFDCD1D38EBB85E8BC1D.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset'
+[2023.01.05-13.11.51:467][357]AssetCheck: New page: Asset Save: MM_Walk_Fwd
+[2023.01.05-13.11.51:467][357]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2023.01.05-13.12.11:128][820]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.05-13.12.11:138][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.05-13.12.11:138][820]PIE: New page: PIE session: Demo_Environment (5 sty 2023, 15:12:11)
+[2023.01.05-13.12.11:138][820]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.05-13.12.11:749][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.610678s)
+[2023.01.05-13.12.11:749][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.610781s)
+[2023.01.05-13.12.11:749][820]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.05-13.12.11:749][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-13.12.11:749][820]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.05-13.12.11:751][820]LogPlayLevel: PIE: World Init took: (0.002557s)
+[2023.01.05-13.12.11:909][820]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2023.01.05-13.12.11:917][820]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2023.01.05-13.12.11:917][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.05-13.12.11:917][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.05-13.12.11:917][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.05-13.12.11:917][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.05-13.12.11:917][820]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.05-13.12.11:917][820]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.05-13.12.11:917][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.05-13.12.11:917][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.05-13.12.11:917][820]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.05-13.12.11:917][820]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.05-13.12.11:917][820]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.05-13.12.11:919][820]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.05-13.12.11:955][820]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.05-13.12.11:955][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.05-13.12.11:955][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.05-13.12.11:955][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.05-13.12.11:955][820]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2023.01.05-13.12.11:956][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2023.01.05-13.12.11:957][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2023.01.05-13.12.11:957][820]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2023.01.05-13.12.11:957][820]LogInit: FAudioDevice initialized.
+[2023.01.05-13.12.11:958][820]LogAudio: Display: Audio Device (ID: 54) registered with world 'Demo_Environment'.
+[2023.01.05-13.12.11:972][820]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.05-13.12.12:536][820]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.05-14.12.12
+[2023.01.05-13.12.12:542][820]LogWorld: Bringing up level for play took: 0.230241
+[2023.01.05-13.12.12:544][820]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2023.01.05-13.12.12:560][820]PIE: Server logged in
+[2023.01.05-13.12.12:561][820]PIE: Play in editor total start time 1,423 seconds.
+[2023.01.05-13.12.39:036][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.05-13.12.39:036][820]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.05-13.12.39:042][820]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-13.12.39:066][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.12.39:092][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.05-13.12.39:121][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.12.39:226][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.05-13.12.39:226][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2023.01.05-13.12.39:227][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2023.01.05-13.12.39:325][820]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2023.01.05-13.12.39:447][821]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2023.01.05-13.12.39:549][821]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.01.05-13.12.41:656][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.01.05-13.12.44:781][861]LogSlate: Window 'Save Level As' being destroyed
+[2023.01.05-13.12.55:264][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.01.05-13.12.56:378][861]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-13.12.56:942][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.01.05-13.12.58:826][861]LogSavePackage: Moving output files for package: /Game/Downtown_West/Maps/Untitled32
+[2023.01.05-13.12.58:826][861]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Untitled32AC9C0776483CAAC4241EC3A8886E71A3.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Downtown_West/Maps/Untitled32.umap'
+[2023.01.05-13.12.59:163][861]LogFileHelpers: Saving map 'Untitled32' took 14.365
+[2023.01.05-13.12.59:198][861]AssetCheck: New page: Asset Save: Untitled32
+[2023.01.05-13.12.59:198][861]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Untitled32.Untitled32
+[2023.01.05-13.12.59:395][861]LogAutomationController: Ignoring very large delta of 17.91 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
