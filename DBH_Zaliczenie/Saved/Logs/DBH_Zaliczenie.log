@@ -5274,3 +5274,169 @@ Script Stack (0 frames):
 [2023.01.05-12.55.33:142][197]AssetCheck: New page: Asset Save: Untitled30
 [2023.01.05-12.55.33:142][197]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Untitled30.Untitled30
 [2023.01.05-12.55.33:329][197]LogAutomationController: Ignoring very large delta of 15.84 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.05-13.00.12:843][ 93]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.05-13.00.12:870][ 93]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.05-13.00.12:888][ 94]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.05-13.00.16:289][202]LogContentBrowser: Attempting asset rename: NewFolder -> FootSteps
+[2023.01.05-13.00.16:290][202]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.05-13.00.41:762][508]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Pivot_03...
+[2023.01.05-13.00.41:762][508]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/FootSteps/Concrete_Pivot_03.Concrete_Pivot_03 will be modified from 40 to 40.
+[2023.01.05-13.00.41:762][508]LogAudioDerivedData: Warning: [SoundWave /Game/Sound/FootSteps/Concrete_Pivot_03.Concrete_Pivot_03] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2023.01.05-13.00.41:765][508]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 45264 while cooking SoundWave /Game/Sound/FootSteps/Concrete_Pivot_03.Concrete_Pivot_03.
+[2023.01.05-13.00.41:765][508]LogAudio: Display: Chunk size for SoundWave /Game/Sound/FootSteps/Concrete_Pivot_03.Concrete_Pivot_03: 262144
+[2023.01.05-13.00.42:402][528]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Pivot_04...
+[2023.01.05-13.00.42:402][528]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/FootSteps/Concrete_Pivot_04.Concrete_Pivot_04 will be modified from 40 to 40.
+[2023.01.05-13.00.42:403][528]LogAudioDerivedData: Warning: [SoundWave /Game/Sound/FootSteps/Concrete_Pivot_04.Concrete_Pivot_04] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2023.01.05-13.00.42:405][528]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 47538 while cooking SoundWave /Game/Sound/FootSteps/Concrete_Pivot_04.Concrete_Pivot_04.
+[2023.01.05-13.00.42:405][528]LogAudio: Display: Chunk size for SoundWave /Game/Sound/FootSteps/Concrete_Pivot_04.Concrete_Pivot_04: 262144
+[2023.01.05-13.00.42:972][546]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Run_01...
+[2023.01.05-13.00.42:972][546]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/FootSteps/Concrete_Run_01.Concrete_Run_01 will be modified from 40 to 40.
+[2023.01.05-13.00.42:972][546]LogAudioDerivedData: Warning: [SoundWave /Game/Sound/FootSteps/Concrete_Run_01.Concrete_Run_01] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2023.01.05-13.00.42:980][546]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 134080 while cooking SoundWave /Game/Sound/FootSteps/Concrete_Run_01.Concrete_Run_01.
+[2023.01.05-13.00.42:980][546]LogAudio: Display: Chunk size for SoundWave /Game/Sound/FootSteps/Concrete_Run_01.Concrete_Run_01: 262144
+[2023.01.05-13.00.43:589][565]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Run_02...
+[2023.01.05-13.00.43:589][565]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/FootSteps/Concrete_Run_02.Concrete_Run_02 will be modified from 40 to 40.
+[2023.01.05-13.00.43:589][565]LogAudioDerivedData: Warning: [SoundWave /Game/Sound/FootSteps/Concrete_Run_02.Concrete_Run_02] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2023.01.05-13.00.43:594][565]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 79996 while cooking SoundWave /Game/Sound/FootSteps/Concrete_Run_02.Concrete_Run_02.
+[2023.01.05-13.00.43:594][565]LogAudio: Display: Chunk size for SoundWave /Game/Sound/FootSteps/Concrete_Run_02.Concrete_Run_02: 262144
+[2023.01.05-13.00.44:583][596]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Run_03...
+[2023.01.05-13.00.44:583][596]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/FootSteps/Concrete_Run_03.Concrete_Run_03 will be modified from 40 to 40.
+[2023.01.05-13.00.44:583][596]LogAudioDerivedData: Warning: [SoundWave /Game/Sound/FootSteps/Concrete_Run_03.Concrete_Run_03] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2023.01.05-13.00.44:587][596]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 79816 while cooking SoundWave /Game/Sound/FootSteps/Concrete_Run_03.Concrete_Run_03.
+[2023.01.05-13.00.44:587][596]LogAudio: Display: Chunk size for SoundWave /Game/Sound/FootSteps/Concrete_Run_03.Concrete_Run_03: 262144
+[2023.01.05-13.00.45:230][616]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Concrete_Run_04...
+[2023.01.05-13.00.45:230][616]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/FootSteps/Concrete_Run_04.Concrete_Run_04 will be modified from 40 to 40.
+[2023.01.05-13.00.45:230][616]LogAudioDerivedData: Warning: [SoundWave /Game/Sound/FootSteps/Concrete_Run_04.Concrete_Run_04] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2023.01.05-13.00.45:235][616]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 74996 while cooking SoundWave /Game/Sound/FootSteps/Concrete_Run_04.Concrete_Run_04.
+[2023.01.05-13.00.45:235][616]LogAudio: Display: Chunk size for SoundWave /Game/Sound/FootSteps/Concrete_Run_04.Concrete_Run_04: 262144
+[2023.01.05-13.00.58:558][ 29]LogLinker: Warning: [AssetLog] D:\GitHub\tworzenie-gier-mobilnych\DBH_Zaliczenie\Content\Sound\FootSteps\Footstep_Cue.uasset: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_05': Can't find file.
+[2023.01.05-13.00.58:558][ 29]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_05'
+[2023.01.05-13.00.58:561][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_01': Can't find file.
+[2023.01.05-13.00.58:561][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_01': Can't find file.
+[2023.01.05-13.00.58:561][ 29]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_01.Concrete_Step_01'
+[2023.01.05-13.00.58:561][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_02': Can't find file.
+[2023.01.05-13.00.58:561][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_02': Can't find file.
+[2023.01.05-13.00.58:561][ 29]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_02.Concrete_Step_02'
+[2023.01.05-13.00.58:561][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_03': Can't find file.
+[2023.01.05-13.00.58:561][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_03': Can't find file.
+[2023.01.05-13.00.58:561][ 29]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Step_03.Concrete_Step_03'
+[2023.01.05-13.00.58:562][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_01': Can't find file.
+[2023.01.05-13.00.58:562][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_01': Can't find file.
+[2023.01.05-13.00.58:562][ 29]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_01.Concrete_Walk_01'
+[2023.01.05-13.00.58:562][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_02': Can't find file.
+[2023.01.05-13.00.58:562][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_02': Can't find file.
+[2023.01.05-13.00.58:562][ 29]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_02.Concrete_Walk_02'
+[2023.01.05-13.00.58:562][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_03': Can't find file.
+[2023.01.05-13.00.58:562][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_03': Can't find file.
+[2023.01.05-13.00.58:562][ 29]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_03.Concrete_Walk_03'
+[2023.01.05-13.00.58:562][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_04': Can't find file.
+[2023.01.05-13.00.58:562][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_04': Can't find file.
+[2023.01.05-13.00.58:562][ 29]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Walk_04.Concrete_Walk_04'
+[2023.01.05-13.00.58:563][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Pivot_01': Can't find file.
+[2023.01.05-13.00.58:563][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Pivot_01': Can't find file.
+[2023.01.05-13.00.58:563][ 29]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Pivot_01.Concrete_Pivot_01'
+[2023.01.05-13.00.58:563][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Pivot_02': Can't find file.
+[2023.01.05-13.00.58:563][ 29]LogLinker: Warning: Failed to load '/Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Pivot_02': Can't find file.
+[2023.01.05-13.00.58:563][ 29]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/AdvancedLocomotionV4/Audio/Footsteps/Concrete_Pivot_02.Concrete_Pivot_02'
+[2023.01.05-13.00.58:571][ 29]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Sound/FootSteps/Footstep_Cue.Footstep_Cue:SoundNodeWavePlayer_17 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2023.01.05-13.00.59:724][ 65]LogAudio: Warning: Asynchronous load of SoundNodeWavePlayer /Game/Sound/FootSteps/Footstep_Cue.Footstep_Cue:SoundNodeWavePlayer_18 required in USoundNodeWavePlayer::ParseNodes when we attempted to play, likely because the quality node was changed.
+[2023.01.05-13.01.02:453][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.01.05-13.01.03:695][146]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-13.01.03:810][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.01.05-13.01.03:901][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.01.05-13.01.04:006][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.01.05-13.01.05:114][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.01.05-13.01.06:150][179]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-13.01.06:244][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.01.05-13.01.06:353][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.01.05-13.01.06:459][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.01.05-13.01.07:583][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.01.05-13.01.08:451][213]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-13.01.08:550][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.01.05-13.01.08:659][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.01.05-13.01.08:751][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.01.05-13.01.09:518][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.01.05-13.01.10:285][235]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-13.01.10:381][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.01.05-13.01.10:488][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.01.05-13.01.10:577][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.01.05-13.01.11:288][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.01.05-13.01.12:091][256]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-13.01.12:187][256]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.01.05-13.01.12:296][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.01.05-13.01.12:383][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.01.05-13.01.13:131][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.05-13.01.13:918][278]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-13.01.14:015][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.01.05-13.01.14:105][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.01.05-13.01.14:191][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.01.05-13.01.15:903][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.01.05-13.01.16:679][330]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-13.01.16:791][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.01.05-13.01.16:899][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.01.05-13.01.16:986][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.01.05-13.01.17:668][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.01.05-13.01.18:986][350]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-13.01.19:081][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.01.05-13.01.19:170][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.01.05-13.01.19:274][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.01.05-13.01.20:151][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.01.05-13.01.21:129][376]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-13.01.21:242][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.01.05-13.01.21:333][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.01.05-13.01.21:420][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.01.05-13.01.22:596][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.01.05-13.01.23:273][411]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-13.01.23:368][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.01.05-13.01.23:476][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.01.05-13.01.23:563][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.01.05-13.01.24:330][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.01.05-13.01.24:873][434]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-13.01.24:972][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.01.05-13.01.25:081][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.01.05-13.01.25:168][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.05-13.01.26:416][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.01.05-13.01.27:128][472]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-13.01.27:244][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.01.05-13.01.27:334][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.01.05-13.01.27:441][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.01.05-13.01.28:111][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.01.05-13.01.29:471][492]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-13.01.29:568][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.01.05-13.01.29:675][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.01.05-13.01.29:763][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.01.05-13.01.30:451][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.01.05-13.01.31:168][512]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-13.01.31:281][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.01.05-13.01.31:369][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.01.05-13.01.31:472][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.01.05-13.03.52:192][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.01.05-13.03.52:896][816]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-13.03.53:007][816]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.01.05-13.03.53:114][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.01.05-13.03.53:204][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.01.05-13.03.57:883][926]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2023.01.05-13.03.57:894][926]LogContentBrowser: Creating deferred item: NewSoundCue
+[2023.01.05-13.03.57:910][927]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundCue).
+[2023.01.05-13.04.02:057][ 55]LogContentBrowser: Attempting asset rename: NewSoundCue -> FootStepCue
+[2023.01.05-13.04.02:058][ 55]LogContentBrowser: End creating deferred item NewSoundCue
+[2023.01.05-13.04.05:851][171]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/FootSteps/FootStepCue.FootStepCue
+[2023.01.05-13.04.11:671][343]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/FootSteps/Concrete_Step_01.Concrete_Step_01
+[2023.01.05-13.04.11:671][343]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/FootSteps/Concrete_Step_01.Concrete_Step_01
+[2023.01.05-13.04.11:683][343]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/FootSteps/Concrete_Step_01.Concrete_Step_01 as actor: AmbientSound /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.AmbientSound_0
+[2023.01.05-13.04.11:683][343]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/FootSteps/Concrete_Step_01.Concrete_Step_01 as actor: AmbientSound /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.AmbientSound_0
+[2023.01.05-13.04.39:802][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.01.05-13.04.44:676][187]LogSlate: Window 'Save Level As' being destroyed
+[2023.01.05-13.04.53:603][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.01.05-13.04.54:698][187]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-13.04.55:241][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.01.05-13.04.57:064][187]LogSavePackage: Moving output files for package: /Game/Downtown_West/Maps/Untitled31
+[2023.01.05-13.04.57:064][187]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Untitled312AF1B4904EF62C516FDA32B6C2EC9958.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Downtown_West/Maps/Untitled31.umap'
+[2023.01.05-13.04.57:388][187]LogFileHelpers: Saving map 'Untitled31' took 12.696
+[2023.01.05-13.04.57:389][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/FootSteps/FootStepCue" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/FootSteps/FootStepCue.uasset" SILENT=true
+[2023.01.05-13.04.57:390][187]LogSavePackage: Moving output files for package: /Game/Sound/FootSteps/FootStepCue
+[2023.01.05-13.04.57:390][187]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/FootStepCue8EDD1B4046AA043EA1974BBA995CA651.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/FootSteps/FootStepCue.uasset'
+[2023.01.05-13.04.57:419][187]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.05-13.04.57:419][187]LogContentValidation: Display: Validating SoundCue /Game/Sound/FootSteps/FootStepCue.FootStepCue
+[2023.01.05-13.04.57:419][187]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Untitled31.Untitled31
+[2023.01.05-13.04.57:606][187]LogAutomationController: Ignoring very large delta of 17.99 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
