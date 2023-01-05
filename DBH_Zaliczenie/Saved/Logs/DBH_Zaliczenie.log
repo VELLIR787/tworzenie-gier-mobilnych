@@ -5573,3 +5573,287 @@ Script Stack (0 frames):
 [2023.01.05-13.12.59:198][861]AssetCheck: New page: Asset Save: Untitled32
 [2023.01.05-13.12.59:198][861]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Untitled32.Untitled32
 [2023.01.05-13.12.59:395][861]LogAutomationController: Ignoring very large delta of 17.91 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.05-13.13.17:297][ 10]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-13.13.17:297][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.13.17:330][ 10]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-13.13.17:330][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.13.17:423][ 10]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-13.13.17:424][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.13.18:541][ 43]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-13.13.18:541][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.13.18:562][ 43]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-13.13.18:562][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.13.18:673][ 43]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-13.13.18:674][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.13.30:867][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/FootSteps/FootStepCue" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/FootSteps/FootStepCue.uasset" SILENT=true
+[2023.01.05-13.13.30:869][470]LogSavePackage: Moving output files for package: /Game/Sound/FootSteps/FootStepCue
+[2023.01.05-13.13.30:869][470]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/FootStepCueBC2C8AB34A99A0A3C8FEDEA4F52ADC4E.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/FootSteps/FootStepCue.uasset'
+[2023.01.05-13.13.30:896][470]AssetCheck: New page: Asset Save: FootStepCue
+[2023.01.05-13.13.30:896][470]LogContentValidation: Display: Validating SoundCue /Game/Sound/FootSteps/FootStepCue.FootStepCue
+[2023.01.05-13.13.42:501][878]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.05-13.13.42:510][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.05-13.13.42:510][878]PIE: New page: PIE session: Demo_Environment (5 sty 2023, 15:13:42)
+[2023.01.05-13.13.42:511][878]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.05-13.13.43:120][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.608718s)
+[2023.01.05-13.13.43:120][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.608816s)
+[2023.01.05-13.13.43:120][878]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.05-13.13.43:120][878]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-13.13.43:121][878]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.05-13.13.43:123][878]LogPlayLevel: PIE: World Init took: (0.002581s)
+[2023.01.05-13.13.43:304][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2023.01.05-13.13.43:315][878]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2023.01.05-13.13.43:315][878]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.05-13.13.43:315][878]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.05-13.13.43:315][878]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.05-13.13.43:315][878]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.05-13.13.43:315][878]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.05-13.13.43:315][878]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.05-13.13.43:315][878]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.05-13.13.43:315][878]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.05-13.13.43:315][878]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.05-13.13.43:315][878]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.05-13.13.43:315][878]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.05-13.13.43:318][878]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.05-13.13.43:350][878]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.05-13.13.43:350][878]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.05-13.13.43:351][878]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.05-13.13.43:351][878]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.05-13.13.43:351][878]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2023.01.05-13.13.43:351][878]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2023.01.05-13.13.43:354][878]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2023.01.05-13.13.43:354][878]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2023.01.05-13.13.43:354][878]LogInit: FAudioDevice initialized.
+[2023.01.05-13.13.43:354][878]LogAudio: Display: Audio Device (ID: 55) registered with world 'Demo_Environment'.
+[2023.01.05-13.13.43:367][878]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.05-13.13.43:928][878]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.05-14.13.43
+[2023.01.05-13.13.43:934][878]LogWorld: Bringing up level for play took: 0.227400
+[2023.01.05-13.13.43:936][878]LogOnline: OSS: Created online subsystem instance for: :Context_96
+[2023.01.05-13.13.43:953][878]PIE: Server logged in
+[2023.01.05-13.13.43:953][878]PIE: Play in editor total start time 1,443 seconds.
+[2023.01.05-13.14.27:145][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.05-13.14.27:145][809]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.05-13.14.27:152][809]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-13.14.27:175][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.14.27:206][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.05-13.14.27:233][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.14.27:362][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.05-13.14.27:362][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2023.01.05-13.14.27:364][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2023.01.05-13.14.27:461][809]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2023.01.05-13.14.27:582][810]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2023.01.05-13.14.27:672][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.01.05-13.14.55:562][650]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/CutScene/StartScene.StartScene
+[2023.01.05-13.14.55:610][650]LogSceneOutliner: Outliner Column Spawnable does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.01.05-13.14.55:610][650]LogSceneOutliner: Outliner Column Sequence does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.01.05-13.17.15:618][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CutScene/StartScene" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/CutScene/StartScene.uasset" SILENT=true
+[2023.01.05-13.17.15:626][731]LogSavePackage: Moving output files for package: /Game/CutScene/StartScene
+[2023.01.05-13.17.15:627][731]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/StartScene1B223AAD400D76B90473D89D3116CFA2.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/CutScene/StartScene.uasset'
+[2023.01.05-13.17.15:660][731]AssetCheck: New page: Asset Save: StartScene
+[2023.01.05-13.17.15:660][731]LogContentValidation: Display: Validating LevelSequence /Game/CutScene/StartScene.StartScene
+[2023.01.05-13.17.17:478][802]LogSlate: Window 'Sequencer' being destroyed
+[2023.01.05-13.17.17:548][802]LogSlate: Window 'Sequencer' being destroyed
+[2023.01.05-13.17.59:442][881]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/Wind.Wind
+[2023.01.05-13.17.59:442][881]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/Wind.Wind
+[2023.01.05-13.17.59:446][881]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/Wind.Wind as actor: AmbientSound /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.AmbientSound_1
+[2023.01.05-13.17.59:446][881]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/Wind.Wind as actor: AmbientSound /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.AmbientSound_1
+[2023.01.05-13.18.01:353][924]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/Wind.Wind
+[2023.01.05-13.18.01:353][924]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/Wind.Wind
+[2023.01.05-13.18.01:360][924]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/Wind.Wind as actor: AmbientSound /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.AmbientSound_2
+[2023.01.05-13.18.01:360][924]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/Wind.Wind as actor: AmbientSound /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.AmbientSound_2
+[2023.01.05-13.18.11:351][264]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.05-13.18.11:361][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.05-13.18.11:361][264]PIE: New page: PIE session: Demo_Environment (5 sty 2023, 15:18:11)
+[2023.01.05-13.18.11:394][264]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.05-13.18.12:002][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.607306s)
+[2023.01.05-13.18.12:002][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.607482s)
+[2023.01.05-13.18.12:002][264]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.05-13.18.12:002][264]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-13.18.12:002][264]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.05-13.18.12:004][264]LogPlayLevel: PIE: World Init took: (0.002344s)
+[2023.01.05-13.18.12:107][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2023.01.05-13.18.12:115][264]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2023.01.05-13.18.12:115][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.05-13.18.12:115][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.05-13.18.12:115][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.05-13.18.12:115][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.05-13.18.12:115][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.05-13.18.12:115][264]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.05-13.18.12:115][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.05-13.18.12:115][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.05-13.18.12:115][264]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.05-13.18.12:115][264]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.05-13.18.12:116][264]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.05-13.18.12:117][264]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.05-13.18.12:152][264]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.05-13.18.12:152][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.05-13.18.12:152][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.05-13.18.12:152][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.05-13.18.12:153][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2023.01.05-13.18.12:153][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2023.01.05-13.18.12:155][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2023.01.05-13.18.12:155][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2023.01.05-13.18.12:155][264]LogInit: FAudioDevice initialized.
+[2023.01.05-13.18.12:155][264]LogAudio: Display: Audio Device (ID: 56) registered with world 'Demo_Environment'.
+[2023.01.05-13.18.12:167][264]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.05-13.18.12:740][264]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.05-14.18.12
+[2023.01.05-13.18.12:748][264]LogWorld: Bringing up level for play took: 0.240320
+[2023.01.05-13.18.12:750][264]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2023.01.05-13.18.12:767][264]PIE: Server logged in
+[2023.01.05-13.18.12:767][264]PIE: Play in editor total start time 1,406 seconds.
+[2023.01.05-13.19.07:695][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.05-13.19.07:695][634]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.05-13.19.07:702][634]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-13.19.07:726][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.19.07:750][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.05-13.19.07:778][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.19.07:896][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.05-13.19.07:898][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.01.05-13.19.07:899][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.01.05-13.19.07:903][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.05-13.19.07:961][634]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2023.01.05-13.19.08:070][635]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2023.01.05-13.19.08:158][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.01.05-13.19.14:012][808]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.2__Markus_Main_Theme___Detroit_Become_Human_OST
+[2023.01.05-13.19.14:012][808]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.2__Markus_Main_Theme___Detroit_Become_Human_OST
+[2023.01.05-13.19.14:016][808]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.2__Markus_Main_Theme___Detroit_Become_Human_OST as actor: AmbientSound /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.AmbientSound_3
+[2023.01.05-13.19.14:016][808]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.2__Markus_Main_Theme___Detroit_Become_Human_OST as actor: AmbientSound /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.AmbientSound_3
+[2023.01.05-13.19.15:490][856]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.2__Markus_Main_Theme___Detroit_Become_Human_OST
+[2023.01.05-13.19.15:490][856]LogActorFactory: Actor Factory attempting to spawn SoundWave /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.2__Markus_Main_Theme___Detroit_Become_Human_OST
+[2023.01.05-13.19.15:496][856]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.2__Markus_Main_Theme___Detroit_Become_Human_OST as actor: AmbientSound /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.AmbientSound_4
+[2023.01.05-13.19.15:496][856]LogActorFactory: Actor Factory spawned SoundWave /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.2__Markus_Main_Theme___Detroit_Become_Human_OST as actor: AmbientSound /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment:PersistentLevel.AmbientSound_4
+[2023.01.05-13.19.23:192][196]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.2__Markus_Main_Theme___Detroit_Become_Human_OST
+[2023.01.05-13.19.28:183][421]LogSavePackage: Moving output files for package: /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST
+[2023.01.05-13.19.28:183][421]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/2__Markus_Main_Theme___Detroit_B210DFD24432761CB6137ED861A9D52E0.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.uasset'
+[2023.01.05-13.19.28:210][421]AssetCheck: New page: Asset Save: 2__Markus_Main_Theme___Detroit_Become_Human_OST
+[2023.01.05-13.19.28:210][421]LogContentValidation: Display: Validating SoundWave /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.2__Markus_Main_Theme___Detroit_Become_Human_OST
+[2023.01.05-13.19.29:847][499]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.05-13.19.29:856][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.05-13.19.29:856][499]PIE: New page: PIE session: Demo_Environment (5 sty 2023, 15:19:29)
+[2023.01.05-13.19.29:904][499]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.05-13.19.30:503][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.599185s)
+[2023.01.05-13.19.30:504][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.599357s)
+[2023.01.05-13.19.30:504][499]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.05-13.19.30:504][499]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-13.19.30:504][499]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.05-13.19.30:507][499]LogPlayLevel: PIE: World Init took: (0.002978s)
+[2023.01.05-13.19.30:597][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.01.05-13.19.30:602][499]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2023.01.05-13.19.30:602][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.05-13.19.30:602][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.05-13.19.30:602][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.05-13.19.30:602][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.05-13.19.30:602][499]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.05-13.19.30:602][499]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.05-13.19.30:602][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.05-13.19.30:602][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.05-13.19.30:602][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.05-13.19.30:603][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.05-13.19.30:603][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.05-13.19.30:604][499]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.05-13.19.30:638][499]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.05-13.19.30:638][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.05-13.19.30:639][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.05-13.19.30:639][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.05-13.19.30:640][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2023.01.05-13.19.30:640][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2023.01.05-13.19.30:642][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2023.01.05-13.19.30:642][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2023.01.05-13.19.30:642][499]LogInit: FAudioDevice initialized.
+[2023.01.05-13.19.30:642][499]LogAudio: Display: Audio Device (ID: 57) registered with world 'Demo_Environment'.
+[2023.01.05-13.19.30:652][499]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.05-13.19.31:225][499]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.05-14.19.31
+[2023.01.05-13.19.31:232][499]LogWorld: Bringing up level for play took: 0.239446
+[2023.01.05-13.19.31:234][499]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2023.01.05-13.19.31:251][499]PIE: Server logged in
+[2023.01.05-13.19.31:251][499]PIE: Play in editor total start time 1,396 seconds.
+[2023.01.05-13.19.34:185][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.05-13.19.34:185][634]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.05-13.19.34:192][634]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-13.19.34:216][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.19.34:231][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.05-13.19.34:257][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.19.34:379][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.05-13.19.34:380][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2023.01.05-13.19.34:381][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2023.01.05-13.19.34:384][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.05-13.19.34:442][634]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2023.01.05-13.19.34:526][635]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2023.01.05-13.19.34:636][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.01.05-13.19.39:639][836]LogSavePackage: Moving output files for package: /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST
+[2023.01.05-13.19.39:640][836]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/2__Markus_Main_Theme___Detroit_B2D72CC744AB084881290778893D7AF30.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.uasset'
+[2023.01.05-13.19.39:667][836]AssetCheck: New page: Asset Save: 2__Markus_Main_Theme___Detroit_Become_Human_OST
+[2023.01.05-13.19.39:667][836]LogContentValidation: Display: Validating SoundWave /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.2__Markus_Main_Theme___Detroit_Become_Human_OST
+[2023.01.05-13.19.40:768][883]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.05-13.19.40:777][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.05-13.19.40:777][883]PIE: New page: PIE session: Demo_Environment (5 sty 2023, 15:19:40)
+[2023.01.05-13.19.40:804][883]LogPlayLevel: Creating play world package: /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.05-13.19.41:408][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.604023s)
+[2023.01.05-13.19.41:409][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment to /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment (0.604273s)
+[2023.01.05-13.19.41:409][883]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.05-13.19.41:409][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-13.19.41:409][883]LogAIModule: Creating AISystem for world Demo_Environment
+[2023.01.05-13.19.41:412][883]LogPlayLevel: PIE: World Init took: (0.003364s)
+[2023.01.05-13.19.41:502][883]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2023.01.05-13.19.41:507][883]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2023.01.05-13.19.41:507][883]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.05-13.19.41:507][883]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.05-13.19.41:507][883]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.05-13.19.41:507][883]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.05-13.19.41:507][883]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.05-13.19.41:507][883]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.05-13.19.41:507][883]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.05-13.19.41:507][883]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.05-13.19.41:507][883]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.05-13.19.41:507][883]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.05-13.19.41:507][883]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.05-13.19.41:509][883]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.05-13.19.41:543][883]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2023.01.05-13.19.41:543][883]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.05-13.19.41:543][883]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.05-13.19.41:543][883]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.05-13.19.41:544][883]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2023.01.05-13.19.41:544][883]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2023.01.05-13.19.41:545][883]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2023.01.05-13.19.41:546][883]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2023.01.05-13.19.41:546][883]LogInit: FAudioDevice initialized.
+[2023.01.05-13.19.41:546][883]LogAudio: Display: Audio Device (ID: 58) registered with world 'Demo_Environment'.
+[2023.01.05-13.19.41:562][883]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.05-13.19.42:126][883]LogWorld: Bringing World /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment.Demo_Environment up for play (max tick rate 0) at 2023.01.05-14.19.42
+[2023.01.05-13.19.42:133][883]LogWorld: Bringing up level for play took: 0.231767
+[2023.01.05-13.19.42:135][883]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2023.01.05-13.19.42:151][883]PIE: Server logged in
+[2023.01.05-13.19.42:152][883]PIE: Play in editor total start time 1,375 seconds.
+[2023.01.05-13.20.25:565][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.05-13.20.25:565][751]LogWorld: BeginTearingDown for /Game/Downtown_West/Maps/UEDPIE_0_Demo_Environment
+[2023.01.05-13.20.25:571][751]LogWorld: UWorld::CleanupWorld for Demo_Environment, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-13.20.25:595][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.20.25:617][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.05-13.20.25:644][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-13.20.25:750][751]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.05-13.20.25:781][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2023.01.05-13.20.25:782][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2023.01.05-13.20.25:785][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.05-13.20.25:848][751]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2023.01.05-13.20.25:968][752]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2023.01.05-13.20.26:055][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.01.05-13.20.28:081][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.01.05-13.20.28:251][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.01.05-13.20.30:115][805]LogSavePackage: Moving output files for package: /Game/Downtown_West/Maps/Demo_Environment
+[2023.01.05-13.20.30:115][805]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Demo_Environment48B2D4F74C0D56D5009BCAA331DDAD9D.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Downtown_West/Maps/Demo_Environment.umap'
+[2023.01.05-13.20.30:148][805]LogFileHelpers: No new changes to save!
+[2023.01.05-13.20.30:148][805]LogFileHelpers: Saving map 'Demo_Environment' took 1.995
+[2023.01.05-13.20.33:642][805]LogSlate: Window 'Save Level As' being destroyed
+[2023.01.05-13.20.44:895][805]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.01.05-13.20.45:992][805]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-13.20.46:539][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.01.05-13.20.48:381][805]LogSavePackage: Moving output files for package: /Game/Downtown_West/Maps/Untitled33
+[2023.01.05-13.20.48:381][805]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Untitled33B7B21A9D481476576F83E094897B3B5B.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Downtown_West/Maps/Untitled33.umap'
+[2023.01.05-13.20.48:723][805]LogFileHelpers: Saving map 'Untitled33' took 15.063
+[2023.01.05-13.20.48:723][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/FootSteps/FootStepCue" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/FootSteps/FootStepCue.uasset" SILENT=true
+[2023.01.05-13.20.48:724][805]LogSavePackage: Moving output files for package: /Game/Sound/FootSteps/FootStepCue
+[2023.01.05-13.20.48:725][805]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/FootStepCue7AC9E2304124AFB1B3D7CA87A86BA267.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/FootSteps/FootStepCue.uasset'
+[2023.01.05-13.20.48:775][805]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.05-13.20.48:775][805]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Demo_Environment.Demo_Environment
+[2023.01.05-13.20.48:775][805]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Untitled33.Untitled33
+[2023.01.05-13.20.48:775][805]LogContentValidation: Display: Validating SoundCue /Game/Sound/FootSteps/FootStepCue.FootStepCue
+[2023.01.05-13.20.48:963][805]LogAutomationController: Ignoring very large delta of 21.04 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
