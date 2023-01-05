@@ -5255,3 +5255,22 @@ Script Stack (0 frames):
 [2023.01.05-12.43.15:506][691]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Untitled29.Untitled29
 [2023.01.05-12.43.15:506][691]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Untitled28.Untitled28
 [2023.01.05-12.43.15:697][691]LogAutomationController: Ignoring very large delta of 21.96 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.05-12.55.12:300][129]AssetReimport: New page: Outstanding source content changes 14:55:12
+[2023.01.05-12.55.12:431][130]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/2. Markus Main Theme   Detroit Become Human OST.wav)
+[2023.01.05-12.55.14:606][130]LogAutomationController: Ignoring very large delta of 2.25 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.05-12.55.14:704][131]LogSavePackage: Moving output files for package: /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST
+[2023.01.05-12.55.14:704][131]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/2__Markus_Main_Theme___Detroit_BCE39B4AF4B2D4BF06E777B9BDD271696.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.uasset'
+[2023.01.05-12.55.14:767][132]AssetCheck: New page: Asset Save: 2__Markus_Main_Theme___Detroit_Become_Human_OST
+[2023.01.05-12.55.14:767][132]LogContentValidation: Display: Validating SoundWave /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.2__Markus_Main_Theme___Detroit_Become_Human_OST
+[2023.01.05-12.55.17:666][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.01.05-12.55.17:738][197]AssetReimport: Importing new asset /Game/Sound/2__Markus_Main_Theme___Detroit_Become_Human_OST.
+[2023.01.05-12.55.21:434][197]LogSlate: Window 'Save Level As' being destroyed
+[2023.01.05-12.55.29:353][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.01.05-12.55.30:445][197]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-12.55.30:967][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.01.05-12.55.32:805][197]LogSavePackage: Moving output files for package: /Game/Downtown_West/Maps/Untitled30
+[2023.01.05-12.55.32:805][197]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Untitled30CF935EE84355A8AD9B8805A0AE7E3DA4.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/Downtown_West/Maps/Untitled30.umap'
+[2023.01.05-12.55.33:112][197]LogFileHelpers: Saving map 'Untitled30' took 11.664
+[2023.01.05-12.55.33:142][197]AssetCheck: New page: Asset Save: Untitled30
+[2023.01.05-12.55.33:142][197]LogContentValidation: Display: Validating World /Game/Downtown_West/Maps/Untitled30.Untitled30
+[2023.01.05-12.55.33:329][197]LogAutomationController: Ignoring very large delta of 15.84 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
