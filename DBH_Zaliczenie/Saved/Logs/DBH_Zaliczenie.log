@@ -8240,3 +8240,10 @@ Script Stack (0 frames):
 [2023.01.05-14.55.52:855][256]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_NPC341854A640137AAA591A1789BF84BDE6.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AI/BP_NPC.uasset'
 [2023.01.05-14.55.52:890][256]AssetCheck: New page: Asset Save: BP_NPC
 [2023.01.05-14.55.52:890][256]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_NPC.BP_NPC
+[2023.01.05-14.57.39:891][253]BlueprintLog: New page: Compile BP_NPC
+[2023.01.05-14.57.40:133][253]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2023.01.05-14.57.40:756][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BP_NPC" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AI/BP_NPC.uasset" SILENT=true
+[2023.01.05-14.57.40:771][265]LogSavePackage: Moving output files for package: /Game/AI/BP_NPC
+[2023.01.05-14.57.40:771][265]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/BP_NPC09E84A5D4F64553E90165188E6BF0E58.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AI/BP_NPC.uasset'
+[2023.01.05-14.57.40:808][265]AssetCheck: New page: Asset Save: BP_NPC
+[2023.01.05-14.57.40:808][265]LogContentValidation: Display: Validating Blueprint /Game/AI/BP_NPC.BP_NPC
