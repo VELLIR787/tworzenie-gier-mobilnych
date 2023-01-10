@@ -6091,3 +6091,408 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.01.10-15.26.55:438][432]LogContentValidation: Display: Validating World /Game/CheapHotel/Maps/Untitled12.Untitled12
 [2023.01.10-15.36.07:909][567]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
 [2023.01.10-15.36.07:914][567]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CheapHotel/Maps/Demo' took 0.173
+[2023.01.10-15.42.12:726][778]LogSlate: Window 'Content Browser' being destroyed
+[2023.01.10-15.42.12:774][778]LogSlate: Window 'Content Browser' being destroyed
+[2023.01.10-15.42.13:782][815]LogSlate: Window 'Content Browser' being destroyed
+[2023.01.10-15.42.13:831][815]LogSlate: Window 'Content Browser' being destroyed
+[2023.01.10-15.42.30:363][ 45]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../gfdg/MyProject/Content/Sound/AliceMonologue.wav)
+[2023.01.10-15.42.30:392][ 45]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave AliceMonologue...
+[2023.01.10-15.42.30:393][ 45]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/AliceMonologue.AliceMonologue will be modified from 40 to 40.
+[2023.01.10-15.42.30:887][ 45]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 7951516 while cooking SoundWave /Game/Sound/AliceMonologue.AliceMonologue.
+[2023.01.10-15.42.30:889][ 45]LogAudio: Display: Chunk size for SoundWave /Game/Sound/AliceMonologue.AliceMonologue: 262144
+[2023.01.10-15.42.30:920][ 45]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../gfdg/MyProject/Content/Sound/KaraAnswer1.wav)
+[2023.01.10-15.42.30:923][ 45]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave KaraAnswer1...
+[2023.01.10-15.42.30:924][ 45]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/KaraAnswer1.KaraAnswer1 will be modified from 40 to 40.
+[2023.01.10-15.42.30:975][ 45]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 825364 while cooking SoundWave /Game/Sound/KaraAnswer1.KaraAnswer1.
+[2023.01.10-15.42.30:975][ 45]LogAudio: Display: Chunk size for SoundWave /Game/Sound/KaraAnswer1.KaraAnswer1: 262144
+[2023.01.10-15.42.30:989][ 45]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../gfdg/MyProject/Content/Sound/KaraAnswer2.wav)
+[2023.01.10-15.42.30:990][ 45]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave KaraAnswer2...
+[2023.01.10-15.42.30:991][ 45]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/KaraAnswer2.KaraAnswer2 will be modified from 40 to 40.
+[2023.01.10-15.42.31:025][ 45]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 564836 while cooking SoundWave /Game/Sound/KaraAnswer2.KaraAnswer2.
+[2023.01.10-15.42.31:025][ 45]LogAudio: Display: Chunk size for SoundWave /Game/Sound/KaraAnswer2.KaraAnswer2: 262144
+[2023.01.10-15.42.41:604][420]LogStatusBar: Looking status bar with open content browser drawer...
+[2023.01.10-15.42.41:604][420]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2023.01.10-15.42.46:234][551]LogStatusBar: Looking status bar with open content browser drawer...
+[2023.01.10-15.42.46:234][551]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2023.01.10-15.42.49:552][676]LogStatusBar: Looking status bar with open content browser drawer...
+[2023.01.10-15.42.49:552][676]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2023.01.10-15.42.55:923][911]LogStatusBar: Looking status bar with open content browser drawer...
+[2023.01.10-15.42.55:923][911]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2023.01.10-15.43.23:280][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.01.10-15.43.26:706][ 52]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AliceUI/TEXTLINES11.TEXTLINES11
+[2023.01.10-15.43.26:706][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.43.26:748][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.43.27:118][ 52]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.43.27:118][ 52]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.43.42:815][455]BlueprintLog: New page: Compile TEXTLINES11
+[2023.01.10-15.43.43:000][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.01.10-15.43.43:828][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES11" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES11.uasset" SILENT=true
+[2023.01.10-15.43.43:832][467]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES11
+[2023.01.10-15.43.43:832][467]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES117A1D3E924B17B105BD0BC09B1CE7FC82.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES11.uasset'
+[2023.01.10-15.43.43:855][467]AssetCheck: New page: Asset Save: TEXTLINES11
+[2023.01.10-15.43.43:855][467]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES11.TEXTLINES11
+[2023.01.10-15.43.55:414][758]LogContentBrowser: Attempting asset rename: TEXTLINES11 -> TEXTLINES12
+[2023.01.10-15.43.55:495][758]LogMetaData: Removing '/Game/AliceUI/TEXTLINES12.SKEL_TEXTLINES12_C:Tick' ref from Metadata '/Game/AliceUI/TEXTLINES11.PackageMetaData'
+[2023.01.10-15.43.55:495][758]LogMetaData: Removing '/Game/AliceUI/TEXTLINES12.SKEL_TEXTLINES12_C:Construct' ref from Metadata '/Game/AliceUI/TEXTLINES11.PackageMetaData'
+[2023.01.10-15.43.55:495][758]LogMetaData: Removing '/Game/AliceUI/TEXTLINES12.SKEL_TEXTLINES12_C:PreConstruct' ref from Metadata '/Game/AliceUI/TEXTLINES11.PackageMetaData'
+[2023.01.10-15.43.55:495][758]LogMetaData: Removing '/Game/AliceUI/TEXTLINES12.SKEL_TEXTLINES12_C' ref from Metadata '/Game/AliceUI/TEXTLINES11.PackageMetaData'
+[2023.01.10-15.43.55:495][758]LogMetaData: Removing '/Game/AliceUI/TEXTLINES12.TEXTLINES12_C' ref from Metadata '/Game/AliceUI/TEXTLINES11.PackageMetaData'
+[2023.01.10-15.43.55:846][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES12" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES12.uasset" SILENT=true
+[2023.01.10-15.43.55:849][758]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES12
+[2023.01.10-15.43.55:849][758]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES12BA50CD0442C07646E475859D0A9DA591.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES12.uasset'
+[2023.01.10-15.43.56:052][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.01.10-15.43.56:191][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.01.10-15.43.56:344][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.01.10-15.43.56:362][758]AssetCheck: New page: Asset Save: TEXTLINES12
+[2023.01.10-15.43.56:362][758]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES12.TEXTLINES12
+[2023.01.10-15.44.01:123][894]LogContentBrowser: Deferred new asset file creation: TEXTLINES13
+[2023.01.10-15.44.01:144][894]LogContentBrowser: Creating deferred item: TEXTLINES13
+[2023.01.10-15.44.01:170][895]LogContentBrowser: Renaming the item being created (Deferred Item: TEXTLINES13).
+[2023.01.10-15.44.02:507][928]LogContentBrowser: Attempting asset rename: TEXTLINES13 -> TEXTLINES13
+[2023.01.10-15.44.02:665][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.01.10-15.44.02:675][928]LogContentBrowser: End creating deferred item TEXTLINES13
+[2023.01.10-15.45.21:397][877]BlueprintLog: New page: Compile TEXTLINES12
+[2023.01.10-15.45.21:606][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.01.10-15.45.22:329][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES12" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES12.uasset" SILENT=true
+[2023.01.10-15.45.22:333][886]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES12
+[2023.01.10-15.45.22:333][886]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES12F0143ADD4D2544B5405D619B4F6EB18C.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES12.uasset'
+[2023.01.10-15.45.22:354][886]AssetCheck: New page: Asset Save: TEXTLINES12
+[2023.01.10-15.45.22:354][886]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES12.TEXTLINES12
+[2023.01.10-15.45.25:141][965]LogContentBrowser: Deferred new asset file creation: TEXTLINES14
+[2023.01.10-15.45.25:161][965]LogContentBrowser: Creating deferred item: TEXTLINES14
+[2023.01.10-15.45.25:189][966]LogContentBrowser: Renaming the item being created (Deferred Item: TEXTLINES14).
+[2023.01.10-15.45.25:947][983]LogContentBrowser: Attempting asset rename: TEXTLINES14 -> TEXTLINES14
+[2023.01.10-15.45.26:108][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.01.10-15.45.26:118][983]LogContentBrowser: End creating deferred item TEXTLINES14
+[2023.01.10-15.45.26:874][996]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AliceUI/TEXTLINES14.TEXTLINES14
+[2023.01.10-15.45.26:874][996]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.45.26:920][996]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.45.27:283][996]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.45.27:283][996]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.46.32:856][931]BlueprintLog: New page: Compile TEXTLINES14
+[2023.01.10-15.46.33:058][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.01.10-15.46.33:815][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES14" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES14.uasset" SILENT=true
+[2023.01.10-15.46.33:818][939]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES14
+[2023.01.10-15.46.33:818][939]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES14B096D8CB428AB8AE01380E8A784B38E0.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES14.uasset'
+[2023.01.10-15.46.33:840][939]AssetCheck: New page: Asset Save: TEXTLINES14
+[2023.01.10-15.46.33:840][939]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES14.TEXTLINES14
+[2023.01.10-15.46.36:604][ 21]LogContentBrowser: Deferred new asset file creation: TEXTLINES15
+[2023.01.10-15.46.36:628][ 21]LogContentBrowser: Creating deferred item: TEXTLINES15
+[2023.01.10-15.46.36:654][ 22]LogContentBrowser: Renaming the item being created (Deferred Item: TEXTLINES15).
+[2023.01.10-15.46.37:312][ 37]LogContentBrowser: Attempting asset rename: TEXTLINES15 -> TEXTLINES15
+[2023.01.10-15.46.37:482][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.01.10-15.46.37:492][ 37]LogContentBrowser: End creating deferred item TEXTLINES15
+[2023.01.10-15.46.38:261][ 49]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AliceUI/TEXTLINES15.TEXTLINES15
+[2023.01.10-15.46.38:261][ 49]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.46.38:309][ 49]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.46.38:673][ 49]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.46.38:673][ 49]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.46.40:553][ 88]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.40:553][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.40:571][ 88]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.40:571][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.41:480][108]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.41:480][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.41:498][108]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.41:498][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.44:023][162]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.44:023][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.45:661][198]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.45:661][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.45:679][198]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.45:679][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.47:029][227]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.47:029][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.47:910][245]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.10-15.46.47:910][245]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.47:910][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.50:761][307]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.50:761][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.50:779][307]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.50:779][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.52:179][337]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.52:179][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.52:197][337]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.52:197][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.53:348][361]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.53:348][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.54:845][393]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.54:845][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.54:862][393]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.54:862][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.55:970][416]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.55:970][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.55:987][416]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.55:987][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.56:531][428]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.10-15.46.56:531][428]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.56:531][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.57:177][441]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.57:177][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.57:195][441]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.57:195][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.57:815][453]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.57:815][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.46.57:832][453]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2023.01.10-15.46.57:832][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.10-15.47.18:081][726]LogSlate: Window 'Save Asset As' being destroyed
+[2023.01.10-15.47.25:817][902]BlueprintLog: New page: Compile TEXTLINES15
+[2023.01.10-15.47.26:114][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.01.10-15.47.26:579][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES15" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES15.uasset" SILENT=true
+[2023.01.10-15.47.26:583][910]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES15
+[2023.01.10-15.47.26:583][910]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES155374AF3B41A3C7A48538BA9E593D701C.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES15.uasset'
+[2023.01.10-15.47.26:600][910]AssetCheck: New page: Asset Save: TEXTLINES15
+[2023.01.10-15.47.26:600][910]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES15.TEXTLINES15
+[2023.01.10-15.47.30:646][999]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.10-15.47.30:646][999]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.10-15.47.31:135][ 25]LogContentBrowser: Deferred new asset file creation: TEXTLINES16
+[2023.01.10-15.47.31:162][ 25]LogContentBrowser: Creating deferred item: TEXTLINES16
+[2023.01.10-15.47.31:186][ 26]LogContentBrowser: Renaming the item being created (Deferred Item: TEXTLINES16).
+[2023.01.10-15.47.32:181][ 48]LogContentBrowser: Attempting asset rename: TEXTLINES16 -> TEXTLINES16
+[2023.01.10-15.47.32:312][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.01.10-15.47.32:339][ 48]LogContentBrowser: End creating deferred item TEXTLINES16
+[2023.01.10-15.47.32:906][ 62]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AliceUI/TEXTLINES16.TEXTLINES16
+[2023.01.10-15.47.32:906][ 62]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.47.32:952][ 62]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.47.33:309][ 62]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.47.33:309][ 62]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.47.56:298][518]BlueprintLog: New page: Compile TEXTLINES16
+[2023.01.10-15.47.56:407][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.01.10-15.47.57:314][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES16" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES16.uasset" SILENT=true
+[2023.01.10-15.47.57:318][535]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES16
+[2023.01.10-15.47.57:318][535]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES1619D9EE9C46985AC05AD238B6C0B8BC10.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES16.uasset'
+[2023.01.10-15.47.57:335][535]AssetCheck: New page: Asset Save: TEXTLINES16
+[2023.01.10-15.47.57:336][535]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES16.TEXTLINES16
+[2023.01.10-15.47.59:786][600]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.10-15.47.59:786][600]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.10-15.48.00:212][621]LogContentBrowser: Deferred new asset file creation: TEXTLINES17
+[2023.01.10-15.48.00:232][621]LogContentBrowser: Creating deferred item: TEXTLINES17
+[2023.01.10-15.48.00:257][622]LogContentBrowser: Renaming the item being created (Deferred Item: TEXTLINES17).
+[2023.01.10-15.48.00:973][638]LogContentBrowser: Attempting asset rename: TEXTLINES17 -> TEXTLINES17
+[2023.01.10-15.48.01:057][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.01.10-15.48.01:068][638]LogContentBrowser: End creating deferred item TEXTLINES17
+[2023.01.10-15.48.02:238][665]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AliceUI/TEXTLINES17.TEXTLINES17
+[2023.01.10-15.48.02:238][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.48.02:285][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.48.02:648][665]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.48.02:648][665]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.48.38:440][392]BlueprintLog: New page: Compile TEXTLINES17
+[2023.01.10-15.48.38:556][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.01.10-15.48.39:263][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES17" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES17.uasset" SILENT=true
+[2023.01.10-15.48.39:267][404]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES17
+[2023.01.10-15.48.39:267][404]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES17DEC1946E401A57D3285C03B3242698FE.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES17.uasset'
+[2023.01.10-15.48.39:284][404]AssetCheck: New page: Asset Save: TEXTLINES17
+[2023.01.10-15.48.39:284][404]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES17.TEXTLINES17
+[2023.01.10-15.48.47:329][599]BlueprintLog: New page: Compile TEXTLINES17
+[2023.01.10-15.48.47:449][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.01.10-15.48.48:030][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES17" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES17.uasset" SILENT=true
+[2023.01.10-15.48.48:034][608]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES17
+[2023.01.10-15.48.48:034][608]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES17194FDC3A41BE33B52F0B5A80821F0584.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES17.uasset'
+[2023.01.10-15.48.48:053][608]AssetCheck: New page: Asset Save: TEXTLINES17
+[2023.01.10-15.48.48:053][608]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES17.TEXTLINES17
+[2023.01.10-15.48.50:315][683]LogContentBrowser: Deferred new asset file creation: TEXTLINES18
+[2023.01.10-15.48.50:346][683]LogContentBrowser: Creating deferred item: TEXTLINES18
+[2023.01.10-15.48.50:376][684]LogContentBrowser: Renaming the item being created (Deferred Item: TEXTLINES18).
+[2023.01.10-15.48.51:179][703]LogContentBrowser: Attempting asset rename: TEXTLINES18 -> TEXTLINES18
+[2023.01.10-15.48.51:271][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.01.10-15.48.51:283][703]LogContentBrowser: End creating deferred item TEXTLINES18
+[2023.01.10-15.48.52:186][724]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AliceUI/TEXTLINES18.TEXTLINES18
+[2023.01.10-15.48.52:187][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.48.52:229][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.48.52:592][724]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.48.52:592][724]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.49.36:172][441]BlueprintLog: New page: Compile TEXTLINES18
+[2023.01.10-15.49.36:295][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.01.10-15.49.36:980][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES18" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES18.uasset" SILENT=true
+[2023.01.10-15.49.36:984][452]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES18
+[2023.01.10-15.49.36:984][452]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES1845CB362140DB4B61D2417D82B99ED983.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES18.uasset'
+[2023.01.10-15.49.37:001][452]AssetCheck: New page: Asset Save: TEXTLINES18
+[2023.01.10-15.49.37:001][452]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES18.TEXTLINES18
+[2023.01.10-15.49.52:476][555]LogContentBrowser: Deferred new asset file creation: TEXTLINES19
+[2023.01.10-15.49.52:497][555]LogContentBrowser: Creating deferred item: TEXTLINES19
+[2023.01.10-15.49.52:525][556]LogContentBrowser: Renaming the item being created (Deferred Item: TEXTLINES19).
+[2023.01.10-15.49.53:249][572]LogContentBrowser: Attempting asset rename: TEXTLINES19 -> TEXTLINES19
+[2023.01.10-15.49.53:338][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.01.10-15.49.53:350][572]LogContentBrowser: End creating deferred item TEXTLINES19
+[2023.01.10-15.49.54:593][600]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AliceUI/TEXTLINES19.TEXTLINES19
+[2023.01.10-15.49.54:593][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.49.54:641][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.49.55:001][600]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.49.55:001][600]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.50.16:069][143]BlueprintLog: New page: Compile TEXTLINES19
+[2023.01.10-15.50.16:189][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.01.10-15.50.16:816][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES19" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES19.uasset" SILENT=true
+[2023.01.10-15.50.16:819][153]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES19
+[2023.01.10-15.50.16:819][153]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES19AB58830D4EA77C801AB26799FC8ACCD4.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES19.uasset'
+[2023.01.10-15.50.16:837][153]AssetCheck: New page: Asset Save: TEXTLINES19
+[2023.01.10-15.50.16:837][153]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES19.TEXTLINES19
+[2023.01.10-15.50.27:428][249]LogContentBrowser: Deferred new asset file creation: TEXTLINES20
+[2023.01.10-15.50.27:447][249]LogContentBrowser: Creating deferred item: TEXTLINES20
+[2023.01.10-15.50.27:474][250]LogContentBrowser: Renaming the item being created (Deferred Item: TEXTLINES20).
+[2023.01.10-15.50.28:176][266]LogContentBrowser: Attempting asset rename: TEXTLINES20 -> TEXTLINES20
+[2023.01.10-15.50.28:276][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.01.10-15.50.28:288][266]LogContentBrowser: End creating deferred item TEXTLINES20
+[2023.01.10-15.50.28:930][279]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AliceUI/TEXTLINES20.TEXTLINES20
+[2023.01.10-15.50.28:930][279]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.50.28:976][279]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.50.29:347][279]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.50.29:347][279]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.50.46:731][683]BlueprintLog: New page: Compile TEXTLINES20
+[2023.01.10-15.50.46:855][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.01.10-15.50.47:481][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES20" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES20.uasset" SILENT=true
+[2023.01.10-15.50.47:485][691]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES20
+[2023.01.10-15.50.47:485][691]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES20891E0E4740BC8438E4444EB3955DF5A6.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES20.uasset'
+[2023.01.10-15.50.47:502][691]AssetCheck: New page: Asset Save: TEXTLINES20
+[2023.01.10-15.50.47:502][691]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES20.TEXTLINES20
+[2023.01.10-15.50.50:158][773]LogContentBrowser: Deferred new asset file creation: TEXTLINES21
+[2023.01.10-15.50.50:181][773]LogContentBrowser: Creating deferred item: TEXTLINES21
+[2023.01.10-15.50.50:208][774]LogContentBrowser: Renaming the item being created (Deferred Item: TEXTLINES21).
+[2023.01.10-15.50.50:993][792]LogContentBrowser: Attempting asset rename: TEXTLINES21 -> TEXTLINES21
+[2023.01.10-15.50.51:099][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.01.10-15.50.51:111][792]LogContentBrowser: End creating deferred item TEXTLINES21
+[2023.01.10-15.50.51:971][811]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AliceUI/TEXTLINES21.TEXTLINES21
+[2023.01.10-15.50.51:971][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.50.52:017][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.50.52:382][811]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.50.52:382][811]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.50.59:642][989]BlueprintLog: New page: Compile TEXTLINES21
+[2023.01.10-15.50.59:785][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.01.10-15.51.00:532][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES21" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES21.uasset" SILENT=true
+[2023.01.10-15.51.00:536][  0]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES21
+[2023.01.10-15.51.00:536][  0]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES21E4B86A2743C706683315E5A47704E7F6.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES21.uasset'
+[2023.01.10-15.51.00:552][  0]AssetCheck: New page: Asset Save: TEXTLINES21
+[2023.01.10-15.51.00:552][  0]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES21.TEXTLINES21
+[2023.01.10-15.51.05:796][123]LogContentBrowser: Deferred new asset file creation: TEXTLINES22
+[2023.01.10-15.51.05:815][123]LogContentBrowser: Creating deferred item: TEXTLINES22
+[2023.01.10-15.51.05:846][124]LogContentBrowser: Renaming the item being created (Deferred Item: TEXTLINES22).
+[2023.01.10-15.51.06:505][139]LogContentBrowser: Attempting asset rename: TEXTLINES22 -> TEXTLINES22
+[2023.01.10-15.51.06:616][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.01.10-15.51.06:629][139]LogContentBrowser: End creating deferred item TEXTLINES22
+[2023.01.10-15.51.07:302][152]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AliceUI/TEXTLINES22.TEXTLINES22
+[2023.01.10-15.51.07:303][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.51.07:348][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.51.07:714][152]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.51.07:714][152]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.52.17:593][806]BlueprintLog: New page: Compile TEXTLINES22
+[2023.01.10-15.52.17:740][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.01.10-15.52.19:448][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES22" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES22.uasset" SILENT=true
+[2023.01.10-15.52.19:452][837]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES22
+[2023.01.10-15.52.19:452][837]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES22F60EF289464F677C11897C8E891E4262.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES22.uasset'
+[2023.01.10-15.52.19:469][837]AssetCheck: New page: Asset Save: TEXTLINES22
+[2023.01.10-15.52.19:469][837]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES22.TEXTLINES22
+[2023.01.10-15.52.22:060][915]LogContentBrowser: Deferred new asset file creation: TEXTLINES23
+[2023.01.10-15.52.22:082][915]LogContentBrowser: Creating deferred item: TEXTLINES23
+[2023.01.10-15.52.22:111][916]LogContentBrowser: Renaming the item being created (Deferred Item: TEXTLINES23).
+[2023.01.10-15.52.22:847][932]LogContentBrowser: Attempting asset rename: TEXTLINES23 -> TEXTLINES23
+[2023.01.10-15.52.22:968][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.01.10-15.52.22:981][932]LogContentBrowser: End creating deferred item TEXTLINES23
+[2023.01.10-15.52.23:740][945]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AliceUI/TEXTLINES23.TEXTLINES23
+[2023.01.10-15.52.23:741][945]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.52.23:787][945]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.52.24:147][945]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.52.24:147][945]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.52.41:194][306]BlueprintLog: New page: Compile TEXTLINES23
+[2023.01.10-15.52.41:349][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.01.10-15.52.42:167][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES23" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES23.uasset" SILENT=true
+[2023.01.10-15.52.42:170][317]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES23
+[2023.01.10-15.52.42:170][317]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES2341D904B84D8BDDC2208C558528006043.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES23.uasset'
+[2023.01.10-15.52.42:188][317]AssetCheck: New page: Asset Save: TEXTLINES23
+[2023.01.10-15.52.42:188][317]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES23.TEXTLINES23
+[2023.01.10-15.52.50:516][410]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.10-15.52.50:516][410]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.10-15.52.51:020][433]LogContentBrowser: Deferred new asset file creation: TEXTLINES24
+[2023.01.10-15.52.51:049][433]LogContentBrowser: Creating deferred item: TEXTLINES24
+[2023.01.10-15.52.51:078][434]LogContentBrowser: Renaming the item being created (Deferred Item: TEXTLINES24).
+[2023.01.10-15.52.51:869][452]LogContentBrowser: Attempting asset rename: TEXTLINES24 -> TEXTLINES24
+[2023.01.10-15.52.51:992][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.01.10-15.52.52:004][452]LogContentBrowser: End creating deferred item TEXTLINES24
+[2023.01.10-15.52.52:914][468]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AliceUI/TEXTLINES24.TEXTLINES24
+[2023.01.10-15.52.52:914][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.52.52:960][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.52.53:325][468]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.52.53:325][468]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.53.04:941][735]BlueprintLog: New page: Compile TEXTLINES24
+[2023.01.10-15.53.05:103][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.01.10-15.53.05:799][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES24" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES24.uasset" SILENT=true
+[2023.01.10-15.53.05:803][742]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES24
+[2023.01.10-15.53.05:803][742]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES243E60D38242C141EA49420EB4C9064D00.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES24.uasset'
+[2023.01.10-15.53.05:822][742]AssetCheck: New page: Asset Save: TEXTLINES24
+[2023.01.10-15.53.05:822][742]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES24.TEXTLINES24
+[2023.01.10-15.53.08:323][816]LogContentBrowser: Deferred new asset file creation: TEXTLINES25
+[2023.01.10-15.53.08:350][816]LogContentBrowser: Creating deferred item: TEXTLINES25
+[2023.01.10-15.53.08:382][817]LogContentBrowser: Renaming the item being created (Deferred Item: TEXTLINES25).
+[2023.01.10-15.53.09:400][840]LogContentBrowser: Attempting asset rename: TEXTLINES25 -> TEXTLINES25
+[2023.01.10-15.53.09:528][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.01.10-15.53.09:541][840]LogContentBrowser: End creating deferred item TEXTLINES25
+[2023.01.10-15.53.10:974][875]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.10-15.53.10:974][875]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.10-15.53.11:450][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES25" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES25.uasset" SILENT=true
+[2023.01.10-15.53.11:453][894]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES25
+[2023.01.10-15.53.11:453][894]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES253C54D922440525D45A6F5699118B6F77.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES25.uasset'
+[2023.01.10-15.53.11:471][894]AssetCheck: New page: Asset Save: TEXTLINES25
+[2023.01.10-15.53.11:471][894]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES25.TEXTLINES25
+[2023.01.10-15.53.12:680][922]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.10-15.53.12:680][922]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.01.10-15.53.13:106][940]LogContentBrowser: Deferred new asset file creation: TEXTLINES26
+[2023.01.10-15.53.13:132][940]LogContentBrowser: Creating deferred item: TEXTLINES26
+[2023.01.10-15.53.13:163][941]LogContentBrowser: Renaming the item being created (Deferred Item: TEXTLINES26).
+[2023.01.10-15.53.13:870][957]LogContentBrowser: Attempting asset rename: TEXTLINES26 -> TEXTLINES26
+[2023.01.10-15.53.13:997][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.01.10-15.53.14:009][957]LogContentBrowser: End creating deferred item TEXTLINES26
+[2023.01.10-15.53.15:017][974]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AliceUI/TEXTLINES25.TEXTLINES25
+[2023.01.10-15.53.15:017][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.53.15:064][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.53.15:428][974]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.53.15:428][974]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.53.28:992][258]BlueprintLog: New page: Compile TEXTLINES25
+[2023.01.10-15.53.29:162][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.01.10-15.53.29:983][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES25" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES25.uasset" SILENT=true
+[2023.01.10-15.53.29:987][268]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES25
+[2023.01.10-15.53.29:987][268]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES2516C8E9374C8268F971AA2DBC555A15B6.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES25.uasset'
+[2023.01.10-15.53.30:004][268]AssetCheck: New page: Asset Save: TEXTLINES25
+[2023.01.10-15.53.30:004][268]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES25.TEXTLINES25
+[2023.01.10-15.53.31:709][312]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AliceUI/TEXTLINES26.TEXTLINES26
+[2023.01.10-15.53.31:709][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.53.31:756][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.53.32:119][312]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.53.32:119][312]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.53.42:103][546]BlueprintLog: New page: Compile TEXTLINES26
+[2023.01.10-15.53.42:267][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.01.10-15.53.43:250][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AliceUI/TEXTLINES26" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES26.uasset" SILENT=true
+[2023.01.10-15.53.43:255][558]LogSavePackage: Moving output files for package: /Game/AliceUI/TEXTLINES26
+[2023.01.10-15.53.43:255][558]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES26D5EED85A4748F6A3656C3F936EFBD58A.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Content/AliceUI/TEXTLINES26.uasset'
+[2023.01.10-15.53.43:272][558]AssetCheck: New page: Asset Save: TEXTLINES26
+[2023.01.10-15.53.43:272][558]LogContentValidation: Display: Validating WidgetBlueprint /Game/AliceUI/TEXTLINES26.TEXTLINES26
+[2023.01.10-15.53.58:600][673]LogSlate: Window 'Content Browser' being destroyed
+[2023.01.10-15.53.58:608][673]LogSlate: Window 'Content Browser' being destroyed
+[2023.01.10-15.54.04:175][856]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/AliceUI/AliceWidget.AliceWidget
+[2023.01.10-15.54.04:175][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.54.04:216][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.10-15.54.04:587][856]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.54.04:587][856]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.10-15.55.17:575][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.01.10-15.55.17:580][ 54]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CheapHotel/Maps/Demo' took 0.163
+[2023.01.10-15.55.17:580][ 54]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/AliceMonologue] ([1] browsable assets)...
+[2023.01.10-15.55.17:587][ 54]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/AliceMonologue.AliceMonologue]
+[2023.01.10-15.55.17:587][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/AliceMonologue]
+[2023.01.10-15.55.17:590][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sound/AliceMonologue_Auto8
+[2023.01.10-15.55.17:590][ 54]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/AliceMonologue_Auto851FA086D41D235D10582D2A6F95A352F.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Sound/AliceMonologue_Auto8.uasset'
+[2023.01.10-15.55.17:590][ 54]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/KaraAnswer1] ([1] browsable assets)...
+[2023.01.10-15.55.17:592][ 54]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/KaraAnswer1.KaraAnswer1]
+[2023.01.10-15.55.17:592][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/KaraAnswer1]
+[2023.01.10-15.55.17:592][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/KaraAnswer1" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Sound/KaraAnswer1_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2023.01.10-15.55.17:593][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sound/KaraAnswer1_Auto8
+[2023.01.10-15.55.17:593][ 54]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/KaraAnswer1_Auto830B622454AB3121C9995178A853F9AD9.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Sound/KaraAnswer1_Auto8.uasset'
+[2023.01.10-15.55.17:594][ 54]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/KaraAnswer2] ([1] browsable assets)...
+[2023.01.10-15.55.17:595][ 54]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/KaraAnswer2.KaraAnswer2]
+[2023.01.10-15.55.17:595][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/KaraAnswer2]
+[2023.01.10-15.55.17:595][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/KaraAnswer2" FILE="../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Sound/KaraAnswer2_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2023.01.10-15.55.17:597][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sound/KaraAnswer2_Auto8
+[2023.01.10-15.55.17:597][ 54]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/KaraAnswer2_Auto8516A24514B45C837379576823C6735F5.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/Sound/KaraAnswer2_Auto8.uasset'
+[2023.01.10-15.55.17:597][ 54]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AliceUI/TEXTLINES13] ([2] browsable assets)...
+[2023.01.10-15.55.17:600][ 54]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/AliceUI/TEXTLINES13.TEXTLINES13]
+[2023.01.10-15.55.17:600][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/AliceUI/TEXTLINES13]
+[2023.01.10-15.55.17:604][ 54]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AliceUI/TEXTLINES13_Auto8
+[2023.01.10-15.55.17:604][ 54]LogSavePackage: Moving '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/TEXTLINES13_Auto8F2EBF29F49C1FBB3F4DCE38EBC0861DC.tmp' to '../../../../../GitHub/tworzenie-gier-mobilnych/DBH_Zaliczenie/Saved/Autosaves/Game/AliceUI/TEXTLINES13_Auto8.uasset'
+[2023.01.10-15.55.17:604][ 54]LogFileHelpers: Auto-saving content packages took 0.024
+[2023.01.10-15.55.18:048][ 57]LogDerivedDataCache: C:/Users/MK170/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.576 and deleted 0 file(s) with total size 0 MiB.
